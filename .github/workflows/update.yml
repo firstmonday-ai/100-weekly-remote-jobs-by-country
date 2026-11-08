@@ -1,0 +1,80 @@
+# Every Monday at 06:00 UTC (and by hand: Actions → Update the lists → Run workflow), fetch this week's lists from
+# firstmonday.ai and commit them, one commit for every country. The endpoint is public and needs no secret: it
+# answers only what this repo shows. If it fails, or answers anything but this week's files, every one of them and
+# none empty, the run fails and changes nothing.
+name: Update the lists
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-lists
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      ENDPOINT: https://firstmonday.ai/api/github-lists
+      # the files the repo holds: the root README and one per country, by the site's country slugs
+      FILES: >-
+        README.md
+        united-states/README.md canada/README.md united-kingdom/README.md ireland/README.md germany/README.md
+        netherlands/README.md belgium/README.md austria/README.md switzerland/README.md sweden/README.md
+        denmark/README.md norway/README.md finland/README.md poland/README.md spain/README.md portugal/README.md
+        australia/README.md new-zealand/README.md mexico/README.md brazil/README.md india/README.md
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Fetch this week's lists
+        run: |
+          set -euo pipefail
+          week="$(date -u +%G-W%V)"
+          echo "WEEK=$week" >> "$GITHUB_ENV"
+          curl --fail --silent --show-error --max-time 120 --retry 3 --retry-delay 60 --retry-all-errors \
+            --proto '=https' --max-filesize 20000000 \
+            -H 'Accept: application/json' -A "${GITHUB_REPOSITORY} (GitHub Actions)" \
+            "${ENDPOINT}?week=${week}" -o "$RUNNER_TEMP/lists.json"
+
+      - name: Check them
+        run: |
+          set -euo pipefail
+          expected="$(printf '%s\n' $FILES | jq -R . | jq -s 'sort')"
+          jq -e --arg week "$WEEK" --argjson expected "$expected" '
+            .week == $week
+            and (.generatedAt | type == "string")
+            and (.files | type == "object")
+            and ((.files | keys) == $expected)
+            and ([.files[] | type == "string" and length > 100 and length < 1000000] | all)
+          ' "$RUNNER_TEMP/lists.json" > /dev/null || {
+            echo "::error::The lists for $WEEK aren't what this repo expects: nothing was changed."
+            jq -c '{week, generatedAt, files: ((.files // {}) | map_values(length))}' "$RUNNER_TEMP/lists.json" || true
+            exit 1
+          }
+
+      - name: Write them
+        run: |
+          set -euo pipefail
+          for path in $FILES; do
+            mkdir -p "$(dirname "$path")"
+            jq -j --arg path "$path" '.files[$path]' "$RUNNER_TEMP/lists.json" > "$path"
+          done
+
+      - name: Commit
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- $FILES
+          if git diff --cached --quiet; then
+            echo "No change for $WEEK."
+            exit 0
+          fi
+          git commit -m "Week $WEEK"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
