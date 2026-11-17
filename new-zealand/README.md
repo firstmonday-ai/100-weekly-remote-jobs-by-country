@@ -1,10 +1,10 @@
-# 42 best new remote jobs open to people in New Zealand
+# 37 best new remote jobs open to people in New Zealand
 
-Week of Mon 16 Nov 2026 · 42 of 54 open · from employers' own job boards
+Week of Mon 16 Nov 2026 · 37 of 49 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in New Zealand, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 9 · [Sales](#sales) 5 · [Customer success](#customer-success) 1 · [Data and AI](#data-and-ai) 1 · [Operations](#operations) 8 · [Finance](#finance) 1 · [People and HR](#people-and-hr) 2 · [Marketing](#marketing) 6 · [Product and design](#product-and-design) 2 · [Healthcare](#healthcare) 1 · [Education](#education) 3 · [Other](#other) 3
+[Engineering](#engineering) 7 · [Sales](#sales) 5 · [Customer success](#customer-success) 1 · [Data and AI](#data-and-ai) 1 · [Operations](#operations) 6 · [Finance](#finance) 1 · [People and HR](#people-and-hr) 2 · [Marketing](#marketing) 6 · [Product and design](#product-and-design) 2 · [Healthcare](#healthcare) 1 · [Education](#education) 2 · [Other](#other) 3
 
 ## Engineering
 
@@ -12,13 +12,11 @@ Every job below says, in its own words, that it hires in New Zealand, or anywher
 | --- | --- | --- | --- | --- | --- |
 | Solution Architect – D365 | Datacom | – | Nov 11 | “New Zealand · Australia · Auckland, New Zealand · Wellington…” | [Details](https://firstmonday.ai/jobs/solution-architect-datacom-15df0a7d?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | Senior Full Stack Engineer – AI Harness | Xero | – | Nov 10 | “This role is open to candidates based in New Zealand” | [Details](https://firstmonday.ai/jobs/senior-full-stack-engineer-ai-harness-xero-0c489f53?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
-| Senior Reliability Engineer | Halter | – | Nov 10 | “New Zealand” | [Details](https://firstmonday.ai/jobs/senior-reliability-engineer-halter-15be3595?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
-| Senior Cybersecurity Analyst | GDIT | $106,250 - $143,750/yr · currency not stated | Nov 12 | “Any Location / Remote” | [Details](https://firstmonday.ai/jobs/senior-cybersecurity-analyst-gdit-8290fb21?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | Head of Engineering (Frontier Safety) | FAR.AI | $225k–350k/yr | Nov 11 | “Location: Remote globally.” | [Details](https://firstmonday.ai/jobs/head-of-engineering-frontier-safety-far-ai-2b1e2a28?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | IT Support Engineer | Monarch Money | $118k–139k/yr | Nov 10 | “we welcome applicants from almost anywhere” | [Details](https://firstmonday.ai/jobs/it-support-engineer-monarch-money-d3856585?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | 2D Game Developer (Defold) | Your Software Supplier | $70–130/hr | Nov 9 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/2d-game-developer-defold-remote-worldwide-your-software-supplier-25992078?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | Senior Solution Architect (Senior Manager) | Huron | $150k–200k/yr | Nov 9 | “Travel Requirements : Flexible living locations, ability to travel…” | [Details](https://firstmonday.ai/jobs/senior-solution-architect-senior-manager-huron-5b3de548?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
-| Salesforce Developer | Centre for Effective Altruism | $105k/yr | Oct 30 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/salesforce-developer-centre-for-effective-altruism-a4017f70?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
+| Salesforce Developer | Centre for Effective Altruism | – | Oct 30 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/salesforce-developer-centre-for-effective-altruism-a4017f70?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 
 ## Sales
 
@@ -52,8 +50,6 @@ Every job below says, in its own words, that it hires in New Zealand, or anywher
 | Business Operations Associate | Trust Wallet | – | Nov 11 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/business-operations-associate-trust-wallet-79af1b8f?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | General Operation Intern | Web Redefine | – | Nov 8 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/general-operation-intern-web-redefine-2b2ccc51?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | GeM Portal Operator & Lead Generation | Web Redefine | – | Nov 8 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/gem-portal-operator-lead-generation-web-redefine-aa4fe8a2?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
-| Voice Provisioning, Activation & Support Specialist | TCCA | – | Nov 4 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/voice-provisioning-activation-support-specialist-tcca-8a4f5ae0?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
-| Lead Sourcing Specialist – Tender and Project Sourcing | GE Vernova | – | Oct 23 | “Rugby · Remote · Birr · Elblag · Baden” | [Details](https://firstmonday.ai/jobs/lead-sourcing-specialist-tender-and-project-sourcing-ge-vernova-85a965d4?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 
 ## Finance
 
@@ -96,7 +92,6 @@ Every job below says, in its own words, that it hires in New Zealand, or anywher
 
 | Job | Company | Pay | Posted | Why it's open to New Zealand | Details |
 | --- | --- | --- | --- | --- | --- |
-| Workday Student Advising and Curriculum Management Principal Consultant | Collaborative | – | Nov 11 | “NZL - New Zealand - Remote · AUS - Australia - Sydney · AUS…” | [Details](https://firstmonday.ai/jobs/workday-student-advising-and-curriculum-management-principal-consultant-collaborative-9c885764?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | British English Voice Expert | Your Software Supplier | $40–65/hr | Nov 9 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/british-english-voice-expert-remote-worldwide-your-software-supplier-2cb6d71b?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 | Research Assistant (Research) | Duolingo | – | Nov 13 | “Worldwide” | [Details](https://firstmonday.ai/jobs/research-assistant-research-duolingo-d9877305?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w47) |
 

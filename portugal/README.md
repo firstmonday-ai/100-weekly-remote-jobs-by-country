@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in Portugal
 
-Week of Mon 16 Nov 2026 · 100 of 202 open · from employers' own job boards
+Week of Mon 16 Nov 2026 · 100 of 196 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Portugal. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 31 · [Sales](#sales) 13 · [Customer success](#customer-success) 10 · [Data and AI](#data-and-ai) 2 · [Operations](#operations) 2 · [Finance](#finance) 4 · [People and HR](#people-and-hr) 3 · [Marketing](#marketing) 15 · [Product and design](#product-and-design) 9 · [Healthcare](#healthcare) 1 · [Other](#other) 10
+[Engineering](#engineering) 30 · [Sales](#sales) 13 · [Customer success](#customer-success) 9 · [Data and AI](#data-and-ai) 3 · [Operations](#operations) 2 · [Finance](#finance) 5 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 15 · [Product and design](#product-and-design) 8 · [Healthcare](#healthcare) 1 · [Other](#other) 10
 
 ## Engineering
 
@@ -18,9 +18,8 @@ Every job below says, in its own words, that it hires in Portugal. We first saw 
 | Senior Software Engineer, Production | Matter Labs | $192k–230k/yr | Nov 12 | “You must be based in the US or the EU, with the US preferred; some…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-production-matter-labs-752ceb74?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Principal Database Engineer | Kraken | $161k–358k/yr | Nov 11 | “United Kingdom · Brazil · United Arab Emirates · Ireland · Peru ·…” | [Details](https://firstmonday.ai/jobs/principal-database-engineer-kraken-1a95ce8e?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Technical Program Manager – IP Backbone | Nebius | $180k–230k/yr | Nov 11 | “Remote - Europe · Remote - United States” | [Details](https://firstmonday.ai/jobs/technical-program-manager-ip-backbone-nebius-3427c5a5?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
-| Hands-on Engineering Manager, Infrastructure | Miaplaza | €82k–140k/yr | Nov 9 | “Location: 100% remote (EMEA)” | [Details](https://firstmonday.ai/jobs/hands-on-engineering-manager-infrastructure-miaplaza-03453201?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
-| Internal Tools Engineer | Nutrient | – | Nov 13 | “Spain · Poland · Romania · Netherlands · United Kingdom · Portugal ·…” | [Details](https://firstmonday.ai/jobs/internal-tools-engineer-nutrient-d7bdabe9?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
-| Senior Software Engineer, Cloud Platform | Qdrant | – | Nov 13 | “Remote - EMEA · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-cloud-platform-qdrant-b5f1ff33?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
+| Hands-on Engineering Manager DevOps (GCP/Kubernetes) | Miaplaza | €82k–140k/yr | Nov 9 | “Location: 100% remote (EMEA)” | [Details](https://firstmonday.ai/jobs/hands-on-engineering-manager-infrastructure-miaplaza-03453201?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
+| Internal Tools Engineer | Nutrient | – | Nov 13 | “Romania · United Kingdom · Spain · Poland · Netherlands · Portugal ·…” | [Details](https://firstmonday.ai/jobs/internal-tools-engineer-nutrient-d7bdabe9?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Senior Software Engineer, Cluster & Lifecycle | Qdrant | – | Nov 13 | “Remote - EMEA · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-cluster-lifecycle-qdrant-ca317b70?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Site Assessment & Preparation Specialist | GE Vernova | – | Nov 13 | “Remote” | [Details](https://firstmonday.ai/jobs/site-assessment-preparation-specialist-ge-vernova-e1865370?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | AI Platform Engineer | Polygon Labs | – | Nov 12 | “EMEA - Remote · USA - Remote” | [Details](https://firstmonday.ai/jobs/ai-platform-engineer-polygon-labs-ca799570?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
@@ -64,12 +63,11 @@ Every job below says, in its own words, that it hires in Portugal. We first saw 
 
 | Job | Company | Pay | Posted | Why it's open to Portugal | Details |
 | --- | --- | --- | --- | --- | --- |
-| Customer Support Specialist (English + German as mandatory) – Full Time remote | Alphanumeric Systems | €23k–27k/yr · employment gross | Nov 11 | “Please be aware we can only hire people already based in Portugal…” | [Details](https://firstmonday.ai/jobs/customer-support-specialist-english-german-as-mandatory-full-time-remote-based-in-portugal-alphanumeric-systems-56b47bf4?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
+| Customer Support Specialist (English + German as mandatory) – Full Time remote | Alphanumeric Systems | €23k–27k/yr · employment gross | – | “Please be aware we can only hire people already based in Portugal…” | [Details](https://firstmonday.ai/jobs/customer-support-specialist-english-german-as-mandatory-full-time-remote-based-in-portugal-alphanumeric-systems-56b47bf4?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Amazon DSP Account Manager | Trivium | $3k–$4k per month · currency not stated | Nov 10 | “Serbia · United Kingdom · Brazil · Mexico · Portugal · Argentina” | [Details](https://firstmonday.ai/jobs/amazon-dsp-account-manager-trivium-9b915fcd?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Onboarding Customer Support Advisor – Night Shift | otonomee | €15,250/mo | Nov 9 | “This is a work-from home position based in Portugal.” | [Details](https://firstmonday.ai/jobs/onboarding-customer-support-advisor-night-shift-remote-in-portugal-otonomee-cc3bffcd?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Customer Support Advisor | otonomee | €15,250/mo · employment | Nov 9 | “Location: Remote based in (Portugal)” | [Details](https://firstmonday.ai/jobs/customer-support-advisor-remote-in-portugal-otonomee-b4f0542b?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
-| Support Operator | GRID eSports | – | Nov 13 | “Wroclaw, Poland · Sofia, Bulgaria · Tirana, Albania · Sarajevo…” | [Details](https://firstmonday.ai/jobs/support-operator-emea-grid-esports-595e5f7f?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
-| Customer Support Services Fiduciary Agent | Jimdo | – | Nov 13 | “Germany · Italy · Portugal · Spain” | [Details](https://firstmonday.ai/jobs/customer-support-services-fiduciary-agent-jimdo-613cf806?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
+| Support Operator | GRID eSports | – | – | “Wroclaw, Poland · Sofia, Bulgaria · Tirana, Albania · Sarajevo…” | [Details](https://firstmonday.ai/jobs/support-operator-emea-grid-esports-595e5f7f?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Senior Customer Success Engineer – Cortex Cloud | Palo Alto Networks | – | Nov 13 | “Remote - Spain · Remote - Belgium · Remote - Netherlands · Remote…” | [Details](https://firstmonday.ai/jobs/senior-customer-success-engineer-cortex-cloud-palo-alto-networks-ecdcd4f5?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Principal Consultant | WorkWave | – | Nov 12 | “This role is based in EMEA (UK working hours), with global reach…” | [Details](https://firstmonday.ai/jobs/principal-consultant-workwave-saas-6ca5cd91?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | AI Deployment Specialist | Firstwork | – | – | “Remote, EMEA · LATAM” | [Details](https://firstmonday.ai/jobs/ai-deployment-specialist-emea-latam-firstwork-64152ba9?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
@@ -79,8 +77,9 @@ Every job below says, in its own words, that it hires in Portugal. We first saw 
 
 | Job | Company | Pay | Posted | Why it's open to Portugal | Details |
 | --- | --- | --- | --- | --- | --- |
-| Legal Expert (EU Law), AI Evaluation | Clera | $60–85/hr | Nov 14 | “Fully remote, with location flexible. Relevant EU legal training and…” | [Details](https://firstmonday.ai/jobs/legal-expert-eu-law-ai-evaluation-clera-6ca82762?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Senior ML & AI Engineer | SPD Technology | – | Nov 11 | “Ukraine · Poland · Romania · Spain · Portugal · Croatia” | [Details](https://firstmonday.ai/jobs/senior-ml-ai-engineer-spd-technology-3897cd0f?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
+| Research Scientist / Engineer, Alignment & Reward Modeling | ellamind | – | Nov 10 | “You live in the EU and are allowed to work here.” | [Details](https://firstmonday.ai/jobs/research-scientist-engineer-alignment-reward-modeling-ellamind-8284ed26?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
+| Research Engineer / Scientist, Agentic RL Post-Training | ellamind | – | Nov 10 | “You live in the EU and are allowed to work here.” | [Details](https://firstmonday.ai/jobs/research-engineer-scientist-agentic-rl-post-training-ellamind-69029f38?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 
 ## Operations
 
@@ -97,11 +96,13 @@ Every job below says, in its own words, that it hires in Portugal. We first saw 
 | Corporate Audit Manager | Amgen | $96k–131k/yr | Oct 29 | “United States - Remote · Portugal - Remote” | [Details](https://firstmonday.ai/jobs/corporate-audit-manager-amgen-30f42c04?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Head of M&A (Pallas) | Vesta | – | Nov 12 | “Remote - Europe · Remote - UK” | [Details](https://firstmonday.ai/jobs/head-of-m-a-pallas-vesta-c28be2c9?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Head of M&A (Pallas) | Jonas | – | Nov 12 | “Remote - Europe · Remote - UK” | [Details](https://firstmonday.ai/jobs/head-of-m-a-pallas-jonas-9b9a1f34?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
+| Senior AP Accountant | Nebius | – | Nov 11 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/senior-ap-accountant-nebius-3497edc3?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 
 ## People and HR
 
 | Job | Company | Pay | Posted | Why it's open to Portugal | Details |
 | --- | --- | --- | --- | --- | --- |
+| Clinical Recruiter at AIOS- Remote, $100-200k inc equity | AIOS | $100k–200k/yr | Nov 13 | “Remote (UK hours) · US · Remote (EU)” | [Details](https://firstmonday.ai/jobs/clinical-recruiter-at-aios-remote-100-200k-inc-equity-aios-07347aca?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Global Benefits Analyst | Safeguard Global | From €28k/yr · gross | Nov 13 | “South Africa - Remote · Spain - remote · Portugal - remote” | [Details](https://firstmonday.ai/jobs/global-benefits-analyst-safeguard-global-bc2a8c86?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Onboarding Specialist EMEA | Remote People | – | Nov 11 | “EMEA (Remote)” | [Details](https://firstmonday.ai/jobs/onboarding-specialist-emea-remote-people-9c57665e?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Employee Experience Specialist On/Off boarding-EMEA | RemotePass | – | Nov 11 | “South Africa · Nigeria · Portugal · Spain · India” | [Details](https://firstmonday.ai/jobs/employee-experience-specialist-on-off-boarding-emea-remotepass-ddebe42f?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
@@ -110,6 +111,7 @@ Every job below says, in its own words, that it hires in Portugal. We first saw 
 
 | Job | Company | Pay | Posted | Why it's open to Portugal | Details |
 | --- | --- | --- | --- | --- | --- |
+| Assistant Brand Manager (sewing/ quilting brand) | Foxelli Group | Up to €1,500/mo · contract net | Nov 13 | “Currently, we are hiring in Albania, Bosnia and Herzegovina…” | [Details](https://firstmonday.ai/jobs/quilting-assistant-brand-manager-foxelli-c6b9636b?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Go-To-Market (GTM) Specialist | Mindera | £50k–60k/yr | Nov 12 | “As long as you are based in Portugal :)” · Remote or office, by choice (Porto, Aveiro, Coimbra) | [Details](https://firstmonday.ai/jobs/go-to-market-gtm-specialist-mindera-26d67c69?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Head of Demand Generation | n8n | $303k–334k/yr · US | Nov 11 | “This role can be based in the advertised European countries OR the…” | [Details](https://firstmonday.ai/jobs/head-of-demand-generation-n8n-e544d391?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | AI-native go-to-market lead (co-founder opportunity) | scandiweb | €1,500–3,000/mo · net | Nov 3 | “Europe” | [Details](https://firstmonday.ai/jobs/ai-native-go-to-market-lead-co-founder-opportunity-scandiweb-51d114fd?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
@@ -118,7 +120,6 @@ Every job below says, in its own words, that it hires in Portugal. We first saw 
 | Senior SEO/AIO Specialist | SPD Technology | – | Nov 13 | “Ukraine · Spain · Portugal · Poland · Romania · Czechia” · Remote or hybrid, by choice (office hubs) | [Details](https://firstmonday.ai/jobs/senior-seo-aio-specialist-spd-technology-98af53d9?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Head of Retention Marketing | ARB Interactive | – | Nov 12 | “Remote and flexible, from anywhere in the EU” | [Details](https://firstmonday.ai/jobs/head-of-retention-marketing-arb-interactive-3d2d80b6?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Regional Marketing Lead | JustMarkets | – | Nov 12 | “Europe” | [Details](https://firstmonday.ai/jobs/regional-marketing-lead-justmarkets-3990e483?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
-| Senior Manager, Integrated Marketing Campaigns | Nebius | – | Nov 12 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/senior-manager-integrated-marketing-campaigns-nebius-cb8c8412?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Creator in Residence (Social Media & Content) | lemlist | – | Nov 12 | “Location: US or Europe.” | [Details](https://firstmonday.ai/jobs/creator-in-residence-social-media-content-lemlist-cf6f350e?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Marketing Manager – Market Data | Alpaca | – | Nov 11 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/marketing-manager-market-data-alpaca-033ca539?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Motion Designer | Boosta | – | Nov 11 | “Remote, Europe · Remote, Ukraine” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/motion-designer-boosta-04b8b65a?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
@@ -136,7 +137,6 @@ Every job below says, in its own words, that it hires in Portugal. We first saw 
 | Sr Product Manager – Virality, Referrals & KOL | Kraken | $110k–220k/yr | Nov 12 | “United Kingdom · Brazil · United Arab Emirates · Ireland · Peru ·…” | [Details](https://firstmonday.ai/jobs/sr-product-manager-virality-referrals-kol-kraken-932b3a62?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Robotics Global Product Manager – Connected Care Solutions for Industrial Applications | ABB | From €67k/yr | Nov 12 | “This opportunity is open to candidates in one or more countries…” | [Details](https://firstmonday.ai/jobs/robotics-global-product-manager-connected-care-solutions-for-industrial-applications-abb-839585c9?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Senior/Staff Product Designer (Core track) | MEDvidi | – | – | “Portugal” | [Details](https://firstmonday.ai/jobs/senior-staff-product-designer-core-track-medvidi-2160d498?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
-| Senior Product Owner, Support Platform & AI | Jimdo | – | Nov 13 | “Germany · Italy · Portugal · Spain” | [Details](https://firstmonday.ai/jobs/senior-product-owner-support-platform-ai-jimdo-ae9a416a?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Level Designer – 6 Month FTC/Freelance Contract, Electric Square | Keywords Studios | – | Nov 13 | “Location: Europe, United Kingdom” | [Details](https://firstmonday.ai/jobs/level-designer-6-month-ftc-freelance-contract-electric-square-keywords-studios-41b106e3?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 | Lead Frontend Engineer | Infinni Innovations | – | Nov 11 | “EU Remote” | [Details](https://firstmonday.ai/jobs/lead-frontend-engineer-infinni-innovations-a5f5cb2e?utm_source=github&utm_medium=repo&utm_campaign=prt&utm_content=2026-w47) |
 

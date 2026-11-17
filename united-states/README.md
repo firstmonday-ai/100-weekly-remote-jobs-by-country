@@ -1,16 +1,18 @@
 # 100 best new remote jobs open to people in the United States
 
-Week of Mon 16 Nov 2026 · 100 of 3,418 open · from employers' own job boards
+Week of Mon 16 Nov 2026 · 100 of 3,265 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in the United States. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 22 · [Sales](#sales) 10 · [Customer success](#customer-success) 10 · [Data and AI](#data-and-ai) 2 · [Operations](#operations) 16 · [Finance](#finance) 10 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 6 · [Product and design](#product-and-design) 7 · [Healthcare](#healthcare) 5 · [Education](#education) 2 · [Other](#other) 6
+[Engineering](#engineering) 23 · [Sales](#sales) 9 · [Customer success](#customer-success) 11 · [Data and AI](#data-and-ai) 1 · [Operations](#operations) 18 · [Finance](#finance) 10 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 6 · [Product and design](#product-and-design) 6 · [Healthcare](#healthcare) 6 · [Education](#education) 1 · [Other](#other) 5
 
 ## Engineering
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
+| Senior Network Engineer – DGX Cloud | NVIDIA | $168k–264k/yr | Nov 16 | “US, CA, Santa Clara · US, Remote” | [Details](https://firstmonday.ai/jobs/senior-network-engineer-dgx-cloud-nvidia-1ab3d206?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Director, IT | Pantheon | $166k–232k/yr | Nov 15 | “United States (Remote)” | [Details](https://firstmonday.ai/jobs/director-it-pantheon-7e9c6191?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| Senior Full-Stack Software Engineer, Storage Management Platform – DGX Cloud | NVIDIA | $184k–287k/yr | Nov 15 | “US, CA, Santa Clara · US, Remote” | [Details](https://firstmonday.ai/jobs/senior-full-stack-software-engineer-storage-management-platform-dgx-cloud-nvidia-dda66dcf?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Gatling Test Automation Engineer – API & UI Integration | GDIT | $106k–143k/yr | Nov 15 | “Any Location / Remote” | [Details](https://firstmonday.ai/jobs/gatling-test-automation-engineer-api-ui-integration-gdit-dc19b3d8?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Sr Software Engineer I/II, Operational AI | Samsara | $154k–260k/yr | Nov 14 | “Open to candidates residing in the US and Canada.” | [Details](https://firstmonday.ai/jobs/sr-software-engineer-i-ii-operational-ai-samsara-2cf17919?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Manager, Software Engineering – AI Developer Productivity (Dev Agents and SRE AI) | Samsara | $162k–290k/yr | Nov 14 | “This is a remote position open to candidates based in North America.” | [Details](https://firstmonday.ai/jobs/senior-manager-software-engineering-ai-developer-productivity-dev-agents-and-sre-ai-samsara-450ec470?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
@@ -31,7 +33,6 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Senior DevSecOps Engineer | Ashby | €108k–145k/yr | Nov 13 | “Remote - US · Remote - Canada” | [Details](https://firstmonday.ai/jobs/senior-devsecops-engineer-ashby-7008111b?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Security Platform Engineer – Secure Delivery | Ashby | $178k–250k/yr | Nov 13 | “Remote - US · Remote - Canada” | [Details](https://firstmonday.ai/jobs/senior-security-platform-engineer-secure-delivery-ashby-0b6dcb21?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | IT Systems Engineer – Voleon Securities | The Voleon Group | $150k–175k/yr | Nov 13 | “Remote, United States · New York City, NY · Berkeley, CA” | [Details](https://firstmonday.ai/jobs/it-systems-engineer-voleon-securities-the-voleon-3cb6be81?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Lead GRC & Security Governance | Dave | $174k–224k/yr | Nov 13 | “As a virtual-first company, team members can live and work anywhere…” · Not in Hawaii | [Details](https://firstmonday.ai/jobs/lead-grc-security-governance-dave-8ae4116e?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Sales
 
@@ -44,7 +45,6 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Enterprise Account Executive – Healthcare & Life Sciences | Fireworks | $300k–330k/yr | Nov 13 | “United States, Remote” | [Details](https://firstmonday.ai/jobs/enterprise-account-executive-healthcare-life-sciences-us-west-fireworks-3a4b56e3?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Sales Leadership Trainer | Motive | $161k–201k/yr | Nov 13 | “United States - Remote” · In the office at times | [Details](https://firstmonday.ai/jobs/sales-leadership-trainer-motive-954da628?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Mid-Market Account Executive | Luxury Presence | $120k/yr | Nov 13 | “United States” | [Details](https://firstmonday.ai/jobs/mid-market-account-executive-luxury-presence-253c2aba?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Mid-Market Account Executive | LettrLabs | $90k–105k/yr | Nov 13 | “United States” | [Details](https://firstmonday.ai/jobs/mid-market-account-executive-lettrlabs-12a2caf4?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Sales Representative | Slide | $75k/yr | Nov 13 | “Remote - US” | [Details](https://firstmonday.ai/jobs/sales-representative-slide-0e9921d2?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Sales Engineer II – VARs | Huntress Labs | $165k–175k/yr | Nov 13 | “Location: Remote US (Central timezone preferred)” | [Details](https://firstmonday.ai/jobs/sales-engineer-ii-vars-huntress-labs-b67fff11?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
@@ -52,6 +52,8 @@ Every job below says, in its own words, that it hires in the United States. We f
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
+| SVP, Customer Experience and Service Operations(Preferred Experience In AI Transformation, Member Experience & Managed Care) | CareSource | $150k–300k/yr | Nov 16 | “Remote” | [Details](https://firstmonday.ai/jobs/svp-customer-experience-and-service-operations-preferred-experience-in-ai-transformation-member-experience-managed-care-caresource-d0a7d2f6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| RV Operations Customer Service | bbinsurance | $18–20/hr | Nov 16 | “Remote - USA” | [Details](https://firstmonday.ai/jobs/rv-operations-customer-service-bbinsurance-11f48578?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Customer Success Manager, Enterprise | SundaySky | $110k–130k/yr | – | “US” | [Details](https://firstmonday.ai/jobs/senior-customer-success-manager-enterprise-sundaysky-aa42b0ef?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Business Process Partner, Customer Success | Atlassian | $153k–199k/yr | Nov 14 | “To help our teams work together effectively, this role is fully…” · Not in Alaska, Hawaii | [Details](https://firstmonday.ai/jobs/senior-business-process-partner-customer-success-atlassian-997260c4?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Commercial Lines Account Specialist | bbinsurance | $22–24/hr | Nov 14 | “Remote - USA” | [Details](https://firstmonday.ai/jobs/commercial-lines-account-specialist-bbinsurance-22167bfe?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
@@ -61,20 +63,21 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Implementation Architect | Dropbox | CA$133k–180k/yr | Nov 13 | “Remote - US: Select locations” | [Details](https://firstmonday.ai/jobs/implementation-architect-dropbox-30ecbae0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Implementation Consultant | Loancrate | $130k–180k/yr | Nov 13 | “United States” | [Details](https://firstmonday.ai/jobs/implementation-consultant-loancrate-4fa85b97?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Director, Client Relationship Management (Preferred candidates will reside in the Northeast) | Experian | $139k–189k/yr | Nov 13 | “United States, UNITED STATES, United States” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/senior-director-client-relationship-management-preferred-candidates-will-reside-in-the-northeast-experian-80669931?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Implementation Lead | Loancrate | $130k–180k/yr | Nov 13 | “United States” | [Details](https://firstmonday.ai/jobs/implementation-lead-loancrate-d3d3b439?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Data and AI
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
-| Principal Data Scientist, Payments Intelligence | WEX | $215k–243k/yr | Nov 14 | “US - Remote” | [Details](https://firstmonday.ai/jobs/principal-data-scientist-payments-intelligence-wex-f250929d?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Sr Analyst, AI Analytics | Hims & Hers | $120k–160k/yr | Nov 13 | “US - Remote” | [Details](https://firstmonday.ai/jobs/sr-analyst-ai-analytics-hims-hers-b0bf2366?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Operations
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
-| Regulatory Operations Lead | Maleda Tech | $120–140/hr | Nov 14 | “United States” | [Details](https://firstmonday.ai/jobs/regulatory-operations-lead-maleda-tech-0aca98c0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| Manager – Business Operations Partner – Neurology & IgG4-RD | Amgen | $109k–148k/yr | Nov 16 | “United States - Remote · US - IL - Deerfield · US - California…” | [Details](https://firstmonday.ai/jobs/manager-business-operations-partner-neurology-igg4-rd-amgen-2202f9df?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| Executive Vice President, Testing Segment | Onterris | From $500k/yr | Nov 16 | “USA-Remote” | [Details](https://firstmonday.ai/jobs/executive-vice-president-testing-segment-onterris-c0fa4717?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| Regulatory Operations Lead | Maleda Tech | $120–140/hr | – | “United States” | [Details](https://firstmonday.ai/jobs/regulatory-operations-lead-maleda-tech-0aca98c0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| Project Consultant | Carilion Clinic | $69k–104k/yr | – | “Remote” | [Details](https://firstmonday.ai/jobs/project-consultant-carilion-clinic-c66858e2?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Implementation Project Manager | Rad AI | $125k–160k/yr | Nov 14 | “This role is open to candidates located anywhere in the United States.” | [Details](https://firstmonday.ai/jobs/senior-implementation-project-manager-rad-ai-3d7b1636?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Site Operation Manager | Cobot | $120k–150k/yr | Nov 13 | “This position offers the flexibility of remote work within the US” | [Details](https://firstmonday.ai/jobs/site-operation-manager-cobot-726babda?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | GTM Strategy and Operations Manager | Lyra Health | $106k–146k/yr | Nov 13 | “United States” | [Details](https://firstmonday.ai/jobs/gtm-strategy-and-operations-manager-lyra-health-d5512758?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
@@ -89,7 +92,6 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Executive Assistant | Mercury | $108k–135k/yr | Nov 13 | “San Francisco, CA, New York, NY, Portland, OR, or Remote within…” | [Details](https://firstmonday.ai/jobs/executive-assistant-mercury-ebeb1843?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Executive Assistant | New Left Accelerator and The Capacity Shop | $94k–124k/yr | Nov 13 | “Remote, U.S.-based (applicants must reside and be able to legally…” | [Details](https://firstmonday.ai/jobs/senior-executive-assistant-new-left-accelerator-and-the-capacity-shop-c51900b1?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Director, Revenue Operations | Wrapbook | $183k–297k/yr | Nov 13 | “Remote - US & Canada” | [Details](https://firstmonday.ai/jobs/senior-director-revenue-operations-wrapbook-078465eb?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Senior Implementation Project Manager | 1Password | $106k–148k/yr | Nov 13 | “This is a remote opportunity within Canada and the US, with a…” | [Details](https://firstmonday.ai/jobs/senior-implementation-project-manager-1password-8d6614b6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Finance
 
@@ -113,7 +115,7 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Sr/Staff Business/GTM Recruiter | Runway | $160k–200k/yr | Nov 14 | “\*Open to hiring remote across the US or Canada— we also have offices…” | [Details](https://firstmonday.ai/jobs/sr-staff-business-gtm-recruiter-runway-c34cf6fb?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior/Staff Technical Recruiter | Runway | $160k–220k/yr | Nov 14 | “\*Open to hiring remote across the US or Canada— we also have offices…” | [Details](https://firstmonday.ai/jobs/senior-staff-technical-recruiter-runway-18ab9560?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Sr. Recruiting Operations Specialist | Riverside Insights | $70k–80k/yr | Nov 14 | “United States” | [Details](https://firstmonday.ai/jobs/sr-recruiting-operations-specialist-riverside-insights-e7cf7a34?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Senior Candidate Experience Specialist | GitLab | $53k–91k/yr | Nov 13 | “Remote, Canada · Remote, United States” | [Details](https://firstmonday.ai/jobs/senior-candidate-experience-specialist-amer-gitlab-d29737b5?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| Candidate Experience Specialist, Team Lead | GitLab | $53k–91k/yr | Nov 13 | “Remote, Canada · Remote, United States” | [Details](https://firstmonday.ai/jobs/senior-candidate-experience-specialist-amer-gitlab-d29737b5?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Marketing
 
@@ -136,35 +138,33 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Principal/Staff Product Manager, Platform | Fieldguide | $225k–315k/yr | Nov 13 | “San Francisco, CA or Remote (USA)” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/principal-staff-product-manager-platform-fieldguide-53ec7eb6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Principal/Staff Product Manager, Risk Advisory | Fieldguide | $225k–315k/yr | Nov 13 | “San Francisco, CA or Remote (USA)” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/principal-staff-product-manager-risk-advisory-fieldguide-2bb048c8?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Creative Director, Brand Studio | Webflow | $212k–265k/yr | Nov 13 | “United States” | [Details](https://firstmonday.ai/jobs/creative-director-brand-studio-webflow-62e135c9?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Senior Product Manager – Data Partnerships | Motive | $150k–187k/yr | Nov 13 | “United States - Remote” | [Details](https://firstmonday.ai/jobs/senior-product-manager-data-partnerships-motive-132865b3?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Healthcare
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
+| Sr. Clinical Research Associate/CRA2 – Oncology or CAR T | Fortrea | $105k–145k/yr | Nov 16 | “Remote United States · Remote Rhode Island · Remote Michigan ·…” | [Details](https://firstmonday.ai/jobs/sr-clinical-research-associate-oncology-or-car-t-fortrea-a9c5c7a8?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Manager, Statistical Programming | Immunome | $175k–200k/yr | Nov 14 | “US Remote” | [Details](https://firstmonday.ai/jobs/senior-manager-statistical-programming-immunome-da107ea0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| AR Manager | Privia Health | $50k–55k/yr | – | “Remote, USA, United States” | [Details](https://firstmonday.ai/jobs/ar-manager-privia-health-33a347d6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Social Security Disability Case Manager, Spanish-Speaking | Mindset Care | $22–30/hr | Nov 14 | “Remote (United States)” | [Details](https://firstmonday.ai/jobs/social-security-disability-case-manager-spanish-speaking-mindset-care-c84d64a6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Spanish Speaking Licensed Behavior Analyst | AnswersNow | Up to $115k/yr | Nov 14 | “Must reside in the United States (Does not include Puerto Rico or US…” · Not in US Virgin Islands | [Details](https://firstmonday.ai/jobs/spanish-speaking-licensed-behavior-analyst-new-york-answersnow-6139ccac?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Senior Director, Healthcare Revenue Cycle Consulting | Experian | $155k–210k/yr | Nov 13 | “United States, UNITED STATES, United States” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/senior-director-healthcare-revenue-cycle-consulting-experian-b71625bd?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Manager Quality Assurance and Regulatory Affairs | Natera | $112k–150k/yr | Nov 13 | “US Remote” | [Details](https://firstmonday.ai/jobs/manager-quality-assurance-and-regulatory-affairs-natera-96fd75fa?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Education
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
 | 1 on 1 Elementary Math Tutor | Think Academy US | $20–25/hr | Nov 14 | “Location: Remote in US” | [Details](https://firstmonday.ai/jobs/1-on-1-elementary-math-tutor-remote-in-us-think-academy-us-0a891c59?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Academic Counselor for MiaPrep Online High School (MOHS) | Miaplaza | $25–35/hr · employment | Nov 13 | “Location: 100% remote within the U.S. (any U.S. time zone)” | [Details](https://firstmonday.ai/jobs/academic-counselor-for-miaprep-online-high-school-mohs-miaplaza-a8bc28c6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ## Other
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
+| Senior Counsel II – Development Legal Business Partner | Gilead Sciences | $221k–286k/yr | – | “United States – Remote” · Office preferred (Foster City, CA) | [Details](https://firstmonday.ai/jobs/senior-counsel-ii-development-legal-business-partner-pdm-gilead-sciences-8dd96725?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Counsel, Litigation & Employment | Seat Geek | $151k–218k/yr | Nov 13 | “Remote - United States” | [Details](https://firstmonday.ai/jobs/counsel-litigation-employment-seat-geek-53d9a9ee?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Counsel, Commercial & Product | Seat Geek | $151k–218k/yr | Nov 13 | “Remote - United States” | [Details](https://firstmonday.ai/jobs/counsel-commercial-product-seat-geek-1bcc4678?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 | Exploration Geologist | KoBold Metals | $70k–110k/yr | Nov 13 | “North America” | [Details](https://firstmonday.ai/jobs/exploration-geologist-kobold-metals-507882f5?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Senior Litigation Paralegal | Mercury | $128k–144k/yr | Nov 13 | “San Francisco, CA, New York, NY, Portland, OR, or Remote within…” | [Details](https://firstmonday.ai/jobs/senior-litigation-paralegal-mercury-5a982aa6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Field CISO | Huntress Labs | $200k–215k/yr | Nov 13 | “Location: Remote US” | [Details](https://firstmonday.ai/jobs/field-ciso-huntress-labs-84e5224a?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
-| Sr. Counsel | Pinterest | $158k–326k/yr | Nov 13 | “US based applicants only” · In the office once, for 1-2 weeks | [Details](https://firstmonday.ai/jobs/sr-counsel-pinterest-e01c91af?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
+| Litigation Paralegal | Mercury | $128k–144k/yr | Nov 13 | “San Francisco, CA, New York, NY, Portland, OR, or Remote within…” | [Details](https://firstmonday.ai/jobs/senior-litigation-paralegal-mercury-5a982aa6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w47) |
 
 ---
 

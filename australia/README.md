@@ -1,10 +1,10 @@
-# 75 best new remote jobs open to people in Australia
+# 71 best new remote jobs open to people in Australia
 
-Week of Mon 16 Nov 2026 · 75 of 96 open · from employers' own job boards
+Week of Mon 16 Nov 2026 · 71 of 92 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Australia, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 11 · [Sales](#sales) 16 · [Customer success](#customer-success) 3 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 12 · [Finance](#finance) 2 · [People and HR](#people-and-hr) 3 · [Marketing](#marketing) 8 · [Product and design](#product-and-design) 3 · [Healthcare](#healthcare) 2 · [Education](#education) 4 · [Other](#other) 5
+[Engineering](#engineering) 10 · [Sales](#sales) 14 · [Customer success](#customer-success) 3 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 10 · [Finance](#finance) 2 · [People and HR](#people-and-hr) 5 · [Marketing](#marketing) 8 · [Product and design](#product-and-design) 3 · [Healthcare](#healthcare) 1 · [Education](#education) 4 · [Other](#other) 5
 
 ## Engineering
 
@@ -15,19 +15,17 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 | Project Development Manager – Power | APA | – | Nov 12 | “Applicants must be eligible to work in Australia to be considered.” | [Details](https://firstmonday.ai/jobs/project-development-manager-power-apa-3a06abb0?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Solution Architect – D365 | Datacom | – | Nov 11 | “New Zealand · Australia · Auckland, New Zealand · Wellington…” | [Details](https://firstmonday.ai/jobs/solution-architect-datacom-15df0a7d?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Senior Security Engineer | Arctic Wolf | – | Nov 10 | “Remote, Australia” | [Details](https://firstmonday.ai/jobs/senior-security-engineer-au-arctic-wolf-7cdc3086?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
-| Senior Cybersecurity Analyst | GDIT | $106,250 - $143,750/yr · currency not stated | Nov 12 | “Any Location / Remote” | [Details](https://firstmonday.ai/jobs/senior-cybersecurity-analyst-gdit-8290fb21?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Head of Engineering (Frontier Safety) | FAR.AI | $225k–350k/yr | Nov 11 | “Location: Remote globally.” | [Details](https://firstmonday.ai/jobs/head-of-engineering-frontier-safety-far-ai-2b1e2a28?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | IT Support Engineer | Monarch Money | $118k–139k/yr | Nov 10 | “we welcome applicants from almost anywhere” | [Details](https://firstmonday.ai/jobs/it-support-engineer-monarch-money-d3856585?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | 2D Game Developer (Defold) | Your Software Supplier | $70–130/hr | Nov 9 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/2d-game-developer-defold-remote-worldwide-your-software-supplier-25992078?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Senior Solution Architect (Senior Manager) | Huron | $150k–200k/yr | Nov 9 | “Travel Requirements : Flexible living locations, ability to travel…” | [Details](https://firstmonday.ai/jobs/senior-solution-architect-senior-manager-huron-5b3de548?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
-| Salesforce Developer | Centre for Effective Altruism | $105k/yr | Oct 30 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/salesforce-developer-centre-for-effective-altruism-a4017f70?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
+| Salesforce Developer | Centre for Effective Altruism | – | Oct 30 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/salesforce-developer-centre-for-effective-altruism-a4017f70?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 
 ## Sales
 
 | Job | Company | Pay | Posted | Why it's open to Australia | Details |
 | --- | --- | --- | --- | --- | --- |
 | Senior Sales Manager | StackAdapt | A$133k–183k/yr | Nov 12 | “Australia” | [Details](https://firstmonday.ai/jobs/senior-sales-manager-victoria-stackadapt-59b494c1?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
-| Remote Sales Rep – Earn up to $450/Meeting, Free AI Training & Certification | Sellfire | $7,500/mo | Nov 12 | “Argentina · Australia · Colombia · Guatemala · Honduras · Canada ·…” | [Details](https://firstmonday.ai/jobs/remote-sales-rep-earn-up-to-450-meeting-free-ai-training-certification-sellfire-a5468e85?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Account Manager Renewals | Seeq | A$120k/yr | Nov 11 | “Australia” | [Details](https://firstmonday.ai/jobs/account-manager-renewals-seeq-5ac78bbe?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Channel Account Manager II | Huntress Labs | A$130k/yr | Nov 9 | “Location: Remote Australia” | [Details](https://firstmonday.ai/jobs/channel-account-manager-ii-huntress-labs-54c23290?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Enterprise Sales Development Representative | ServiceTitan | – | Nov 15 | “Australia Remote · INT Australia New South Wales Remote · INT…” | [Details](https://firstmonday.ai/jobs/enterprise-sales-development-representative-servicetitan-e9d92efa?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
@@ -38,7 +36,6 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 | Director, Alliances | Guidewire | – | Nov 10 | “Australia - Remote” | [Details](https://firstmonday.ai/jobs/director-alliances-guidewire-c6f2991d?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Account Executive, Commercial | Cursor | – | Nov 9 | “Australia” | [Details](https://firstmonday.ai/jobs/account-executive-commercial-anz-cursor-d8866669?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Senior Partner Sales Manager | JFrog | – | Oct 28 | “Location: Melbourne, Australia (Remote)” | [Details](https://firstmonday.ai/jobs/senior-partner-sales-manager-melbourne-jfrog-dab9a625?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
-| Business Development Representative | Wiz | – | Oct 22 | “Remote - Australia” | [Details](https://firstmonday.ai/jobs/business-development-representative-wiz-6a01ff65?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Business Development Manager – AUS and NZ | SASMAR | – | Oct 20 | “Australia” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/business-development-manager-aus-and-nz-sasmar-ce7429e3?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Sales and Marketing Executive | African Institute for Artificial Intelligence | – | Nov 13 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/sales-and-marketing-executive-african-institute-for-artificial-intelligence-64372770?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Sales Development Representative (Part-Time) | CrewBloom | – | Nov 10 | “Embrace the freedom to work from home or any location of your choice.” | [Details](https://firstmonday.ai/jobs/sales-development-representative-part-time-crewbloom-86c79d8e?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
@@ -76,8 +73,6 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 | Business Operations Associate | Trust Wallet | – | Nov 11 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/business-operations-associate-trust-wallet-79af1b8f?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | General Operation Intern | Web Redefine | – | Nov 8 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/general-operation-intern-web-redefine-2b2ccc51?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | GeM Portal Operator & Lead Generation | Web Redefine | – | Nov 8 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/gem-portal-operator-lead-generation-web-redefine-aa4fe8a2?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
-| Voice Provisioning, Activation & Support Specialist | TCCA | – | Nov 4 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/voice-provisioning-activation-support-specialist-tcca-8a4f5ae0?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
-| Lead Sourcing Specialist – Tender and Project Sourcing | GE Vernova | – | Oct 23 | “Rugby · Remote · Birr · Elblag · Baden” | [Details](https://firstmonday.ai/jobs/lead-sourcing-specialist-tender-and-project-sourcing-ge-vernova-85a965d4?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 
 ## Finance
 
@@ -91,6 +86,8 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 | Job | Company | Pay | Posted | Why it's open to Australia | Details |
 | --- | --- | --- | --- | --- | --- |
 | People Business Partner & Operations Lead | Dragos | A$200k/yr | Nov 10 | “Australia” | [Details](https://firstmonday.ai/jobs/people-business-partner-operations-lead-dragos-62b6fa11?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
+| Senior Recruiter | Directive | – | Nov 12 | “For some positions, as posted, we will accommodate global…” | [Details](https://firstmonday.ai/jobs/senior-recruiter-remote-us-directive-e6cd1552?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
+| Recruiter | Directive | – | Nov 12 | “For some positions, as posted, we will accommodate global…” | [Details](https://firstmonday.ai/jobs/recruiter-remote-us-directive-21790905?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Head of Technology Recruitment | Bybit | – | Nov 11 | “Abu Dhabi, UAE · APAC - Remote · Dubai, UAE · Hong Kong SAR · Kuala…” | [Details](https://firstmonday.ai/jobs/head-of-technology-recruitment-bybit-f9180236?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Recruiter | White Circle | – | Nov 11 | “Global” | [Details](https://firstmonday.ai/jobs/recruiter-white-circle-3aedb328?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 
@@ -119,7 +116,6 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 
 | Job | Company | Pay | Posted | Why it's open to Australia | Details |
 | --- | --- | --- | --- | --- | --- |
-| Clinical Project Coordinator | ProPharma | – | Nov 13 | “Reporting to the Associate Director, Decentralized Clinical Trial…” · Remote unless near an office | [Details](https://firstmonday.ai/jobs/clinical-project-coordinator-propharma-49bae30d?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 | Senior Coder Inpatient | Children’s Healthcare of Atlanta | – | Nov 13 | “Remote Worker Generic Location” | [Details](https://firstmonday.ai/jobs/senior-coder-inpatient-children-s-healthcare-of-atlanta-0fd11c80?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w47) |
 
 ## Education

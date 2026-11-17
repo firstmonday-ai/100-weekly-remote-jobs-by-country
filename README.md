@@ -2,7 +2,7 @@
 
 Every Monday, the 100 best new remote jobs open to people in each of 21 countries: English-language jobs that say, in the post's own words, that they hire where you live. Picked by [First Monday](https://firstmonday.ai/?utm_source=github&utm_medium=repo&utm_campaign=readme&utm_content=2026-w47), which reads remote job posts for who they can actually hire.
 
-Week of Mon 16 Nov 2026 · 2,017 jobs · from employers' own job boards
+Week of Mon 16 Nov 2026 · 2,005 jobs · from employers' own job boards
 
 | Country | Jobs this week | List |
 | --- | ---: | --- |
@@ -17,13 +17,13 @@ Week of Mon 16 Nov 2026 · 2,017 jobs · from employers' own job boards
 | Switzerland | 100 | [switzerland/](switzerland/README.md) |
 | Sweden | 100 | [sweden/](sweden/README.md) |
 | Denmark | 100 | [denmark/](denmark/README.md) |
-| Norway | 100 | [norway/](norway/README.md) |
+| Norway | 97 | [norway/](norway/README.md) |
 | Finland | 100 | [finland/](finland/README.md) |
 | Poland | 100 | [poland/](poland/README.md) |
 | Spain | 100 | [spain/](spain/README.md) |
 | Portugal | 100 | [portugal/](portugal/README.md) |
-| Australia | 75 | [australia/](australia/README.md) |
-| New Zealand | 42 | [new-zealand/](new-zealand/README.md) |
+| Australia | 71 | [australia/](australia/README.md) |
+| New Zealand | 37 | [new-zealand/](new-zealand/README.md) |
 | Mexico | 100 | [mexico/](mexico/README.md) |
 | Brazil | 100 | [brazil/](brazil/README.md) |
 | India | 100 | [india/](india/README.md) |

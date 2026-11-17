@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in Canada
 
-Week of Mon 16 Nov 2026 · 100 of 400 open · from employers' own job boards
+Week of Mon 16 Nov 2026 · 100 of 378 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Canada. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 31 · [Sales](#sales) 9 · [Customer success](#customer-success) 9 · [Data and AI](#data-and-ai) 1 · [Operations](#operations) 12 · [Finance](#finance) 7 · [People and HR](#people-and-hr) 6 · [Marketing](#marketing) 13 · [Product and design](#product-and-design) 4 · [Healthcare](#healthcare) 2 · [Education](#education) 1 · [Other](#other) 5
+[Engineering](#engineering) 31 · [Sales](#sales) 10 · [Customer success](#customer-success) 9 · [Operations](#operations) 11 · [Finance](#finance) 8 · [People and HR](#people-and-hr) 6 · [Marketing](#marketing) 13 · [Product and design](#product-and-design) 4 · [Healthcare](#healthcare) 5 · [Education](#education) 1 · [Other](#other) 2
 
 ## Engineering
 
@@ -28,7 +28,6 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Software Developer, Dealer Solutions | Leap Tools | CA$65k–115k/yr | Nov 13 | “Canada - Remote” | [Details](https://firstmonday.ai/jobs/software-developer-dealer-solutions-leap-tools-1de13e76?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Lead Engineer | Veolia Environnement SA | $120k–130k/yr | Nov 13 | “This position is remote and can be located anywhere in North America” | [Details](https://firstmonday.ai/jobs/senior-lead-engineer-veolia-environnement-3bd726d0?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Software Technical Leader | Cisco | CA$162k–234k/yr · employment | Nov 13 | “This position is remote and can be performed from locations within…” | [Details](https://firstmonday.ai/jobs/software-technical-leader-cisco-58bbcd24?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| EverPro – Software Development Engineer in Test | EverCommerce | CA$100k–120k/yr | Nov 13 | “This role can be based anywhere in Canada” · Remote or office, by choice | [Details](https://firstmonday.ai/jobs/everpro-software-development-engineer-in-test-evercommerce-0a275b18?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Software Development Engineer in Test (SDET) | Thinkific | CA$87k–131k/yr | Nov 12 | “Distributed - Canada” | [Details](https://firstmonday.ai/jobs/senior-software-development-engineer-in-test-sdet-thinkific-f167ea35?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Software Engineer | Scope3pbc | $160k–210k/yr | Nov 12 | “United States (Remote) · Canada (Remote)” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-scope3pbc-9c90f3de?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Platform Engineer | ThoughtExchange | CA$128k–151k/yr | Nov 12 | “Canada” | [Details](https://firstmonday.ai/jobs/senior-platform-engineer-thoughtexchange-336e0971?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
@@ -36,11 +35,12 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Staff Engineer, Hardware Enablement | Modular | $180k–270k/yr | Nov 12 | “Candidates based in the US, Canada, and UK are welcome to apply.” | [Details](https://firstmonday.ai/jobs/staff-engineer-hardware-enablement-modular-ea793c87?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Principal DevOps Engineer (AI/ML Infrastructure) | Revvity | CA$130k–165k/yr | Nov 12 | “Remote Canada' Candidates, only.” | [Details](https://firstmonday.ai/jobs/principal-devops-engineer-ai-ml-infrastructure-remote-canada-revvity-cb5249bc?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Commerce Engineer | Valsoft | CA$120k–135k/yr | Nov 12 | “Canada” | [Details](https://firstmonday.ai/jobs/senior-commerce-engineer-valsoft-11b450fc?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Staff/Principal Agentic AI Engineer | Calix | $156k–265k/yr | Nov 12 | “This position is remote based anywhere in the US/Canada.” | [Details](https://firstmonday.ai/jobs/staff-principal-agentic-ai-engineer-calix-01e66c69?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | DevOps/Cloud Engineer | Auctria | CA$120k–130k/yr | Nov 11 | “Canada” | [Details](https://firstmonday.ai/jobs/devops-cloud-engineer-auctria-b900e3af?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Principal Database Engineer | Kraken | $161k–358k/yr | Nov 11 | “United Kingdom · Brazil · United Arab Emirates · Ireland · Peru ·…” | [Details](https://firstmonday.ai/jobs/principal-database-engineer-kraken-1a95ce8e?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Lead Software Developer / Développeur logiciel principal | Insurity | CA$84k–165k/yr | Nov 11 | “Remote - Canada” | [Details](https://firstmonday.ai/jobs/lead-software-developer-developpeur-logiciel-principal-insurity-d68a5a52?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Software Developer (R&D) | Clover Health | CA$134k–175k/yr | Nov 11 | “Remote - Canada” | [Details](https://firstmonday.ai/jobs/senior-software-developer-r-d-clover-health-17d890d0?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Senior Software Developer – Core Platform Services | Arctic Wolf | CA$75k–246k/yr | Nov 11 | “Remote, Canada · Office - CAN - Ontario, Waterloo” | [Details](https://firstmonday.ai/jobs/senior-software-developer-core-platform-services-arctic-wolf-9dbe3cb6?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Senior Software Developer – S2CX | Arctic Wolf | CA$75k–246k/yr | Nov 11 | “Remote, Canada · Office - CAN - Ontario, Waterloo” | [Details](https://firstmonday.ai/jobs/senior-software-developer-s2cx-arctic-wolf-76462a3a?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
 ## Sales
 
@@ -51,10 +51,11 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Channel Sales Manager | SPS Commerce | CA$95k/yr | Nov 13 | “This is a fully remote opportunity available to candidates residing…” | [Details](https://firstmonday.ai/jobs/channel-sales-manager-sps-commerce-7327803e?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Lead Strategic Account Manager (Financial Institutions) | Convera | CA$140k–154k/yr | Nov 12 | “Work From Home - Canada” | [Details](https://firstmonday.ai/jobs/lead-strategic-account-manager-financial-institutions-convera-a2667a24?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Director, Partnerships & Data Strategy (CA) | PointClickCare | CA$171k–213k/yr | Nov 12 | “Director, Partnerships & Data Strategy (CA)” | [Details](https://firstmonday.ai/jobs/director-partnerships-data-strategy-ca-pointclickcare-a83426ba?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Remote Sales Rep – Earn up to $450/Meeting, Free AI Training & Certification | Sellfire | $7,500/mo | Nov 12 | “Argentina · Australia · Colombia · Guatemala · Honduras · Canada ·…” | [Details](https://firstmonday.ai/jobs/remote-sales-rep-earn-up-to-450-meeting-free-ai-training-certification-sellfire-a5468e85?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Trust Accounting Specialist | Guesty | $120k–150k/yr | – | “This role is open to candidates based remotely in Canada or the…” | [Details](https://firstmonday.ai/jobs/trust-accounting-specialist-guesty-6d700ea8?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Enterprise Account Executive – Platform Clients | Tremendous | $150k–180k/yr | Nov 11 | “Fully remote. Work from anywhere in the Americas.” | [Details](https://firstmonday.ai/jobs/enterprise-account-executive-platform-clients-tremendous-765ec07e?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Enterprise Sales Development Representative (SDR) | Pencil | From $25K/yr · currency not stated | Nov 11 | “Americas” | [Details](https://firstmonday.ai/jobs/enterprise-sales-development-representative-sdr-pencil-5e726bd2?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Enterprise Account Executive | Pencil | From $100K/yr · currency not stated | Nov 11 | “Americas” | [Details](https://firstmonday.ai/jobs/enterprise-account-executive-pencil-b500bc82?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Sales Specialist (Contract, Remote) | Financeit | From CA$50k/yr | Nov 11 | “This is a fully remote, commission-based role within Canada, offered…” | [Details](https://firstmonday.ai/jobs/sales-specialist-contract-remote-financeit-dea413dc?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Head of Business Development – Marketing Solutions | View TransUnion | CA$122k–147k/yr | Nov 11 | “Burlington, Canada · Remote - Canada · Toronto” | [Details](https://firstmonday.ai/jobs/head-of-business-development-marketing-solutions-view-transunion-84235ef9?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
 ## Customer success
 
@@ -70,28 +71,21 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Director, Customer Success | HighlightTA | CA$184k–225k/yr | Nov 11 | “Canada” | [Details](https://firstmonday.ai/jobs/director-customer-success-highlightta-86ee66a5?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Institutional Success Architect | Juniper Square | $140k–175k/yr · US | Nov 11 | “Americas (USA or Canada)” | [Details](https://firstmonday.ai/jobs/senior-institutional-success-architect-juniper-square-ce4b02f3?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
-## Data and AI
-
-| Job | Company | Pay | Posted | Why it's open to Canada | Details |
-| --- | --- | --- | --- | --- | --- |
-| Senior Data Analyst | Supplier.io | $130k/yr | Nov 13 | “Remote (Canada) · Remote (United States)” | [Details](https://firstmonday.ai/jobs/senior-data-analyst-supplier-io-9495f1ff?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-
 ## Operations
 
 | Job | Company | Pay | Posted | Why it's open to Canada | Details |
 | --- | --- | --- | --- | --- | --- |
-| Senior Strategy Associate – Sony Sports Businesses | Hawk-Eye Innovations | CA$85k–113k/yr | Nov 13 | “Location: Canada, Remote” | [Details](https://firstmonday.ai/jobs/senior-strategy-associate-sony-sports-businesses-hawk-eye-innovations-a154742f?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Director, Revenue Operations | Wrapbook | $183k–297k/yr | Nov 13 | “Remote - US & Canada” | [Details](https://firstmonday.ai/jobs/senior-director-revenue-operations-wrapbook-078465eb?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Implementation Project Manager | 1Password | $106k–148k/yr | Nov 13 | “This is a remote opportunity within Canada and the US, with a…” | [Details](https://firstmonday.ai/jobs/senior-implementation-project-manager-1password-8d6614b6?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Director, GTM Operations | Zapier | $231k–295k/yr | Nov 13 | “NAMER” | [Details](https://firstmonday.ai/jobs/director-gtm-operations-zapier-17d40e54?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Principal GTM Operations Analyst | MongoDB | $84k–165k/yr | Nov 13 | “This role will be based remotely Canada, and supports a global…” | [Details](https://firstmonday.ai/jobs/principal-gtm-operations-analyst-mongodb-0404f62d?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Brokerage Representative I | hcmportal | CA$18/hr · employment | Nov 13 | “Work Location: Remote (based in Canada)” | [Details](https://firstmonday.ai/jobs/brokerage-representative-i-hcmportal-cc40b7e1?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Transformation Delivery Lead | Method, a GlobalLogic company | $145k–200k/yr · US | Nov 12 | “Atlanta, Charlotte, Denver, New York, New York, Remote - US, Canada” | [Details](https://firstmonday.ai/jobs/transformation-delivery-lead-method-design-consultancy-7ab5e8da?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Chief of Staff to the CEO | Axonify | CA$170k–220k/yr | Nov 12 | “United States - Remote · Canada - Remote” | [Details](https://firstmonday.ai/jobs/chief-of-staff-to-the-ceo-axonify-5a84c67d?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | GTM Strategy & Ops Lead | Tremendous | $165k–200k/yr | Nov 11 | “Fully remote. Work from anywhere in the Americas.” | [Details](https://firstmonday.ai/jobs/gtm-strategy-ops-lead-tremendous-f5f6c35b?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Staff Portfolio Operations Manager | Lightspeed Commerce | CA$190k–235k/yr | Nov 11 | “Lightspeed is currently seeking candidates based in Canada.” | [Details](https://firstmonday.ai/jobs/senior-staff-portfolio-operations-manager-lightspeed-commerce-061fbf2a?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Director of Planning | Bloom | $150,000-$170,000/yr · currency not stated | Nov 11 | “We’re seeking an exceptional candidate based in the US or Canada” | [Details](https://firstmonday.ai/jobs/director-of-planning-bloom-d0b1e7e4?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Program Manager, Partner Capability | Atlassian | $138k–180k/yr | Nov 11 | “Salt Lake City - United States - Salt Lake City, Utah 84044 United…” | [Details](https://firstmonday.ai/jobs/program-manager-partner-capability-atlassian-c3769520?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Hubspot & Revenue Systems Lead | Crux | $126k–143k/yr | Nov 11 | “Work from anywhere in the US and Canada, or work out of our optional…” | [Details](https://firstmonday.ai/jobs/hubspot-revenue-systems-lead-crux-8949e4db?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
 ## Finance
 
@@ -102,6 +96,7 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Senior Associate, Strategic Finance | Mozilla | CA$70k–93k/yr | Nov 13 | “Remote Canada” | [Details](https://firstmonday.ai/jobs/senior-associate-strategic-finance-mozilla-603192f7?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Credit Analyst | Mercury | $142k–160k/yr | Nov 13 | “San Francisco, CA, New York, NY, Portland, OR, or Remote within…” | [Details](https://firstmonday.ai/jobs/senior-credit-analyst-mercury-c2010c02?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Junior Accountant | Eventbase | CA$50k–55k/yr | Nov 13 | “candidates must be already located in Canada with legal working…” | [Details](https://firstmonday.ai/jobs/junior-accountant-eventbase-f10245a8?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Senior Financial Analyst, Commercial Finance | Mozilla | CA$70k–93k/yr | Nov 13 | “Remote Canada” | [Details](https://firstmonday.ai/jobs/senior-financial-analyst-commercial-finance-mozilla-beea1077?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | North America Payroll Tax Analyst | GE Vernova | CA$72k–120k/yr | Nov 12 | “Remote” | [Details](https://firstmonday.ai/jobs/north-america-payroll-tax-analyst-ge-vernova-4c025260?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Sales Commission Analyst | Clipboard | $90k–120k/yr | Nov 11 | “Remote (Canada) · U.S. (Remote)” | [Details](https://firstmonday.ai/jobs/sales-commission-analyst-clipboard-6461c754?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
@@ -111,7 +106,7 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | --- | --- | --- | --- | --- | --- |
 | Sr/Staff Business/GTM Recruiter | Runway | $160k–200k/yr | Nov 14 | “\*Open to hiring remote across the US or Canada— we also have offices…” | [Details](https://firstmonday.ai/jobs/sr-staff-business-gtm-recruiter-runway-c34cf6fb?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior/Staff Technical Recruiter | Runway | $160k–220k/yr | Nov 14 | “\*Open to hiring remote across the US or Canada— we also have offices…” | [Details](https://firstmonday.ai/jobs/senior-staff-technical-recruiter-runway-18ab9560?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Senior Candidate Experience Specialist | GitLab | $53k–91k/yr · US | Nov 13 | “Remote, Canada · Remote, United States” | [Details](https://firstmonday.ai/jobs/senior-candidate-experience-specialist-amer-gitlab-d29737b5?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Candidate Experience Specialist, Team Lead | GitLab | $53k–91k/yr · US | Nov 13 | “Remote, Canada · Remote, United States” | [Details](https://firstmonday.ai/jobs/senior-candidate-experience-specialist-amer-gitlab-d29737b5?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Specialist, People Operations (12 month contract) | Wealthsimple Technologies | CA$69k–87k/yr | Nov 13 | “Remote (Canada)” | [Details](https://firstmonday.ai/jobs/specialist-people-operations-12-month-contract-wealthsimple-technologies-bdfb7f5f?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | People & Culture Generalist | Agility PR Solutions | CA$75k–85k/yr | Nov 11 | “Canada · Ottawa, Canada” | [Details](https://firstmonday.ai/jobs/people-culture-generalist-agility-pr-solutions-bb6ae1e4?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Compensation Analyst | SGS | $90k–120k/yr | Nov 11 | “Remote, REMOTE, Canada” | [Details](https://firstmonday.ai/jobs/senior-compensation-analyst-sgs-85b5b5d5?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
@@ -139,7 +134,7 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Job | Company | Pay | Posted | Why it's open to Canada | Details |
 | --- | --- | --- | --- | --- | --- |
 | Product Manager, Aperture | Tailscale | CA$209k–296k/yr | Nov 13 | “Remote (Canada)” | [Details](https://firstmonday.ai/jobs/product-manager-aperture-tailscale-3002ac35?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Director, Product Management, Sandbox | Docker | CA$276k–394k/yr | Nov 12 | “Canada · United States” | [Details](https://firstmonday.ai/jobs/director-product-management-sandbox-docker-e59ab440?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| EverPro – Senior Product Manager, AI-Powered Workflows at Joist (Remote CAN) | EverCommerce | CA$150k–175k/yr | – | “This role can be based anywhere in Canada” · Remote or hybrid, by choice · In the office once a quarter (Toronto) | [Details](https://firstmonday.ai/jobs/everpro-senior-product-manager-ai-powered-workflows-at-joist-remote-can-evercommerce-fead8cee?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Sr Product Manager – Virality, Referrals & KOL | Kraken | $110k–220k/yr | Nov 12 | “United Kingdom · Brazil · United Arab Emirates · Ireland · Peru ·…” | [Details](https://firstmonday.ai/jobs/sr-product-manager-virality-referrals-kol-kraken-932b3a62?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Director, Product Design | Censys | $190k–246k/yr · US | Nov 11 | “Remote (US/Canada)” | [Details](https://firstmonday.ai/jobs/director-product-design-censys-50db8fe1?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
@@ -147,8 +142,11 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 
 | Job | Company | Pay | Posted | Why it's open to Canada | Details |
 | --- | --- | --- | --- | --- | --- |
-| Medical Tele-Interviewer | Manulife | CA$39k–65k/yr | Nov 13 | “CAN, Ontario - Full Time Remote · CAN, New Brunswick - Full Time…” | [Details](https://firstmonday.ai/jobs/medical-tele-interviewer-manulife-ff4e2528?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Technical Services Veterinarian – Virtual Engagement & Commercial Enablement | Elanco Animal Health | CA$114k–140k/yr | Nov 13 | “Location: Canada, remote” | [Details](https://firstmonday.ai/jobs/technical-services-veterinarian-virtual-engagement-commercial-enablement-elanco-animal-health-47971d1d?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Senior Manager, Regulatory Affairs | Cencora | CA$119k–186k/yr | Nov 11 | “Remote, Canada · Remote, Quebec” | [Details](https://firstmonday.ai/jobs/senior-manager-regulatory-affairs-cencora-dc7c777d?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Senior Clinical Data Manager- FSP, GI | Fortrea | CA$115k–125k/yr | Nov 11 | “Toronto · Remote Canada” | [Details](https://firstmonday.ai/jobs/senior-clinical-data-manager-fsp-gi-fortrea-bdb239d8?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Associate Clinical Data Manager- FSP, GI | Fortrea | CA$90k–100k/yr | Nov 11 | “Toronto · Remote Canada” | [Details](https://firstmonday.ai/jobs/associate-clinical-data-manager-fsp-gi-fortrea-809e7be6?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
+| Bilingual Caseworker Support Associate | Cencora | CA$43k–67k/yr | Nov 11 | “Remote, Canada” | [Details](https://firstmonday.ai/jobs/bilingual-caseworker-support-associate-cencora-79e9b2e1?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
 ## Education
 
@@ -161,10 +159,7 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Job | Company | Pay | Posted | Why it's open to Canada | Details |
 | --- | --- | --- | --- | --- | --- |
 | Exploration Geologist | KoBold Metals | $70k–110k/yr · US | Nov 13 | “North America” | [Details](https://firstmonday.ai/jobs/exploration-geologist-kobold-metals-507882f5?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Counsel, Commercial (pipeline req for AMER) | ClickHouse | $162k–248k/yr | Nov 13 | “United States · Canada” | [Details](https://firstmonday.ai/jobs/counsel-commercial-pipeline-req-for-amer-clickhouse-38c961b3?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| VP, Mozilla Studio | Mozilla | CA$383k–431k/yr | Nov 13 | “This is a remote role open to candidates based in Canada, Germany…” | [Details](https://firstmonday.ai/jobs/vp-mozilla-studio-mozilla-5a2b5a09?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 | Senior Project Development Counsel | KoBold Metals | $250k–290k/yr · US | Nov 13 | “North America” | [Details](https://firstmonday.ai/jobs/assistant-general-counsel-project-development-kobold-metals-eb871cd6?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
-| Senior Counsel, Commercial | ClickHouse | $182k–275k/yr | Nov 12 | “United States · Canada” | [Details](https://firstmonday.ai/jobs/senior-counsel-commercial-clickhouse-bb902f70?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w47) |
 
 ---
 

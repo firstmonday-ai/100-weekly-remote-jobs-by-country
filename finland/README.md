@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in Finland
 
-Week of Mon 16 Nov 2026 · 100 of 147 open · from employers' own job boards
+Week of Mon 16 Nov 2026 · 100 of 142 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Finland, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 29 · [Sales](#sales) 17 · [Customer success](#customer-success) 4 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 4 · [Finance](#finance) 4 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 15 · [Product and design](#product-and-design) 8 · [Healthcare](#healthcare) 2 · [Education](#education) 1 · [Other](#other) 6
+[Engineering](#engineering) 27 · [Sales](#sales) 17 · [Customer success](#customer-success) 4 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 4 · [Finance](#finance) 5 · [People and HR](#people-and-hr) 6 · [Marketing](#marketing) 15 · [Product and design](#product-and-design) 8 · [Healthcare](#healthcare) 2 · [Education](#education) 1 · [Other](#other) 6
 
 ## Engineering
 
@@ -14,8 +14,7 @@ Every job below says, in its own words, that it hires in Finland, or anywhere: t
 | Senior Security Platform Engineer – Secure Delivery | Ashby | $178k–250k/yr | Nov 13 | “Remote - European Union · United Kingdom” | [Details](https://firstmonday.ai/jobs/senior-security-platform-engineer-secure-delivery-ashby-0b6dcb21?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Senior Software Engineer, Production | Matter Labs | $192k–230k/yr | Nov 12 | “You must be based in the US or the EU, with the US preferred; some…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-production-matter-labs-752ceb74?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Technical Program Manager – IP Backbone | Nebius | $180k–230k/yr | Nov 11 | “Remote - Europe · Remote - United States” | [Details](https://firstmonday.ai/jobs/technical-program-manager-ip-backbone-nebius-3427c5a5?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
-| Hands-on Engineering Manager, Infrastructure | Miaplaza | €82k–140k/yr | Nov 9 | “Location: 100% remote (EMEA)” | [Details](https://firstmonday.ai/jobs/hands-on-engineering-manager-infrastructure-miaplaza-03453201?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
-| Senior Software Engineer, Cloud Platform | Qdrant | – | Nov 13 | “Remote - EMEA · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-cloud-platform-qdrant-b5f1ff33?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
+| Hands-on Engineering Manager DevOps (GCP/Kubernetes) | Miaplaza | €82k–140k/yr | Nov 9 | “Location: 100% remote (EMEA)” | [Details](https://firstmonday.ai/jobs/hands-on-engineering-manager-infrastructure-miaplaza-03453201?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Senior Software Engineer, Cluster & Lifecycle | Qdrant | – | Nov 13 | “Remote - EMEA · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-cluster-lifecycle-qdrant-ca317b70?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | AI Platform Engineer | Polygon Labs | – | Nov 12 | “EMEA - Remote · USA - Remote” | [Details](https://firstmonday.ai/jobs/ai-platform-engineer-polygon-labs-ca799570?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Full-Stack Software Engineer (Infrastructure Focus) | VitVio | – | Nov 12 | “This role is remote-first, and open to candidates based in Europe…” | [Details](https://firstmonday.ai/jobs/full-stack-software-engineer-infrastructure-focus-vitvio-d748235e?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
@@ -31,14 +30,13 @@ Every job below says, in its own words, that it hires in Finland, or anywhere: t
 | Website Growth Engineer | ElevenLabs | – | Nov 9 | “This role is remote and can be executed from the US East Coast or…” | [Details](https://firstmonday.ai/jobs/website-growth-engineer-elevenlabs-ad93db82?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Group Engineering Manager (Infrastructure & IT Operations) | JustMarkets | – | Nov 9 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/group-engineering-manager-justmarkets-2287106b?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Senior Software Engineer, OS Integration | Mozilla | – | Nov 9 | “Remote Finland” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-os-integration-mozilla-282db8ed?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
-| Internal Support Engineer | Nerdio | – | Nov 6 | “We are hiring an experienced IT Support Engineer to join our…” | [Details](https://firstmonday.ai/jobs/internal-support-engineer-nerdio-90399479?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Senior Security Engineer | Seon | – | Nov 3 | “Europe - Remote” | [Details](https://firstmonday.ai/jobs/senior-security-engineer-seon-e205aaec?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Consultant JDA Dispatcher WMS / Remote from Europe | Kapres Technology, S.L. | – | Oct 29 | “Remote work from Europe.” | [Details](https://firstmonday.ai/jobs/consultant-jda-dispatcher-wms-remote-from-europe-kapres-technology-95251067?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | SAP BTP Developer with German | teamative Romania srl | – | Oct 19 | “remote (EU)” | [Details](https://firstmonday.ai/jobs/sap-btp-developer-with-german-teamative-74b6cf63?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
-| Senior Cybersecurity Analyst | GDIT | $106,250 - $143,750/yr · currency not stated | Nov 12 | “Any Location / Remote” | [Details](https://firstmonday.ai/jobs/senior-cybersecurity-analyst-gdit-8290fb21?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Head of Engineering (Frontier Safety) | FAR.AI | $225k–350k/yr | Nov 11 | “Location: Remote globally.” | [Details](https://firstmonday.ai/jobs/head-of-engineering-frontier-safety-far-ai-2b1e2a28?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | IT Support Engineer | Monarch Money | $118k–139k/yr | Nov 10 | “we welcome applicants from almost anywhere” | [Details](https://firstmonday.ai/jobs/it-support-engineer-monarch-money-d3856585?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | 2D Game Developer (Defold) | Your Software Supplier | $70–130/hr | Nov 9 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/2d-game-developer-defold-remote-worldwide-your-software-supplier-25992078?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
+| Senior Solution Architect (Senior Manager) | Huron | $150k–200k/yr | Nov 9 | “Travel Requirements : Flexible living locations, ability to travel…” | [Details](https://firstmonday.ai/jobs/senior-solution-architect-senior-manager-huron-5b3de548?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 
 ## Sales
 
@@ -75,7 +73,6 @@ Every job below says, in its own words, that it hires in Finland, or anywhere: t
 
 | Job | Company | Pay | Posted | Why it's open to Finland | Details |
 | --- | --- | --- | --- | --- | --- |
-| Legal Expert (EU Law), AI Evaluation | Clera | $60–85/hr | Nov 14 | “Fully remote, with location flexible. Relevant EU legal training and…” | [Details](https://firstmonday.ai/jobs/legal-expert-eu-law-ai-evaluation-clera-6ca82762?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Senior Data Scientist – Credit Risk | Creditstar | €4,000–5,000/mo · gross | Oct 30 | “Estonia · Finland · Sweden · Poland · Spain · Czechia” | [Details](https://firstmonday.ai/jobs/senior-data-scientist-credit-risk-creditstar-d46df233?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Research Scientist / Engineer, Alignment & Reward Modeling | ellamind | – | Nov 10 | “You live in the EU and are allowed to work here.” | [Details](https://firstmonday.ai/jobs/research-scientist-engineer-alignment-reward-modeling-ellamind-8284ed26?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Research Engineer / Scientist, Agentic RL Post-Training | ellamind | – | Nov 10 | “You live in the EU and are allowed to work here.” | [Details](https://firstmonday.ai/jobs/research-engineer-scientist-agentic-rl-post-training-ellamind-69029f38?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
@@ -98,16 +95,19 @@ Every job below says, in its own words, that it hires in Finland, or anywhere: t
 | Head of Finance | LI.FI | €110k–150k/yr | Nov 10 | “Please note: This role is remote within Europe. Berlin is preferred…” | [Details](https://firstmonday.ai/jobs/head-of-finance-li-fi-3befd40b?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Head of M&A (Pallas) | Vesta | – | Nov 12 | “Remote - Europe · Remote - UK” | [Details](https://firstmonday.ai/jobs/head-of-m-a-pallas-vesta-c28be2c9?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Head of M&A (Pallas) | Jonas | – | Nov 12 | “Remote - Europe · Remote - UK” | [Details](https://firstmonday.ai/jobs/head-of-m-a-pallas-jonas-9b9a1f34?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
+| Senior AP Accountant | Nebius | – | Nov 11 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/senior-ap-accountant-nebius-3497edc3?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Corporate Development – M&A Origination and Founder Relationships | Volaris Group | – | Nov 9 | “Candidates should be based in Europe” | [Details](https://firstmonday.ai/jobs/corporate-development-m-a-origination-and-founder-relationships-volarisgroup-5a883cf7?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 
 ## People and HR
 
 | Job | Company | Pay | Posted | Why it's open to Finland | Details |
 | --- | --- | --- | --- | --- | --- |
+| Clinical Recruiter at AIOS- Remote, $100-200k inc equity | AIOS | $100k–200k/yr | Nov 13 | “Remote (UK hours) · US · Remote (EU)” | [Details](https://firstmonday.ai/jobs/clinical-recruiter-at-aios-remote-100-200k-inc-equity-aios-07347aca?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Onboarding Specialist EMEA | Remote People | – | Nov 11 | “EMEA (Remote)” | [Details](https://firstmonday.ai/jobs/onboarding-specialist-emea-remote-people-9c57665e?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Talent Partner (Part-time) | Porters | – | Nov 10 | “Location: Barcelona OR EU (Remote)” | [Details](https://firstmonday.ai/jobs/talent-partner-part-time-porters-89f7399b?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Talent Acquisition Director | Sporty Group | – | Nov 10 | “EMEA - Remote” | [Details](https://firstmonday.ai/jobs/talent-acquisition-director-sporty-c4abeffa?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | SAP Consultant HCM with German | teamative Romania srl | – | Oct 19 | “DE - remote · remote (EU)” | [Details](https://firstmonday.ai/jobs/sap-consultant-hcm-with-german-teamative-141bfae6?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
+| Mid/Senior Talent Acquisition Specialist | EverAI | €50k–85k/yr | Nov 11 | “Work From Anywhere: Fully remote.” | [Details](https://firstmonday.ai/jobs/mid-senior-talent-acquisition-specialist-remote-europe-everai-bad7c6c6?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 
 ## Marketing
 
@@ -118,7 +118,6 @@ Every job below says, in its own words, that it hires in Finland, or anywhere: t
 | Growth & Lifecycle Marketing Specialist | scandiweb | €2,100–2,500/mo · net | Oct 26 | “Europe” | [Details](https://firstmonday.ai/jobs/growth-lifecycle-marketing-specialist-scandiweb-06ae94e2?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Head of Retention Marketing | ARB Interactive | – | Nov 12 | “Remote and flexible, from anywhere in the EU” | [Details](https://firstmonday.ai/jobs/head-of-retention-marketing-arb-interactive-3d2d80b6?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Regional Marketing Lead | JustMarkets | – | Nov 12 | “Europe” | [Details](https://firstmonday.ai/jobs/regional-marketing-lead-justmarkets-3990e483?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
-| Senior Manager, Integrated Marketing Campaigns | Nebius | – | Nov 12 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/senior-manager-integrated-marketing-campaigns-nebius-cb8c8412?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Creator in Residence (Social Media & Content) | lemlist | – | Nov 12 | “Location: US or Europe.” | [Details](https://firstmonday.ai/jobs/creator-in-residence-social-media-content-lemlist-cf6f350e?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Marketing Manager – Market Data | Alpaca | – | Nov 11 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/marketing-manager-market-data-alpaca-033ca539?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Motion Designer | Boosta | – | Nov 11 | “Remote, Europe · Remote, Ukraine” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/motion-designer-boosta-04b8b65a?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
@@ -126,6 +125,7 @@ Every job below says, in its own words, that it hires in Finland, or anywhere: t
 | Middle SEO Specialist | Boosta | – | Nov 11 | “Remote, Europe · Remote, Ukraine” | [Details](https://firstmonday.ai/jobs/middle-seo-specialist-boosta-9d25ea3f?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Social Media Manager, Dicey | Magic Eden | – | Nov 11 | “Europe” | [Details](https://firstmonday.ai/jobs/social-media-manager-dicey-magic-eden-e5b23bd0?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Marketing Manager (Maternity Cover) | saas.group | – | Nov 9 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/marketing-manager-maternity-cover-saas-group-4b47f00c?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
+| Junior Performance Marketer | EverAI | €37k–47k/yr | Nov 12 | “Work From Anywhere: Fully remote. Choose the environment where you…” | [Details](https://firstmonday.ai/jobs/junior-performance-marketer-remote-poland-everai-4bfe5468?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Director of Marketing and Communications | Centre for Effective Altruism | $219k/yr · US | Nov 12 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/director-of-marketing-and-communications-centre-for-effective-altruism-e1061952?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 | Manager, Marketing Operations | TFA | $61k–80k/yr · US | Nov 9 | “LOCATION: Flexible” | [Details](https://firstmonday.ai/jobs/manager-marketing-operations-tfa-68bfff11?utm_source=github&utm_medium=repo&utm_campaign=fin&utm_content=2026-w47) |
 

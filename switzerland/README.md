@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in Switzerland
 
-Week of Mon 16 Nov 2026 · 100 of 137 open · from employers' own job boards
+Week of Mon 16 Nov 2026 · 100 of 133 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Switzerland, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 26 · [Sales](#sales) 20 · [Customer success](#customer-success) 3 · [Data and AI](#data-and-ai) 3 · [Operations](#operations) 5 · [Finance](#finance) 6 · [People and HR](#people-and-hr) 3 · [Marketing](#marketing) 17 · [Product and design](#product-and-design) 7 · [Healthcare](#healthcare) 3 · [Education](#education) 2 · [Other](#other) 5
+[Engineering](#engineering) 22 · [Sales](#sales) 20 · [Customer success](#customer-success) 3 · [Data and AI](#data-and-ai) 3 · [Operations](#operations) 6 · [Finance](#finance) 7 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 18 · [Product and design](#product-and-design) 7 · [Healthcare](#healthcare) 3 · [Education](#education) 2 · [Other](#other) 5
 
 ## Engineering
 
@@ -12,8 +12,7 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | --- | --- | --- | --- | --- | --- |
 | Principal Database Engineer | Kraken | $161k–358k/yr | Nov 11 | “United Kingdom · Brazil · United Arab Emirates · Ireland · Peru ·…” | [Details](https://firstmonday.ai/jobs/principal-database-engineer-kraken-1a95ce8e?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Technical Program Manager – IP Backbone | Nebius | $180k–230k/yr | Nov 11 | “Remote - Europe · Remote - United States” | [Details](https://firstmonday.ai/jobs/technical-program-manager-ip-backbone-nebius-3427c5a5?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
-| Hands-on Engineering Manager, Infrastructure | Miaplaza | €82k–140k/yr | Nov 9 | “Location: 100% remote (EMEA)” | [Details](https://firstmonday.ai/jobs/hands-on-engineering-manager-infrastructure-miaplaza-03453201?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
-| Senior Software Engineer, Cloud Platform | Qdrant | – | Nov 13 | “Remote - EMEA · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-cloud-platform-qdrant-b5f1ff33?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
+| Hands-on Engineering Manager DevOps (GCP/Kubernetes) | Miaplaza | €82k–140k/yr | Nov 9 | “Location: 100% remote (EMEA)” | [Details](https://firstmonday.ai/jobs/hands-on-engineering-manager-infrastructure-miaplaza-03453201?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Senior Software Engineer, Cluster & Lifecycle | Qdrant | – | Nov 13 | “Remote - EMEA · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-cluster-lifecycle-qdrant-ca317b70?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | AI Platform Engineer | Polygon Labs | – | Nov 12 | “EMEA - Remote · USA - Remote” | [Details](https://firstmonday.ai/jobs/ai-platform-engineer-polygon-labs-ca799570?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Full-Stack Software Engineer (Infrastructure Focus) | VitVio | – | Nov 12 | “This role is remote-first, and open to candidates based in Europe…” | [Details](https://firstmonday.ai/jobs/full-stack-software-engineer-infrastructure-focus-vitvio-d748235e?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
@@ -26,15 +25,12 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Senior Protocol Engineer | RootstockLabs | – | Nov 10 | “100% Remote Work from Europe & Latin America, with access to global…” | [Details](https://firstmonday.ai/jobs/senior-protocol-engineer-rootstocklabs-622d636b?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Website Growth Engineer | ElevenLabs | – | Nov 9 | “This role is remote and can be executed from the US East Coast or…” | [Details](https://firstmonday.ai/jobs/website-growth-engineer-elevenlabs-ad93db82?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Group Engineering Manager (Infrastructure & IT Operations) | JustMarkets | – | Nov 9 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/group-engineering-manager-justmarkets-2287106b?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
-| Internal Support Engineer | Nerdio | – | Nov 6 | “We are hiring an experienced IT Support Engineer to join our…” | [Details](https://firstmonday.ai/jobs/internal-support-engineer-nerdio-90399479?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Senior Security Engineer | Seon | – | Nov 3 | “Europe - Remote” | [Details](https://firstmonday.ai/jobs/senior-security-engineer-seon-e205aaec?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Consultant JDA Dispatcher WMS / Remote from Europe | Kapres Technology, S.L. | – | Oct 29 | “Remote work from Europe.” | [Details](https://firstmonday.ai/jobs/consultant-jda-dispatcher-wms-remote-from-europe-kapres-technology-95251067?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
-| Senior Cybersecurity Analyst | GDIT | $106,250 - $143,750/yr · currency not stated | Nov 12 | “Any Location / Remote” | [Details](https://firstmonday.ai/jobs/senior-cybersecurity-analyst-gdit-8290fb21?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Head of Engineering (Frontier Safety) | FAR.AI | $225k–350k/yr | Nov 11 | “Location: Remote globally.” | [Details](https://firstmonday.ai/jobs/head-of-engineering-frontier-safety-far-ai-2b1e2a28?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | IT Support Engineer | Monarch Money | $118k–139k/yr | Nov 10 | “we welcome applicants from almost anywhere” | [Details](https://firstmonday.ai/jobs/it-support-engineer-monarch-money-d3856585?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | 2D Game Developer (Defold) | Your Software Supplier | $70–130/hr | Nov 9 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/2d-game-developer-defold-remote-worldwide-your-software-supplier-25992078?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Senior Solution Architect (Senior Manager) | Huron | $150k–200k/yr | Nov 9 | “Travel Requirements : Flexible living locations, ability to travel…” | [Details](https://firstmonday.ai/jobs/senior-solution-architect-senior-manager-huron-5b3de548?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
-| Salesforce Developer | Centre for Effective Altruism | $105k/yr | Oct 30 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/salesforce-developer-centre-for-effective-altruism-a4017f70?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Engineering Manager – Realtime | Supabase | – | Nov 12 | “We hire globally.” | [Details](https://firstmonday.ai/jobs/engineering-manager-realtime-supabase-2ef39fc2?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 
 ## Sales
@@ -87,6 +83,7 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Supplier Development Manager | JCI | – | Nov 9 | “however, applications from candidates across Europe will also be…” | [Details](https://firstmonday.ai/jobs/supplier-development-manager-jci-f82ba2f7?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | VP Global Demand & Delivery | Uforce | – | Nov 3 | “Europe \| Remote” | [Details](https://firstmonday.ai/jobs/vp-global-demand-delivery-uforce-4022a601?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Procurement Lead | Supabase | – | Nov 12 | “Remote, Global” | [Details](https://firstmonday.ai/jobs/procurement-lead-supabase-dd634b81?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
+| Business Operations Associate | Trust Wallet | – | Nov 11 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/business-operations-associate-trust-wallet-79af1b8f?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 
 ## Finance
 
@@ -95,6 +92,7 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Head of Finance | LI.FI | €110k–150k/yr | Nov 10 | “Please note: This role is remote within Europe. Berlin is preferred…” | [Details](https://firstmonday.ai/jobs/head-of-finance-li-fi-3befd40b?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Head of M&A (Pallas) | Vesta | – | Nov 12 | “Remote - Europe · Remote - UK” | [Details](https://firstmonday.ai/jobs/head-of-m-a-pallas-vesta-c28be2c9?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Head of M&A (Pallas) | Jonas | – | Nov 12 | “Remote - Europe · Remote - UK” | [Details](https://firstmonday.ai/jobs/head-of-m-a-pallas-jonas-9b9a1f34?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
+| Senior AP Accountant | Nebius | – | Nov 11 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/senior-ap-accountant-nebius-3497edc3?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Remote SAP R2R Functional & System Integration Lead | PROSTAFF Schweiz | – | Nov 10 | “Remote from Switzerland, with travel to Geneva every second or third…” | [Details](https://firstmonday.ai/jobs/remote-sap-r2r-functional-system-integration-lead-prostaff-schweiz-3c2c499b?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Capital Formation – Investor Relations – Ex-Founder : Family Office, Wealth Management, Hedge Funds, Private Equity | Filmdemand | – | Nov 9 | “Remote (United States) · Remote (Switzerland) · Remote…” | [Details](https://firstmonday.ai/jobs/capital-formation-investor-relations-ex-founder-family-office-wealth-management-hedge-funds-private-equity-filmdemand-bce7c769?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Corporate Development – M&A Origination and Founder Relationships | Volaris Group | – | Nov 9 | “Candidates should be based in Europe” | [Details](https://firstmonday.ai/jobs/corporate-development-m-a-origination-and-founder-relationships-volarisgroup-5a883cf7?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
@@ -105,6 +103,7 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | --- | --- | --- | --- | --- | --- |
 | Onboarding Specialist EMEA | Remote People | – | Nov 11 | “EMEA (Remote)” | [Details](https://firstmonday.ai/jobs/onboarding-specialist-emea-remote-people-9c57665e?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Talent Acquisition Director | Sporty Group | – | Nov 10 | “EMEA - Remote” | [Details](https://firstmonday.ai/jobs/talent-acquisition-director-sporty-c4abeffa?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
+| Mid/Senior Talent Acquisition Specialist | EverAI | €50k–85k/yr | Nov 11 | “Work From Anywhere: Fully remote.” | [Details](https://firstmonday.ai/jobs/mid-senior-talent-acquisition-specialist-remote-europe-everai-bad7c6c6?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Recruiter | White Circle | – | Nov 11 | “Global” | [Details](https://firstmonday.ai/jobs/recruiter-white-circle-3aedb328?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 
 ## Marketing
@@ -115,7 +114,6 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | AI-native go-to-market lead (co-founder opportunity) | scandiweb | €1,500–3,000/mo · net | Nov 3 | “Europe” | [Details](https://firstmonday.ai/jobs/ai-native-go-to-market-lead-co-founder-opportunity-scandiweb-51d114fd?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Growth & Lifecycle Marketing Specialist | scandiweb | €2,100–2,500/mo · net | Oct 26 | “Europe” | [Details](https://firstmonday.ai/jobs/growth-lifecycle-marketing-specialist-scandiweb-06ae94e2?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Regional Marketing Lead | JustMarkets | – | Nov 12 | “Europe” | [Details](https://firstmonday.ai/jobs/regional-marketing-lead-justmarkets-3990e483?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
-| Senior Manager, Integrated Marketing Campaigns | Nebius | – | Nov 12 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/senior-manager-integrated-marketing-campaigns-nebius-cb8c8412?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Creator in Residence (Social Media & Content) | lemlist | – | Nov 12 | “Location: US or Europe.” | [Details](https://firstmonday.ai/jobs/creator-in-residence-social-media-content-lemlist-cf6f350e?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Marketing Manager – Market Data | Alpaca | – | Nov 11 | “Remote - Europe” | [Details](https://firstmonday.ai/jobs/marketing-manager-market-data-alpaca-033ca539?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Motion Designer | Boosta | – | Nov 11 | “Remote, Europe · Remote, Ukraine” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/motion-designer-boosta-04b8b65a?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
@@ -123,11 +121,13 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Middle SEO Specialist | Boosta | – | Nov 11 | “Remote, Europe · Remote, Ukraine” | [Details](https://firstmonday.ai/jobs/middle-seo-specialist-boosta-9d25ea3f?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Social Media Manager, Dicey | Magic Eden | – | Nov 11 | “Europe” | [Details](https://firstmonday.ai/jobs/social-media-manager-dicey-magic-eden-e5b23bd0?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Marketing Manager (Maternity Cover) | saas.group | – | Nov 9 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/marketing-manager-maternity-cover-saas-group-4b47f00c?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
+| Junior Performance Marketer | EverAI | €37k–47k/yr | Nov 12 | “Work From Anywhere: Fully remote. Choose the environment where you…” | [Details](https://firstmonday.ai/jobs/junior-performance-marketer-remote-poland-everai-4bfe5468?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Director of Marketing and Communications | Centre for Effective Altruism | $219k/yr · US | Nov 12 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/director-of-marketing-and-communications-centre-for-effective-altruism-e1061952?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Manager, Marketing Operations | TFA | $61k–80k/yr · US | Nov 9 | “LOCATION: Flexible” | [Details](https://firstmonday.ai/jobs/manager-marketing-operations-tfa-68bfff11?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | SEO & AEO Team Lead | Discovered | $60k–90k/yr | Nov 3 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/seo-aeo-team-lead-discovered-625453cb?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | UGC Manager | AnswerThis | – | Nov 14 | “Remote (Worldwide)” | [Details](https://firstmonday.ai/jobs/ugc-manager-answerthis-d1aadd20?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 | Organic Growth Manager (Social Media) | SKELAR | – | Nov 11 | “Global, Remote” | [Details](https://firstmonday.ai/jobs/organic-growth-manager-social-media-skelar-afa8ca02?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
+| Organic Growth Manager (Social Media) | Liven | – | Nov 11 | “Global, Remote” | [Details](https://firstmonday.ai/jobs/organic-growth-manager-social-media-liven-e7b3eab5?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w47) |
 
 ## Product and design
 
