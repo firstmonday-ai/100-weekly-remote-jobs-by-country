@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in Belgium
 
-Week of Mon 23 Nov 2026 · 100 of 137 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 100 of 132 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Belgium, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 29 · [Sales](#sales) 17 · [Customer success](#customer-success) 3 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 11 · [Finance](#finance) 4 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 11 · [Product and design](#product-and-design) 3 · [Healthcare](#healthcare) 5 · [Education](#education) 1 · [Other](#other) 6
+[Engineering](#engineering) 27 · [Sales](#sales) 18 · [Customer success](#customer-success) 3 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 9 · [Finance](#finance) 3 · [People and HR](#people-and-hr) 3 · [Marketing](#marketing) 14 · [Product and design](#product-and-design) 3 · [Healthcare](#healthcare) 5 · [Education](#education) 1 · [Other](#other) 8
 
 ## Engineering
 
@@ -14,7 +14,6 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | Senior Security Engineer – Corporate Security | Ashby | $178k–295k/yr | Nov 20 | “Remote - European Union · United Kingdom” | [Details](https://firstmonday.ai/jobs/senior-security-engineer-corporate-security-ashby-431e91e4?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Staff Software Engineer, OS Integration | Mozilla | €78k–104k/yr | Nov 19 | “Remote Belgium” | [Details](https://firstmonday.ai/jobs/staff-software-engineer-os-integration-mozilla-1e14eae5?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Staff Developer Relations Engineer | Chainguard | $151k–178k/yr | Nov 18 | “Europe - Remote · United States - Remote” | [Details](https://firstmonday.ai/jobs/staff-developer-relations-engineer-chainguard-88e8c40a?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
-| Staff Performance Engineer, JavaScript Engine (SpiderMonkey) | Mozilla | €78k–104k/yr | Nov 17 | “Remote Belgium” | [Details](https://firstmonday.ai/jobs/staff-performance-engineer-javascript-engine-spidermonkey-mozilla-0256d3e0?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Software Engineer, Simulation | AeroVect | $110k–170k/yr | Nov 16 | “We hire remotely from Europe and North America at two levels” | [Details](https://firstmonday.ai/jobs/software-engineer-simulation-aerovect-fdbbb2fd?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Sr. Software Engineer – Enterprise Features & Orchestration | ClickHouse | $142k–250k/yr | Nov 16 | “Europe or US” | [Details](https://firstmonday.ai/jobs/sr-software-engineer-enterprise-features-orchestration-clickhouse-37e657e1?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Director of Engineering | Nuitée | – | Nov 20 | “Europe (remote)” | [Details](https://firstmonday.ai/jobs/director-of-engineering-nuitee-189edc23?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
@@ -23,13 +22,13 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | Release Implementation Engineer | WhiteTech | – | Nov 20 | “Europe” | [Details](https://firstmonday.ai/jobs/release-implementation-engineer-whitetech-367e7d1f?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Software Engineer, Bot Detection (Client-Side & Signals) | Hugging Face | – | Nov 20 | “Senior Software Engineer, Bot Detection (Client-Side & Signals)…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-bot-detection-client-side-signals-us-remote-hugging-face-35c749c2?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Software/Data Engineer, Bot Detection | Hugging Face | – | Nov 20 | “Senior Software/Data Engineer, Bot Detection - EMEA Remote” | [Details](https://firstmonday.ai/jobs/senior-software-data-engineer-bot-detection-us-remote-hugging-face-23dffa0f?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
-| Senior Software Engineer, Search Engine Core | Qdrant | – | Nov 19 | “Remote - EMEA · France · Netherlands · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-search-engine-core-qdrant-fc3987ba?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior/Lead Python Engineer | Mimica | – | Nov 19 | “Remote Anywhere” | [Details](https://firstmonday.ai/jobs/senior-lead-python-engineer-mimica-7584c7bc?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Head of Workplace Engineering | M-KOPA | – | Nov 18 | “Based in Nigeria, Kenya, South Africa, Ghana, Uganda, the UK or the…” | [Details](https://firstmonday.ai/jobs/head-of-workplace-engineering-m-kopa-343f251c?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior DevOps Engineer II | Tabby | – | Nov 18 | “Fully remote setup, work from anywhere in Europe” | [Details](https://firstmonday.ai/jobs/senior-devops-engineer-ii-tabby-12379c75?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior QA Engineer | Oppizi | – | Nov 18 | “Ukraine · Bulgaria · Belgium · Argentina · Mexico · Brazil” | [Details](https://firstmonday.ai/jobs/senior-qa-engineer-oppizi-03cff527?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Full-Stack Engineer – ElevenMusic | ElevenLabs | – | Nov 17 | “This role is remote-first, so it can be executed from anywhere in…” | [Details](https://firstmonday.ai/jobs/full-stack-engineer-elevenmusic-elevenlabs-bfe59c67?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior QA Engineer | Trust Wallet | – | Nov 17 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/senior-qa-engineer-trust-wallet-7e5f6844?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Staff Performance Engineer, JavaScript Engine (SpiderMonkey) | Mozilla | – | Nov 17 | “Remote Belgium” | [Details](https://firstmonday.ai/jobs/staff-performance-engineer-javascript-engine-spidermonkey-mozilla-f4cb1d58?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Software Engineer – Developer Platform | Alpaca | – | Nov 16 | “Remote - Europe, Americas” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-developer-platform-alpaca-cf285c5d?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Software Engineer, Platform | Qdrant | – | Nov 16 | “Remote - EMEA · France · Netherlands · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-platform-qdrant-8c3624a5?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Engineering Manager – Infra | Radiant | – | Nov 16 | “Location: UK / Europe” | [Details](https://firstmonday.ai/jobs/engineering-manager-infra-radiant-03f1def5?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
@@ -38,14 +37,13 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | Lead Engineer – AI Platform | Pencil | – | Nov 16 | “EMEA” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/lead-engineer-ai-platform-emea-pencil-30ec03a9?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Drupal Developer | GDIT | $106,250 - $143,750/yr · currency not stated | Nov 22 | “Any Location / Remote” | [Details](https://firstmonday.ai/jobs/senior-drupal-developer-gdit-eb6ef0a6?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Security and Automation Engineer | Modern IT | $6,000–7,500/mo | Nov 19 | “We welcome applicants globally whose local hours support this…” | [Details](https://firstmonday.ai/jobs/senior-security-and-automation-engineer-modern-it-c8a7fe87?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
-| Technical Delivery Manager | Progress Partners | – | Nov 20 | “Remote-first: work from anywhere in the world, no relocation required.” | [Details](https://firstmonday.ai/jobs/technical-delivery-manager-progress-partners-5b47d77d?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 
 ## Sales
 
 | Job | Company | Pay | Posted | Why it's open to Belgium | Details |
 | --- | --- | --- | --- | --- | --- |
 | Sales Intern, Italian-Speaking | Clera | €24k–26k/yr | Nov 20 | “Fully remote within Europe.” | [Details](https://firstmonday.ai/jobs/sales-intern-italian-speaking-clera-5f07ae43?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
-| Senior Account Executive (Iberia – Remote) | Duvo | €200k–260k/yr | Nov 19 | “EU/UK - Remote” | [Details](https://firstmonday.ai/jobs/senior-account-executive-iberia-remote-duvo-d02a70e2?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Senior Account Executive (Iberia – Remote) | Duvo | €200k–260k/yr | – | “EU/UK - Remote” | [Details](https://firstmonday.ai/jobs/senior-account-executive-iberia-remote-duvo-d02a70e2?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Director, elluminate Business Development | eClinical Solutions | $125k/yr | Nov 18 | “Remote (EU)” | [Details](https://firstmonday.ai/jobs/director-elluminate-business-development-eclinical-solutions-cc8a0853?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Solutions Consultant (EU) | eClinical Solutions | $116k–145k/yr | Nov 18 | “Remote, EU” | [Details](https://firstmonday.ai/jobs/solutions-consultant-eu-eclinical-solutions-211d389e?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Enterprise SaaS Sales Executive | Driivz | £148k/yr | – | “Europe” | [Details](https://firstmonday.ai/jobs/senior-enterprise-saas-sales-executive-driivz-312b15c6?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
@@ -55,6 +53,7 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | Sponsorship Sales Manager (Davos 2027) – Elvoro Ltd | Elvoro | – | Nov 20 | “Location: Remote, worldwide (USA/EU preferred)” | [Details](https://firstmonday.ai/jobs/sponsorship-sales-manager-davos-2027-elvoro-ltd-elvoro-fba05289?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Independent Sales Representative – Elvoro Ltd | Elvoro | – | Nov 20 | “Location: Remote, Worldwide (USA/EU preferred)” | [Details](https://firstmonday.ai/jobs/independent-sales-representative-elvoro-ltd-elvoro-f52e3ad1?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Sales Manager Benelux | SCJ Professional Candidate Home | – | Nov 20 | “Location: Netherlands or Belgium (Home-Based)” | [Details](https://firstmonday.ai/jobs/sales-manager-benelux-scj-professional-candidate-home-3b3fc47c?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Head of Global Enterprise Renewals | n8n | – | Nov 19 | “Berlin, Germany · Bosnia · Norway · Estonia · Latvia · Slovenia ·…” | [Details](https://firstmonday.ai/jobs/head-of-global-enterprise-renewals-emea-remote-n8n-7d9f4fae?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | EMEA Sales Manager, MP Plastics | lsi | – | – | “Location: Remote, Europe” | [Details](https://firstmonday.ai/jobs/emea-sales-manager-mp-plastics-lsi-21924e03?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Sales Team Manager | ThriveCart | – | Nov 17 | “Remote - US / EU” | [Details](https://firstmonday.ai/jobs/sales-team-manager-thrivecart-1266fa6c?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Tender Manager/Bid Manager 🇧🇪 | Alan | – | Nov 17 | “Anywhere in Belgium” | [Details](https://firstmonday.ai/jobs/tender-manager-bid-manager-alan-70b69205?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
@@ -87,10 +86,8 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | --- | --- | --- | --- | --- | --- |
 | Principal Security Operations Analyst | Huntress Labs | $185k–220k/yr | Nov 18 | “Huntress is looking for a Principal Security Operations Center…” | [Details](https://firstmonday.ai/jobs/principal-security-operations-analyst-huntress-labs-1fe8e210?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Security Governance, Risk and Compliance (GRC) Manager | Canonical | – | Nov 20 | “Location: EMEA or Americas — fully remote (home-based), with the…” | [Details](https://firstmonday.ai/jobs/security-governance-risk-and-compliance-grc-manager-canonical-4cbae0a6?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
-| Senior Data Center Director | Kapres Technology, S.L. | – | Nov 20 | “The position is remote within Europe.” | [Details](https://firstmonday.ai/jobs/senior-data-center-director-kapres-technology-f36a1d9a?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Onshore Wind Portfolio EHS Leader | GE Vernova | – | Nov 20 | “Residence in the EMEA region and ability to travel 50–60% of the time.” | [Details](https://firstmonday.ai/jobs/onshore-wind-portfolio-ehs-leader-north-central-europe-ge-vernova-e9b2399d?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Planning & Fulfilment Manager for Building Automation BL | ABB | – | Nov 20 | “Potential hiring locations: Europe” | [Details](https://firstmonday.ai/jobs/planning-fulfilment-manager-for-building-automation-bl-abb-0481d6b8?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
-| Service Delivery Automation Analyst | Oyster | – | Nov 19 | “To create the best experience for our new hire, this role requires…” | [Details](https://firstmonday.ai/jobs/service-delivery-automation-analyst-oyster-59470c48?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Chief of Staff to the COO | B2X Care Solutions | – | Nov 18 | “Remote from anywhere in the EU” | [Details](https://firstmonday.ai/jobs/chief-of-staff-to-the-coo-b2x-3bc8909c?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | RevOps Manager, Partner Operations & Deal Desk | Neptune Software AS | – | Nov 17 | “Remote anywhere in EMEA” | [Details](https://firstmonday.ai/jobs/revops-manager-partner-operations-deal-desk-neptune-software-fce2e361?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Global Procurement Manager | Docplanner | – | Nov 16 | “This role is Remote in the EU only - CVs in English please.” | [Details](https://firstmonday.ai/jobs/global-procurement-manager-docplanner-a9e967c8?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
@@ -101,7 +98,6 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 
 | Job | Company | Pay | Posted | Why it's open to Belgium | Details |
 | --- | --- | --- | --- | --- | --- |
-| Finance Business Partner | Aceve | – | Nov 20 | “Stockholm · Europe” | [Details](https://firstmonday.ai/jobs/finance-business-partner-aceve-0e705275?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Accountant | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/senior-accountant-saas-group-f2c68545?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Accounting Manager | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/accounting-manager-saas-group-821f2742?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | FP&A Manager | Wire Swiss | – | Nov 19 | “Working Location: Remote within Europe, with travel to our Berlin…” | [Details](https://firstmonday.ai/jobs/fp-a-manager-wire-755d9a41?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
@@ -111,7 +107,6 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | Job | Company | Pay | Posted | Why it's open to Belgium | Details |
 | --- | --- | --- | --- | --- | --- |
 | Senior Director, Compensation & Benefits | MetaMask | $209k–302k/yr · US | Nov 19 | “UNITED STATES - Remote, EMEA - Remote” | [Details](https://firstmonday.ai/jobs/senior-director-compensation-benefits-metamask-d629740d?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
-| Recruiter | All Your BI | €48k–61k/yr · gross | Nov 18 | “Remote-first, anywhere in the EU/EEA” | [Details](https://firstmonday.ai/jobs/recruiter-all-your-bi-4a5af290?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | PMO Lead – P&C Transformation | ABB | From €53k/yr | Nov 17 | “This opportunity is open to candidates in one or more countries…” | [Details](https://firstmonday.ai/jobs/pmo-lead-p-c-transformation-abb-4d419b04?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Talent Acquisition Partner · Remote-First Scale-up · Permanent | Kyra | – | Nov 18 | “Location: Remote-first, based in Europe.” | [Details](https://firstmonday.ai/jobs/talent-acquisition-partner-remote-first-scale-up-permanent-kyra-4e953fb4?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 
@@ -130,6 +125,9 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | SEO & GEO Specialist | Flowpouch | – | Nov 16 | “Remote (United States) · Remote (Europe) · Remote (Central/South…” | [Details](https://firstmonday.ai/jobs/seo-geo-specialist-flowpouch-9145523d?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Head of Organic Strategy | Flowpouch | – | Nov 16 | “Remote (United States) · Remote (Europe)” | [Details](https://firstmonday.ai/jobs/head-of-organic-strategy-flowpouch-590741cc?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Senior Product Marketing Manager – Recruitment Cloud | Bullhorn | – | Nov 16 | “Remote EMEA - United Kingdom” | [Details](https://firstmonday.ai/jobs/senior-product-marketing-manager-recruitment-cloud-bullhorn-333de00d?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Affiliate Manager | EverAI | €30k–70k/yr | Nov 20 | “Work From Anywhere: Fully remote.” | [Details](https://firstmonday.ai/jobs/affiliate-manager-remote-france-everai-737d43f2?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Retention & CLV Operator | Glow25 | – | Nov 20 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/retention-clv-operator-glow25-by-primal-state-performance-c6bc8362?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Growth Acquisition Operator | Glow25 | – | Nov 20 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/growth-acquisition-operator-glow25-by-primal-state-performance-d94d4895?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 
 ## Product and design
 
@@ -165,11 +163,13 @@ Every job below says, in its own words, that it hires in Belgium, or anywhere: t
 | Senior Governance, Risk, and Compliance (GRC) Specialist | Glia | – | Nov 16 | “Europe \| Remote” | [Details](https://firstmonday.ai/jobs/senior-governance-risk-and-compliance-grc-specialist-glia-d3a2749c?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | IP Lawyer (Trademarks and Copyright) | Ruby Labs | – | Nov 16 | “European Union” | [Details](https://firstmonday.ai/jobs/ip-lawyer-trademarks-and-copyright-ruby-labs-bb456f4d?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 | Solution Strategy & Industry Advisory Consultant | Jonas | – | Nov 16 | “Remote - UK · Remote - Europe · Remote - South Africa” | [Details](https://firstmonday.ai/jobs/solution-strategy-industry-advisory-consultant-jonas-aa0d326c?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Junior Editorial Writer (FTC – PTC) – Weekend Focused | GAMURS Group | – | Nov 20 | “Worldwide” | [Details](https://firstmonday.ai/jobs/junior-editorial-writer-ftc-ptc-weekend-focused-gamurs-5202a97f?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
+| Red Team Lead | Supabase | – | Nov 20 | “Remote, Global” | [Details](https://firstmonday.ai/jobs/red-team-lead-supabase-dc7106ab?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48) |
 
 ---
 
 **Get the new remote jobs open to you in Belgium by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48).
 
-Every remote job open to people in Belgium, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/belgium?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in Belgium, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/belgium?utm_source=github&utm_medium=repo&utm_campaign=bel&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

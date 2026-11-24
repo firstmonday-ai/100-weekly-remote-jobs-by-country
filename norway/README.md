@@ -1,10 +1,10 @@
-# 88 best new remote jobs open to people in Norway
+# 86 best new remote jobs open to people in Norway
 
-Week of Mon 23 Nov 2026 · 88 of 100 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 86 of 97 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Norway, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 27 · [Sales](#sales) 10 · [Customer success](#customer-success) 2 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 10 · [Finance](#finance) 4 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 11 · [Product and design](#product-and-design) 2 · [Healthcare](#healthcare) 4 · [Education](#education) 2 · [Other](#other) 7
+[Engineering](#engineering) 26 · [Sales](#sales) 11 · [Customer success](#customer-success) 2 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 9 · [Finance](#finance) 3 · [People and HR](#people-and-hr) 3 · [Marketing](#marketing) 12 · [Product and design](#product-and-design) 2 · [Healthcare](#healthcare) 4 · [Education](#education) 2 · [Other](#other) 7
 
 ## Engineering
 
@@ -20,7 +20,6 @@ Every job below says, in its own words, that it hires in Norway, or anywhere: th
 | Release Implementation Engineer | WhiteTech | – | Nov 20 | “Europe” | [Details](https://firstmonday.ai/jobs/release-implementation-engineer-whitetech-367e7d1f?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Senior Software Engineer, Bot Detection (Client-Side & Signals) | Hugging Face | – | Nov 20 | “Senior Software Engineer, Bot Detection (Client-Side & Signals)…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-bot-detection-client-side-signals-us-remote-hugging-face-35c749c2?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Senior Software/Data Engineer, Bot Detection | Hugging Face | – | Nov 20 | “Senior Software/Data Engineer, Bot Detection - EMEA Remote” | [Details](https://firstmonday.ai/jobs/senior-software-data-engineer-bot-detection-us-remote-hugging-face-23dffa0f?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
-| Senior Software Engineer, Search Engine Core | Qdrant | – | Nov 19 | “Remote - EMEA · France · Netherlands · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-search-engine-core-qdrant-fc3987ba?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Senior/Lead Python Engineer | Mimica | – | Nov 19 | “Remote Anywhere” | [Details](https://firstmonday.ai/jobs/senior-lead-python-engineer-mimica-7584c7bc?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Senior DevOps Engineer II | Tabby | – | Nov 18 | “Fully remote setup, work from anywhere in Europe” | [Details](https://firstmonday.ai/jobs/senior-devops-engineer-ii-tabby-12379c75?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Full-Stack Engineer – ElevenMusic | ElevenLabs | – | Nov 17 | “This role is remote-first, so it can be executed from anywhere in…” | [Details](https://firstmonday.ai/jobs/full-stack-engineer-elevenmusic-elevenlabs-bfe59c67?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
@@ -49,6 +48,7 @@ Every job below says, in its own words, that it hires in Norway, or anywhere: th
 | Sales Engineer | Akuity | – | Nov 20 | “Remote - EMEA” | [Details](https://firstmonday.ai/jobs/sales-engineer-emea-akuity-e868622e?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Sponsorship Sales Manager (Davos 2027) – Elvoro Ltd | Elvoro | – | Nov 20 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/sponsorship-sales-manager-davos-2027-elvoro-ltd-elvoro-fba05289?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Independent Sales Representative – Elvoro Ltd | Elvoro | – | Nov 20 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/independent-sales-representative-elvoro-ltd-elvoro-f52e3ad1?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
+| Head of Global Enterprise Renewals | n8n | – | Nov 19 | “Berlin, Germany · Bosnia · Norway · Estonia · Latvia · Slovenia ·…” | [Details](https://firstmonday.ai/jobs/head-of-global-enterprise-renewals-emea-remote-n8n-7d9f4fae?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | EMEA Sales Manager, MP Plastics | lsi | – | – | “Location: Remote, Europe” | [Details](https://firstmonday.ai/jobs/emea-sales-manager-mp-plastics-lsi-21924e03?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | SMS Routing Specialist / Telecom Traffic Analyst | Scarpel Telecom | – | Nov 16 | “Worldwide” | [Details](https://firstmonday.ai/jobs/sms-routing-specialist-telecom-traffic-analyst-scarpel-telecom-5fefedd2?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Business Development Lead (Trading) | Optimum | – | Nov 17 | “Work from wherever you do your best thinking.” | [Details](https://firstmonday.ai/jobs/business-development-lead-trading-optimum-blockchain-networking-a5bb63e2?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
@@ -74,12 +74,11 @@ Every job below says, in its own words, that it hires in Norway, or anywhere: th
 
 | Job | Company | Pay | Posted | Why it's open to Norway | Details |
 | --- | --- | --- | --- | --- | --- |
+| Senior Technical Program Manager | Armada | 926k–1158k NOK/yr | Nov 18 | “Norway (Remote)” | [Details](https://firstmonday.ai/jobs/senior-technical-program-manager-armada-a44ec5ca?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Principal Security Operations Analyst | Huntress Labs | $185k–220k/yr | Nov 18 | “Huntress is looking for a Principal Security Operations Center…” | [Details](https://firstmonday.ai/jobs/principal-security-operations-analyst-huntress-labs-1fe8e210?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Security Governance, Risk and Compliance (GRC) Manager | Canonical | – | Nov 20 | “Location: EMEA or Americas — fully remote (home-based), with the…” | [Details](https://firstmonday.ai/jobs/security-governance-risk-and-compliance-grc-manager-canonical-4cbae0a6?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
-| Senior Data Center Director | Kapres Technology, S.L. | – | Nov 20 | “The position is remote within Europe.” | [Details](https://firstmonday.ai/jobs/senior-data-center-director-kapres-technology-f36a1d9a?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Onshore Wind Portfolio EHS Leader | GE Vernova | – | Nov 20 | “Residence in the EMEA region and ability to travel 50–60% of the time.” | [Details](https://firstmonday.ai/jobs/onshore-wind-portfolio-ehs-leader-north-central-europe-ge-vernova-e9b2399d?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Planning & Fulfilment Manager for Building Automation BL | ABB | – | Nov 20 | “Potential hiring locations: Europe” | [Details](https://firstmonday.ai/jobs/planning-fulfilment-manager-for-building-automation-bl-abb-0481d6b8?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
-| Service Delivery Automation Analyst | Oyster | – | Nov 19 | “To create the best experience for our new hire, this role requires…” | [Details](https://firstmonday.ai/jobs/service-delivery-automation-analyst-oyster-59470c48?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Contract Analyst II | ICON | – | Nov 19 | “Contract Analyst II - Denmark, Sweden, Norway or Finland” | [Details](https://firstmonday.ai/jobs/contract-analyst-ii-icon-6ec9fae8?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Partner Liaison | GDIT | $64,230 - $74,750/yr · currency not stated | Nov 20 | “Any Location / Remote” | [Details](https://firstmonday.ai/jobs/partner-liaison-gdit-16444a4e?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | AI Operations Monitor – Digital Operations & Incident Response | Lightly AG | $20–30/hr | Nov 18 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/ai-operations-monitor-digital-operations-incident-response-lightly-c677d0b8?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
@@ -89,7 +88,6 @@ Every job below says, in its own words, that it hires in Norway, or anywhere: th
 
 | Job | Company | Pay | Posted | Why it's open to Norway | Details |
 | --- | --- | --- | --- | --- | --- |
-| Finance Business Partner | Aceve | – | Nov 20 | “Stockholm · Europe” | [Details](https://firstmonday.ai/jobs/finance-business-partner-aceve-0e705275?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Senior Accountant | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/senior-accountant-saas-group-f2c68545?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Accounting Manager | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/accounting-manager-saas-group-821f2742?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | FP&A Manager | Wire Swiss | – | Nov 19 | “Working Location: Remote within Europe, with travel to our Berlin…” | [Details](https://firstmonday.ai/jobs/fp-a-manager-wire-755d9a41?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
@@ -99,7 +97,6 @@ Every job below says, in its own words, that it hires in Norway, or anywhere: th
 | Job | Company | Pay | Posted | Why it's open to Norway | Details |
 | --- | --- | --- | --- | --- | --- |
 | Senior Director, Compensation & Benefits | MetaMask | $209k–302k/yr · US | Nov 19 | “UNITED STATES - Remote, EMEA - Remote” | [Details](https://firstmonday.ai/jobs/senior-director-compensation-benefits-metamask-d629740d?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
-| Recruiter | All Your BI | €48k–61k/yr · gross | Nov 18 | “Remote-first, anywhere in the EU/EEA” | [Details](https://firstmonday.ai/jobs/recruiter-all-your-bi-4a5af290?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | PMO Lead – P&C Transformation | ABB | From €53k/yr | Nov 17 | “This opportunity is open to candidates in one or more countries…” | [Details](https://firstmonday.ai/jobs/pmo-lead-p-c-transformation-abb-4d419b04?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Talent Acquisition Partner · Remote-First Scale-up · Permanent | Kyra | – | Nov 18 | “Location: Remote-first, based in Europe.” | [Details](https://firstmonday.ai/jobs/talent-acquisition-partner-remote-first-scale-up-permanent-kyra-4e953fb4?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 
@@ -113,6 +110,7 @@ Every job below says, in its own words, that it hires in Norway, or anywhere: th
 | SEO & GEO Specialist | Flowpouch | – | Nov 16 | “Remote (United States) · Remote (Europe) · Remote (Central/South…” | [Details](https://firstmonday.ai/jobs/seo-geo-specialist-flowpouch-9145523d?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Head of Organic Strategy | Flowpouch | – | Nov 16 | “Remote (United States) · Remote (Europe)” | [Details](https://firstmonday.ai/jobs/head-of-organic-strategy-flowpouch-590741cc?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Senior Product Marketing Manager – Recruitment Cloud | Bullhorn | – | Nov 16 | “Remote EMEA - United Kingdom” | [Details](https://firstmonday.ai/jobs/senior-product-marketing-manager-recruitment-cloud-bullhorn-333de00d?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
+| Affiliate Manager | EverAI | €30k–70k/yr | Nov 20 | “Work From Anywhere: Fully remote.” | [Details](https://firstmonday.ai/jobs/affiliate-manager-remote-france-everai-737d43f2?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Retention & CLV Operator | Glow25 | – | Nov 20 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/retention-clv-operator-glow25-by-primal-state-performance-c6bc8362?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Growth Acquisition Operator | Glow25 | – | Nov 20 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/growth-acquisition-operator-glow25-by-primal-state-performance-d94d4895?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
 | Performance Creative Designer | Flipper | – | Nov 19 | “Global Remote” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/performance-creative-designer-flipper-eb4bd732?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48) |
@@ -158,6 +156,6 @@ Every job below says, in its own words, that it hires in Norway, or anywhere: th
 
 **Get the new remote jobs open to you in Norway by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48).
 
-Every remote job open to people in Norway, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/norway?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in Norway, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/norway?utm_source=github&utm_medium=repo&utm_campaign=nor&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

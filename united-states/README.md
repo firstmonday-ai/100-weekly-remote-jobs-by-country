@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in the United States
 
-Week of Mon 23 Nov 2026 · 100 of 2,957 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 100 of 2,859 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in the United States. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 24 · [Sales](#sales) 17 · [Customer success](#customer-success) 11 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 12 · [Finance](#finance) 1 · [People and HR](#people-and-hr) 6 · [Marketing](#marketing) 7 · [Product and design](#product-and-design) 10 · [Healthcare](#healthcare) 3 · [Education](#education) 1 · [Other](#other) 2
+[Engineering](#engineering) 23 · [Sales](#sales) 18 · [Customer success](#customer-success) 12 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 12 · [Finance](#finance) 1 · [People and HR](#people-and-hr) 5 · [Marketing](#marketing) 7 · [Product and design](#product-and-design) 10 · [Healthcare](#healthcare) 4 · [Education](#education) 1 · [Other](#other) 2
 
 ## Engineering
 
@@ -24,7 +24,6 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Software Developer Principal | GDIT | $122k–165k/yr | Nov 21 | “candidate must have lived in the United States at least three (3)…” | [Details](https://firstmonday.ai/jobs/software-developer-principal-gdit-481eed3a?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Staff Software Engineer, Backend – AI Native | BILL | $177k–212k/yr | Nov 20 | “United States” | [Details](https://firstmonday.ai/jobs/staff-software-engineer-backend-ai-native-bill-f1ed72bf?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Design Engineer, Web | WorkOS | $170k–220k/yr | Nov 20 | “United States & Canada” | [Details](https://firstmonday.ai/jobs/design-engineer-web-workos-4bdaedf1?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
-| Sr. Manager, VBC Technology | Privia Health | $85k–100k/yr | Nov 20 | “Remote, USA, United States” | [Details](https://firstmonday.ai/jobs/sr-manager-vbc-technology-privia-health-59d36f9d?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Solutions Engineer – Ads Product & Innovation | Pinterest | $86k–177k/yr | Nov 20 | “US based applicants only” · In the office occasionally | [Details](https://firstmonday.ai/jobs/solutions-engineer-ads-product-innovation-pinterest-e071d5a8?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Quality Engineer | Beacon Biosignals | $120k–142k/yr | Nov 20 | “The position will be located in the US” | [Details](https://firstmonday.ai/jobs/quality-engineer-beacon-biosignals-6e4457a0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Senior Manager, Customer Engineering | Redpanda Data | $220k/yr | Nov 20 | “US - Remote · Canada - Remote” | [Details](https://firstmonday.ai/jobs/senior-manager-customer-engineering-redpanda-data-bbb87a73?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
@@ -48,6 +47,7 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Enterprise Account Executive (Manufacturing) | AssetWatch | $245k–361k/yr | Nov 20 | “This role is located in the United States.” | [Details](https://firstmonday.ai/jobs/enterprise-account-executive-manufacturing-assetwatch-ea039d21?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Product Solutions Manager | Optro | $109k–163k/yr | Nov 20 | “United States” | [Details](https://firstmonday.ai/jobs/product-solutions-manager-optro-2db8a7b2?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Provider Account Executive – Psych | Rula | $31–36/hr | Nov 20 | “must be based in United States, currently not hiring in Hawaii” · Not in Hawaii | [Details](https://firstmonday.ai/jobs/provider-account-executive-psych-rula-be55f6dd?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
+| Solutions Executive – Cisco | SHI International | $110k–175k/yr | – | “US - TX - Home Office · US - Remote” | [Details](https://firstmonday.ai/jobs/solutions-executive-cisco-shi-international-160e888e?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Sales Director – Government & Critical Infrastructure | Ocient | $135k–195k/yr | Nov 20 | “United States - Remote” | [Details](https://firstmonday.ai/jobs/sales-director-government-critical-infrastructure-ocient-e36c7ed2?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Sales Director – Healthcare | Ocient | $135k–195k/yr | Nov 20 | “United States - Remote” | [Details](https://firstmonday.ai/jobs/sales-director-healthcare-ocient-0a27246d?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Business Development Representative – Commercial | ACI Learning | $80k/yr | Nov 20 | “Based in the United States and able to work remotely full time” | [Details](https://firstmonday.ai/jobs/business-development-representative-commercial-aci-learning-c9905325?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
@@ -55,18 +55,19 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Account Executive (Enterprise) | Yoodli AI Roleplays | $130k–150k/yr | Nov 20 | “United States” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/account-executive-enterprise-yoodli-ai-roleplays-609595f0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Account Manager | QuinStreet | $70k–110k/yr | Nov 20 | “United States” | [Details](https://firstmonday.ai/jobs/account-manager-quinstreet-5bd4082c?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Business Development Representative (BDR) Manager | Parachute Health | $95k–110k/yr | Nov 20 | “U.S. Remote” | [Details](https://firstmonday.ai/jobs/business-development-representative-bdr-manager-parachute-health-d5bd6d2e?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
-| Senior Pricing Enablement Manager | Fivetran | $175k–219k/yr | Nov 20 | “Remote, New York, United States, AMER” | [Details](https://firstmonday.ai/jobs/senior-pricing-enablement-manager-fivetran-450ec2a0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
+| Senior Pricing Enablement Manager | Fivetran | $158k–198k/yr | Nov 20 | “Remote, New York, United States, AMER” | [Details](https://firstmonday.ai/jobs/senior-pricing-enablement-manager-fivetran-450ec2a0?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 
 ## Customer success
 
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
-| Customer Success Specialist, Renewals & Growth | LevelTen Energy | $110k–140k/yr | Nov 22 | “Denver, CO · Seattle, WA · Remote, US” | [Details](https://firstmonday.ai/jobs/customer-success-specialist-renewals-growth-levelten-energy-5ea42dd4?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Live Chat Support Agent | DLN Consulting Group | $38k–55k/yr | Nov 22 | “Location: Remote (United States)” | [Details](https://firstmonday.ai/jobs/live-chat-support-agent-dln-consulting-fde30ead?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
+| Associate Solutions Architect | ServiceTitan | $111k–167k/yr | – | “US Remote” | [Details](https://firstmonday.ai/jobs/associate-solutions-architect-servicetitan-e7cffb29?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Customer Success Engineer | Insycle | $80k–100k/yr | – | “Remote” | [Details](https://firstmonday.ai/jobs/customer-success-engineer-insycle-09522aa5?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Customer Support Specialist | Granum | CA$65k–70k/yr · Canada | Nov 21 | “Location: Remote! We have an office in Atlanta, GA and the Greater…” | [Details](https://firstmonday.ai/jobs/customer-support-specialist-granum-9fb80bfd?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Manager, Partner Success | Rula | $118k–136k/yr | Nov 21 | “must be based in United States, currently not hiring in Hawaii” · Not in Hawaii | [Details](https://firstmonday.ai/jobs/manager-partner-success-rula-a018380a?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Executive Partner, Bus Services | Gartner | $188k–225k/yr | Nov 21 | “Candidates may reside anywhere within the continental United States.” · Not in Alaska, Hawaii | [Details](https://firstmonday.ai/jobs/executive-partner-bus-services-gartner-cedaa8d8?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
+| Manager – Cisco Customer Success | SHI International | $150k–250k/yr | – | “US - TX - Home Office · US - Remote” | [Details](https://firstmonday.ai/jobs/manager-cisco-customer-success-shi-international-1f7dc1c5?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Delivery Executive | Clariti Cloud | CA$200k–250k/yr | Nov 20 | “Canada (Remote) and US (Remote)” | [Details](https://firstmonday.ai/jobs/delivery-executive-clariti-cloud-7029e4cb?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Customer Success Associate, Velocity | CaptivateIQ | $66k–72k/yr | Nov 20 | “Remote USA” | [Details](https://firstmonday.ai/jobs/customer-success-associate-velocity-captivateiq-7f83e2d2?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Senior Customer Success Manager | Prefect | $176k–237k/yr | Nov 20 | “Remote” | [Details](https://firstmonday.ai/jobs/senior-customer-success-manager-prefect-05d07750?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
@@ -80,7 +81,6 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Remote Quality Improvement Data Analyst | Alignment Health | $70k–106k/yr | Nov 21 | “Anywhere in the U.S.” | [Details](https://firstmonday.ai/jobs/remote-quality-improvement-data-analyst-alignment-health-7a000de3?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Sr. Manager, Analysis Oversight Statistical Programming Lead | Gilead Sciences | $153k–199k/yr | Nov 21 | “United States – Remote” | [Details](https://firstmonday.ai/jobs/sr-manager-analysis-oversight-statistical-programming-lead-gilead-sciences-3de06fdb?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Senior Business Analyst & Growth Strategy Partner | Epic Kids | $130k–160k/yr | Nov 20 | “Remote, US” | [Details](https://firstmonday.ai/jobs/senior-business-analyst-growth-strategy-partner-epic-kids-89ef8efd?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
-| Associate Director: Data Engineering Lead – LillyDirect Platform | Lilly | $129k–189k/yr | – | “US: USA Remote” | [Details](https://firstmonday.ai/jobs/associate-director-data-engineering-lead-lillydirect-platform-lilly-7a758d10?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Business Intelligence Manager II | Instacart | CA$133k–140k/yr | Nov 20 | “United States - Remote” | [Details](https://firstmonday.ai/jobs/business-intelligence-manager-ii-instacart-205da7e6?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Business Analyst | MedeAnalytics | $100k–120k/yr | Nov 20 | “Remote, USA” | [Details](https://firstmonday.ai/jobs/business-analyst-medeanalytics-645a2a35?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 
@@ -116,7 +116,6 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Founding Recruiter | Sumble | $150k–190k/yr | Nov 21 | “United States” | [Details](https://firstmonday.ai/jobs/founding-recruiter-sumble-736df731?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Human Resources Manager (Federal Government Experience) (Job 1538) | DLH | $90k–104k/yr | Nov 20 | “United States - Remote” | [Details](https://firstmonday.ai/jobs/human-resources-manager-federal-government-experience-job-1538-dlh-8b87e0f1?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Reward Manager Americas | Castrol | $128k–183k/yr | Nov 20 | “United States - Remote” | [Details](https://firstmonday.ai/jobs/reward-manager-americas-castrol-92d1eba5?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
-| Human Resources Generalist (Temporary) | Coretelligent | $35–40/hr | Nov 20 | “Remote (U.S) \| Non-Exempt” | [Details](https://firstmonday.ai/jobs/human-resources-generalist-temporary-coretelligent-e3f4d95a?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 
 ## Marketing
 
@@ -150,6 +149,7 @@ Every job below says, in its own words, that it hires in the United States. We f
 | Job | Company | Pay | Posted | Why it's open to the United States | Details |
 | --- | --- | --- | --- | --- | --- |
 | Registered Dietitian | Future | $30–50/hr | Nov 22 | “Remote, anywhere in the U.S.” | [Details](https://firstmonday.ai/jobs/registered-dietitian-future-e3e0eb36?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
+| Supervisor, Community Guide | Devoted | $54k–77k/yr | – | “Remote USA” | [Details](https://firstmonday.ai/jobs/supervisor-community-guide-devoted-dd05b9aa?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Clinical AI Quality Specialist | Hello Heart | $130k–143k/yr | Nov 20 | “Remote US” | [Details](https://firstmonday.ai/jobs/clinical-ai-quality-specialist-hello-heart-963daace?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 | Supv, Prior Authorization | Natera | $69k–86k/yr | Nov 20 | “US Remote” | [Details](https://firstmonday.ai/jobs/supv-prior-authorization-natera-94721664?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48) |
 
@@ -170,6 +170,6 @@ Every job below says, in its own words, that it hires in the United States. We f
 
 **Get the new remote jobs open to you in the United States by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48).
 
-Every remote job open to people in the United States, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/united-states?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in the United States, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/united-states?utm_source=github&utm_medium=repo&utm_campaign=usa&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

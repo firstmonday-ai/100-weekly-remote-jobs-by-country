@@ -1,6 +1,6 @@
 # 100 best new remote jobs open to people in Canada
 
-Week of Mon 23 Nov 2026 · 100 of 311 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 100 of 310 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Canada. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
@@ -45,7 +45,7 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 
 | Job | Company | Pay | Posted | Why it's open to Canada | Details |
 | --- | --- | --- | --- | --- | --- |
-| Senior Pricing Enablement Manager | Fivetran | $175k–219k/yr · US | Nov 20 | “Remote, New York, United States, AMER” | [Details](https://firstmonday.ai/jobs/senior-pricing-enablement-manager-fivetran-450ec2a0?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
+| Senior Pricing Enablement Manager | Fivetran | $158k–198k/yr | Nov 20 | “Remote, New York, United States, AMER” | [Details](https://firstmonday.ai/jobs/senior-pricing-enablement-manager-fivetran-450ec2a0?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Partner Manager | Procurify | CA$90k–105k/yr | Nov 20 | “Work anywhere from within Canada” | [Details](https://firstmonday.ai/jobs/partner-manager-procurify-7ca2cc39?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Senior Account Executive, Data Collection and Traffic Studies | Miovision | CA$208k–241k/yr | Nov 20 | “Canada Remote · United States” | [Details](https://firstmonday.ai/jobs/senior-account-executive-data-collection-and-traffic-studies-miovision-4ba37bec?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Account Manager | American Hotel & Lodging Association | $75k–85k/yr | Nov 20 | “Location Canada or United States \| Remote” | [Details](https://firstmonday.ai/jobs/account-manager-american-hotel-lodging-association-a74925a6?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
@@ -127,8 +127,8 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 | Bilingual Social Media Content Specialist – English / French | dentsu | $12–16/hr | Nov 20 | “CAN-Remote-ICUC International” | [Details](https://firstmonday.ai/jobs/bilingual-social-media-content-specialist-english-french-dentsu-3208eee4?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Demand Generation Coordinator | Tailscale | CA$101k–123k/yr | Nov 19 | “Remote (Canada)” | [Details](https://firstmonday.ai/jobs/demand-generation-coordinator-tailscale-6ee19bf7?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Director, Performance Marketing | StackAdapt | CA$168k–231k/yr | Nov 19 | “we're open to candidates anywhere in Canada or the United States.” | [Details](https://firstmonday.ai/jobs/director-performance-marketing-stackadapt-08b606ea?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
+| Events Manager | Fullsteam | CA$72k–80k/yr | – | “Based in the US or Canada; Toronto strongly preferred.” | [Details](https://firstmonday.ai/jobs/events-manager-fullsteam-3c9910de?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Senior Field Marketing Manager | Array | From $175,000/yr · currency not stated | Nov 19 | “Remote - USA or Canada” | [Details](https://firstmonday.ai/jobs/senior-field-marketing-manager-array-ef09b641?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
-| Events Manager | Fullsteam | CA$72k–80k/yr | Nov 19 | “Based in the US or Canada; Toronto strongly preferred.” | [Details](https://firstmonday.ai/jobs/events-manager-fullsteam-3c9910de?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Content Producer – Workleap | Workleap | CA$80k–105k/yr | Nov 18 | “Canada - Remote” | [Details](https://firstmonday.ai/jobs/content-producer-workleap-workleap-6275553d?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Field Marketing Manager, Workforce Compliance | Mitratech | CA$80k–90k/yr | Nov 18 | “This role can be performed 100% remote anywhere in Canada.” | [Details](https://firstmonday.ai/jobs/field-marketing-manager-workforce-compliance-mitratech-0cfd4bc2?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
 | Demand Generation Specialist | Array | From $75,000/yr · currency not stated | Nov 18 | “Remote - USA or Canada” | [Details](https://firstmonday.ai/jobs/demand-generation-specialist-array-9e33fe53?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48) |
@@ -170,6 +170,6 @@ Every job below says, in its own words, that it hires in Canada. We first saw th
 
 **Get the new remote jobs open to you in Canada by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48).
 
-Every remote job open to people in Canada, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/canada?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in Canada, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/canada?utm_source=github&utm_medium=repo&utm_campaign=can&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

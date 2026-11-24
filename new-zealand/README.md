@@ -102,6 +102,6 @@ Every job below says, in its own words, that it hires in New Zealand, or anywher
 
 **Get the new remote jobs open to you in New Zealand by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w48).
 
-Every remote job open to people in New Zealand, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/new-zealand?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in New Zealand, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/new-zealand?utm_source=github&utm_medium=repo&utm_campaign=nzl&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

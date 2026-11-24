@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in Switzerland
 
-Week of Mon 23 Nov 2026 · 100 of 119 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 100 of 114 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Switzerland, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 29 · [Sales](#sales) 13 · [Customer success](#customer-success) 1 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 13 · [Finance](#finance) 5 · [People and HR](#people-and-hr) 3 · [Marketing](#marketing) 11 · [Product and design](#product-and-design) 5 · [Healthcare](#healthcare) 7 · [Education](#education) 2 · [Other](#other) 6
+[Engineering](#engineering) 29 · [Sales](#sales) 13 · [Customer success](#customer-success) 2 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 11 · [Finance](#finance) 4 · [People and HR](#people-and-hr) 3 · [Marketing](#marketing) 13 · [Product and design](#product-and-design) 5 · [Healthcare](#healthcare) 6 · [Education](#education) 2 · [Other](#other) 7
 
 ## Engineering
 
@@ -22,7 +22,6 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Release Implementation Engineer | WhiteTech | – | Nov 20 | “Europe” | [Details](https://firstmonday.ai/jobs/release-implementation-engineer-whitetech-367e7d1f?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior Software Engineer, Bot Detection (Client-Side & Signals) | Hugging Face | – | Nov 20 | “Senior Software Engineer, Bot Detection (Client-Side & Signals)…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-bot-detection-client-side-signals-us-remote-hugging-face-35c749c2?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior Software/Data Engineer, Bot Detection | Hugging Face | – | Nov 20 | “Senior Software/Data Engineer, Bot Detection - EMEA Remote” | [Details](https://firstmonday.ai/jobs/senior-software-data-engineer-bot-detection-us-remote-hugging-face-23dffa0f?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
-| Senior Software Engineer, Search Engine Core | Qdrant | – | Nov 19 | “Remote - EMEA · France · Netherlands · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-search-engine-core-qdrant-fc3987ba?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior/Lead Python Engineer | Mimica | – | Nov 19 | “Remote Anywhere” | [Details](https://firstmonday.ai/jobs/senior-lead-python-engineer-mimica-7584c7bc?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior DevOps Engineer II | Tabby | – | Nov 18 | “Fully remote setup, work from anywhere in Europe” | [Details](https://firstmonday.ai/jobs/senior-devops-engineer-ii-tabby-12379c75?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior Database Administrator – Core Infrastructure | Kraken | – | Nov 17 | “Europe · United Arab Emirates · Ireland · Romania · Cyprus ·…” | [Details](https://firstmonday.ai/jobs/senior-database-administrator-core-infrastructure-kraken-897a1570?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
@@ -39,6 +38,7 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Software Engineer – Postgres Tooling | Supabase | – | Nov 19 | “Remote, Global” | [Details](https://firstmonday.ai/jobs/software-engineer-postgres-tooling-supabase-b10e15e8?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | IT Systems Engineer | CapsLock | – | – | “Remote - Global, Central & Eastern Europe” | [Details](https://firstmonday.ai/jobs/it-systems-engineer-capslock-899f9604?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Forward Deployed Engineer | Camunda | – | Nov 17 | “Fully remote and global” | [Details](https://firstmonday.ai/jobs/forward-deployed-engineer-camunda-5e8e3c4b?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
+| Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Canonical | – | Nov 16 | “Home based - Worldwide” | [Details](https://firstmonday.ai/jobs/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-2c64c6ec?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 
 ## Sales
 
@@ -63,6 +63,7 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Job | Company | Pay | Posted | Why it's open to Switzerland | Details |
 | --- | --- | --- | --- | --- | --- |
 | Manager, EMEA Support | Backblaze | – | Nov 17 | “You are based in EMEA, with the flexibility to work with colleagues…” | [Details](https://firstmonday.ai/jobs/manager-emea-support-backblaze-dc6509b9?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
+| Customer Success Director (Part-time, Remote) | Moontech | – | Nov 16 | “Location: Remote (global)” | [Details](https://firstmonday.ai/jobs/customer-success-director-part-time-remote-moontech-13332eb4?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 
 ## Data and AI
 
@@ -80,11 +81,9 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | --- | --- | --- | --- | --- | --- |
 | Principal Security Operations Analyst | Huntress Labs | $185k–220k/yr | Nov 18 | “Huntress is looking for a Principal Security Operations Center…” | [Details](https://firstmonday.ai/jobs/principal-security-operations-analyst-huntress-labs-1fe8e210?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Security Governance, Risk and Compliance (GRC) Manager | Canonical | – | Nov 20 | “Location: EMEA or Americas — fully remote (home-based), with the…” | [Details](https://firstmonday.ai/jobs/security-governance-risk-and-compliance-grc-manager-canonical-4cbae0a6?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
-| Senior Data Center Director | Kapres Technology, S.L. | – | Nov 20 | “The position is remote within Europe.” | [Details](https://firstmonday.ai/jobs/senior-data-center-director-kapres-technology-f36a1d9a?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Onshore Wind Portfolio EHS Leader | GE Vernova | – | Nov 20 | “Residence in the EMEA region and ability to travel 50–60% of the time.” | [Details](https://firstmonday.ai/jobs/onshore-wind-portfolio-ehs-leader-north-central-europe-ge-vernova-e9b2399d?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | MSAT Specialist 80-100% | Lonza | – | Nov 20 | “CH - Stein” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/msat-specialist-80-100-lonza-48389c2b?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Planning & Fulfilment Manager for Building Automation BL | ABB | – | Nov 20 | “Potential hiring locations: Europe” | [Details](https://firstmonday.ai/jobs/planning-fulfilment-manager-for-building-automation-bl-abb-0481d6b8?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
-| Service Delivery Automation Analyst | Oyster | – | Nov 19 | “To create the best experience for our new hire, this role requires…” | [Details](https://firstmonday.ai/jobs/service-delivery-automation-analyst-oyster-59470c48?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Site Budget & Contract Maintenance Specialist with DACH expertise | Fortrea | – | Nov 19 | “This home-based opportunity is open to candidates located in…” | [Details](https://firstmonday.ai/jobs/site-budget-contract-maintenance-specialist-with-dach-expertise-fortrea-690a5218?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | PMO, Drug Product 80-100% | Lonza | – | Nov 18 | “CH - Stein” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/pmo-drug-product-80-100-lonza-925de3f5?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | RevOps Manager, Partner Operations & Deal Desk | Neptune Software AS | – | Nov 17 | “Remote anywhere in EMEA” | [Details](https://firstmonday.ai/jobs/revops-manager-partner-operations-deal-desk-neptune-software-fce2e361?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
@@ -97,7 +96,6 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Job | Company | Pay | Posted | Why it's open to Switzerland | Details |
 | --- | --- | --- | --- | --- | --- |
 | Fixed Income & Structured Products Trader | EXANTE | – | Nov 20 | “Switzerland” | [Details](https://firstmonday.ai/jobs/fixed-income-structured-products-trader-exante-a1c20643?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
-| Finance Business Partner | Aceve | – | Nov 20 | “Stockholm · Europe” | [Details](https://firstmonday.ai/jobs/finance-business-partner-aceve-0e705275?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior Accountant | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/senior-accountant-saas-group-f2c68545?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Accounting Manager | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/accounting-manager-saas-group-821f2742?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | FP&A Manager | Wire Swiss | – | Nov 19 | “Working Location: Remote within Europe, with travel to our Berlin…” | [Details](https://firstmonday.ai/jobs/fp-a-manager-wire-755d9a41?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
@@ -121,10 +119,12 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | SEO & GEO Specialist | Flowpouch | – | Nov 16 | “Remote (United States) · Remote (Europe) · Remote (Central/South…” | [Details](https://firstmonday.ai/jobs/seo-geo-specialist-flowpouch-9145523d?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Head of Organic Strategy | Flowpouch | – | Nov 16 | “Remote (United States) · Remote (Europe)” | [Details](https://firstmonday.ai/jobs/head-of-organic-strategy-flowpouch-590741cc?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior Product Marketing Manager – Recruitment Cloud | Bullhorn | – | Nov 16 | “Remote EMEA - United Kingdom” | [Details](https://firstmonday.ai/jobs/senior-product-marketing-manager-recruitment-cloud-bullhorn-333de00d?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
+| Affiliate Manager | EverAI | €30k–70k/yr | Nov 20 | “Work From Anywhere: Fully remote.” | [Details](https://firstmonday.ai/jobs/affiliate-manager-remote-france-everai-737d43f2?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Retention & CLV Operator | Glow25 | – | Nov 20 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/retention-clv-operator-glow25-by-primal-state-performance-c6bc8362?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Growth Acquisition Operator | Glow25 | – | Nov 20 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/growth-acquisition-operator-glow25-by-primal-state-performance-d94d4895?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Performance Creative Designer | Flipper | – | Nov 19 | “Global Remote” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/performance-creative-designer-flipper-eb4bd732?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Senior Performance Strategist | Superside | – | Nov 16 | “Global” | [Details](https://firstmonday.ai/jobs/senior-performance-strategist-superside-10fe9774?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
+| Content Manager | SKELAR | – | Nov 16 | “Global, Remote” | [Details](https://firstmonday.ai/jobs/content-manager-skelar-9f09a62a?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 
 ## Product and design
 
@@ -146,7 +146,6 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Associate Director, Patient Advocacy, Skeletal Dysplasia | BridgeBio Pharma | – | Nov 19 | “This role is based in Europe” | [Details](https://firstmonday.ai/jobs/associate-director-patient-advocacy-skeletal-dysplasia-bridgebio-pharma-3e8e24e9?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Start Up Maintenance Specialist with DACH expertise | Fortrea | – | Nov 19 | “This home-based opportunity is open to candidates located in…” | [Details](https://firstmonday.ai/jobs/start-up-maintenance-specialist-with-dach-expertise-fortrea-5628603c?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Clinical Writing Regulatory Affairs Consultant | Parexel | – | Nov 17 | “United Kingdom-London-Gridiron-Remote · Austria-Remote ·…” | [Details](https://firstmonday.ai/jobs/clinical-writing-regulatory-affairs-consultant-home-based-parexel-85c9787c?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
-| FSP Switzerland – Clinical Research Associate II / Senior Clinical Research Associate I | Thermo Fisher Scientific | – | Nov 16 | “Remote, Switzerland” | [Details](https://firstmonday.ai/jobs/fsp-switzerland-clinical-research-associate-ii-senior-clinical-research-associate-i-thermo-fisher-scientific-8e42f866?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 
 ## Education
 
@@ -165,11 +164,12 @@ Every job below says, in its own words, that it hires in Switzerland, or anywher
 | Junior Editorial Writer (FTC – PTC) – Weekend Focused | GAMURS Group | – | Nov 20 | “Worldwide” | [Details](https://firstmonday.ai/jobs/junior-editorial-writer-ftc-ptc-weekend-focused-gamurs-5202a97f?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Red Team Lead | Supabase | – | Nov 20 | “Remote, Global” | [Details](https://firstmonday.ai/jobs/red-team-lead-supabase-dc7106ab?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 | Timber Think Tank Participant Application | Timber Platforms | – | Nov 19 | “Remote (International)” | [Details](https://firstmonday.ai/jobs/timber-think-tank-participant-application-timber-platforms-980bc339?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
+| DRR and Emergency Advisor | OlamAid | – | Nov 13 | “Remote (worldwide)” | [Details](https://firstmonday.ai/jobs/drr-and-emergency-advisor-olamaid-376d64ab?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48) |
 
 ---
 
 **Get the new remote jobs open to you in Switzerland by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48).
 
-Every remote job open to people in Switzerland, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/switzerland?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in Switzerland, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/switzerland?utm_source=github&utm_medium=repo&utm_campaign=che&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

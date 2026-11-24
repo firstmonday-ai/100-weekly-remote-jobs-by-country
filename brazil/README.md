@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in Brazil
 
-Week of Mon 23 Nov 2026 · 100 of 213 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 100 of 211 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Brazil. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 27 · [Sales](#sales) 11 · [Customer success](#customer-success) 7 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 12 · [Finance](#finance) 9 · [People and HR](#people-and-hr) 6 · [Marketing](#marketing) 8 · [Product and design](#product-and-design) 5 · [Healthcare](#healthcare) 6 · [Education](#education) 1 · [Other](#other) 2
+[Engineering](#engineering) 29 · [Sales](#sales) 11 · [Customer success](#customer-success) 7 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 11 · [Finance](#finance) 8 · [People and HR](#people-and-hr) 5 · [Marketing](#marketing) 8 · [Product and design](#product-and-design) 5 · [Healthcare](#healthcare) 6 · [Education](#education) 1 · [Other](#other) 3
 
 ## Engineering
 
@@ -26,6 +26,7 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 | Security Engineer | Trafilea | – | Nov 20 | “Argentina · Remote, Brazil · Santiago, Chile” | [Details](https://firstmonday.ai/jobs/security-engineer-trafilea-78005b78?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Junior Software Development Engineer in Test (SDET) | OrderMesh | – | Nov 20 | “Colombia · Brazil · Argentina · Costa Rica · Chile” | [Details](https://firstmonday.ai/jobs/junior-software-development-engineer-in-test-sdet-ordermesh-21614a5d?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Azure Solutions Architect | Nimble Gravity | – | Nov 19 | “LATAM (Remote)” | [Details](https://firstmonday.ai/jobs/azure-solutions-architect-nimble-gravity-309c680f?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
+| Senior Software Engineer, Search Engine Core | Qdrant | – | Nov 19 | “Remote - Americas · Remote - Canada · Remote - Brazil · Remote…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-search-engine-core-qdrant-fc3987ba?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior/Lead Python Engineer | Mimica | – | Nov 19 | “Remote Anywhere” | [Details](https://firstmonday.ai/jobs/senior-lead-python-engineer-mimica-7584c7bc?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior Network Engineer – Tier 3 / NOC Escalation (Night Shift, Fully Remote, LATAM) | AireSpring | – | Nov 18 | “Fully remote, open to candidates based in LATAM” | [Details](https://firstmonday.ai/jobs/senior-network-engineer-tier-3-noc-escalation-night-shift-fully-remote-latam-airespring-5da0828a?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior Software Engineer (React + Python) | Solvd | – | Nov 18 | “Argentina · Brazil · Colombia” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-react-python-solvd-ebd077a1?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
@@ -37,13 +38,14 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 | Sr. Software Engineer – .Net Core / C# | Motorola Solutions | – | Nov 18 | “Brazil Offsite” | [Details](https://firstmonday.ai/jobs/sr-software-engineer-net-core-c-motorola-solutions-7fe6cf14?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Software Engineer-2 | WEX | – | Nov 18 | “Brazil - Remote” | [Details](https://firstmonday.ai/jobs/software-engineer-2-wex-663aab2c?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior Software Development Engineer in Test, Data & AI Platforms | Motorola Solutions | – | Nov 18 | “Brazil Remote Work” | [Details](https://firstmonday.ai/jobs/senior-software-development-engineer-in-test-data-ai-platforms-motorola-solutions-2e4069ac?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
+| Mid Senior Developer – Java, SQL, OWASP | Jalasoft | – | Nov 18 | “Brazil · Argentina · Colombia · Peru · Bolivia, Plurinational State of” | [Details](https://firstmonday.ai/jobs/mid-senior-developer-java-sql-owasp-jalasoft-0559d8e6?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 
 ## Sales
 
 | Job | Company | Pay | Posted | Why it's open to Brazil | Details |
 | --- | --- | --- | --- | --- | --- |
 | Customer Service & Sales Agent | Community Sports Partners | $1,000/mo | Nov 22 | “Remote — Latin America \| US$1,000 per month plus commission and…” | [Details](https://firstmonday.ai/jobs/customer-service-sales-agent-community-sports-partners-158b3256?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
-| Senior Pricing Enablement Manager | Fivetran | $175k–219k/yr · US | Nov 20 | “Remote, New York, United States, AMER” | [Details](https://firstmonday.ai/jobs/senior-pricing-enablement-manager-fivetran-450ec2a0?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
+| Senior Pricing Enablement Manager | Fivetran | $158k–198k/yr | Nov 20 | “Remote, New York, United States, AMER” | [Details](https://firstmonday.ai/jobs/senior-pricing-enablement-manager-fivetran-450ec2a0?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Sales Representative | Clera | $48k–60k/yr | Nov 18 | “Remote, based in Latin America, or Miami, Florida.” | [Details](https://firstmonday.ai/jobs/sales-representative-clera-efa5c23c?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Partner Business Manager – Partner Sales | Zscaler | $130k–186k/yr | Nov 17 | “This is a remote role located i n the Americas” | [Details](https://firstmonday.ai/jobs/partner-business-manager-partner-sales-zscaler-f4f68fd1?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Sales Development Representative (SDR) – Inbound Sales | Snap Dental Labs | $1,200/mo · contract | Nov 13 | “Canada · Mexico City, Mexico · Vancouver, British Columbia, Canada ·…” | [Details](https://firstmonday.ai/jobs/sales-development-representative-sdr-inbound-sales-snap-dental-labs-94d14d4f?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
@@ -91,7 +93,6 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 | Clinical Supplies Operational Bidding Specialist | Thermo Fisher Scientific | – | Nov 19 | “Remote, Brazil” | [Details](https://firstmonday.ai/jobs/clinical-supplies-operational-bidding-specialist-thermo-fisher-scientific-29a14702?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Programs Manager – Client Revenue Growth | Wellhub | – | Nov 18 | “Brazil (Remote)” | [Details](https://firstmonday.ai/jobs/programs-manager-client-revenue-growth-wellhub-1b1a2975?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Virtual Assistant – Fulfillment | Decentralized Masters | – | Nov 18 | “Must be located in South America” | [Details](https://firstmonday.ai/jobs/virtual-assistant-fulfillment-decentralized-masters-7c8f8d6b?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
-| Global Sourcing Manager | Infios | – | Nov 18 | “This position is open to candidates located in Mexico or Brazil and…” | [Details](https://firstmonday.ai/jobs/global-sourcing-manager-infios-2e439d80?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Associate I, TMF Operations | worldwide | – | Nov 18 | “This is a REMOTE role open to candidates based in LATAM.” | [Details](https://firstmonday.ai/jobs/associate-i-tmf-operations-worldwide-084444b7?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 
 ## Finance
@@ -103,7 +104,6 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 | Senior Accounting & Finance Specialist | Vertu Agent | $1,400–2,000/mo | Nov 18 | “Remote \| LATAM \| Full-Time / Part-Time” | [Details](https://firstmonday.ai/jobs/senior-accounting-finance-specialist-vertu-agent-5fe08e93?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Director, Equity Capital Markets | Alpaca | – | Nov 20 | “Remote - Americas” | [Details](https://firstmonday.ai/jobs/director-equity-capital-markets-alpaca-93a44019?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior Associate, Finance and Accounting Operations | Ensono | – | Nov 19 | “Remote - Brazil” | [Details](https://firstmonday.ai/jobs/senior-associate-finance-and-accounting-operations-ensono-b3fa2f6a?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
-| Financial Crime Expert | Matrix Global | – | – | “Brazil” | [Details](https://firstmonday.ai/jobs/financial-crime-expert-matrix-ifs-b7227674?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Quantitative Trading Analyst (part-time, equity-only) | Qompyl | – | Nov 18 | “Remote (Argentina) · Remote (Brazil) · Remote (Canada) · Remote…” | [Details](https://firstmonday.ai/jobs/quantitative-trading-analyst-part-time-equity-only-qompyl-40c15424?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Grants Financial Specialist II – Latin America & Caribbean Region | Compassion International | – | Nov 18 | “Must reside in one of the following Compassion program countries…” | [Details](https://firstmonday.ai/jobs/grants-financial-specialist-ii-latin-america-caribbean-region-compassion-international-55fd2a5e?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | OTC Officer | HBX Group | – | Nov 18 | “Home Based - Brazil · Mexico - Cancun” | [Details](https://firstmonday.ai/jobs/otc-officer-hbx-32e54938?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
@@ -114,7 +114,6 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 | --- | --- | --- | --- | --- | --- |
 | Talent Acquisition Specialist | Vivant | Up to $2,000/mo · contract | Nov 21 | “Resides in Latin America.” | [Details](https://firstmonday.ai/jobs/talent-acquisition-specialist-remote-latam-vivant-business-connectivity-4f488d31?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior Recruiter | Tremendous | $120k–160k/yr | Nov 20 | “Fully remote. Work from anywhere in the Americas.” | [Details](https://firstmonday.ai/jobs/senior-recruiter-tremendous-f187f0b6?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
-| Human Resource Business Partner | Vivant | Up to $3,000/mo | Nov 19 | “You must be located in Latin America. This role is exclusively open…” | [Details](https://firstmonday.ai/jobs/human-resource-business-partner-remote-latam-vivant-business-connectivity-947414ec?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior Recruiter | Addi | – | Nov 20 | “LatAm” | [Details](https://firstmonday.ai/jobs/senior-recruiter-addi-9d0d3b0d?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Talent Acquisition Partner | Precision Medicine Group | – | Nov 19 | “Remote \| Latin America \| Less than 10% travel” | [Details](https://firstmonday.ai/jobs/talent-acquisition-partner-precision-medicine-57883ec3?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Talent Acquisition Partner | Precision for Medicine | – | Nov 19 | “Remote \| Latin America \| Less than 10% travel” | [Details](https://firstmonday.ai/jobs/talent-acquisition-partner-precision-for-medicine-92d3aeb5?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
@@ -138,7 +137,7 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 | --- | --- | --- | --- | --- | --- |
 | Sr Staff Product Designer – Krak | Kraken | $134k–298k/yr | Nov 18 | “United Kingdom · Brazil · United Arab Emirates · Ireland · Peru ·…” | [Details](https://firstmonday.ai/jobs/sr-staff-product-designer-krak-kraken-1fb9d24e?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Design Strategist | Envision Horizons | $16k–24k/yr | Nov 16 | “LATAM \| Peru” | [Details](https://firstmonday.ai/jobs/design-strategist-envision-horizons-24af1aa4?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
-| \[Job- 32765\] Senior Product Manager | CI&T | – | Nov 19 | “Brazil” | [Details](https://firstmonday.ai/jobs/job-32765-senior-product-manager-brazil-ci-fe18e446?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
+| \[Job- 32765\] Senior Manager | CI&T | – | Nov 19 | “Brazil” | [Details](https://firstmonday.ai/jobs/job-32765-senior-product-manager-brazil-ci-fe18e446?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | \[Job – 32762\] Data Product Manager, Brazil | CI&T | – | Nov 18 | “Brazil” | [Details](https://firstmonday.ai/jobs/job-32762-data-product-manager-brazil-ci-6ee83bcd?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Head of Product | Nacre Capital | – | Nov 18 | “Brazil · Argentina · Colombia · Mexico · Chile” | [Details](https://firstmonday.ai/jobs/head-of-product-nacre-capital-1a391b22?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 
@@ -150,7 +149,7 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 | Sr Director CRP Oncology | Lilly | €93k–160k/yr | Nov 20 | “Italy, Sesto Fiorentino · ES: Spain Remote Alcobendas · UK, Remote ·…” | [Details](https://firstmonday.ai/jobs/sr-director-crp-oncology-lilly-3cf74932?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Payor Enrollment & Hospital Privileging Specialist | Genesis Orthopedics & Sports Medicine | – | Nov 19 | “Colombia · Mexico · Brazil · Argentina · El Salvador · Costa Rica” | [Details](https://firstmonday.ai/jobs/payor-enrollment-hospital-privileging-specialist-genesis-orthopedics-sports-medicine-b457c74a?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Drug Safety Assoc | Thermo Fisher Scientific | – | Nov 19 | “Remote, Mexico · Remote, Brazil” | [Details](https://firstmonday.ai/jobs/drug-safety-assoc-thermo-fisher-scientific-8699d89b?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
-| Senior Regulatory Affairs Associate – Marketing Authorization & Lifecycle Management (Biologics) – FSP | Parexel | – | Nov 19 | “Brazil-Remote” | [Details](https://firstmonday.ai/jobs/senior-regulatory-affairs-associate-marketing-authorization-lifecycle-management-fsp-parexel-4ae04434?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
+| Senior Regulatory Affairs Associate – Marketing Authorization & Lifecycle Management (Biologics) – FSP | Parexel | – | – | “Brazil-Remote” | [Details](https://firstmonday.ai/jobs/senior-regulatory-affairs-associate-marketing-authorization-lifecycle-management-fsp-parexel-4ae04434?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Senior Clinical Research Associate | BeOne | – | Nov 18 | “Brazil Remote” | [Details](https://firstmonday.ai/jobs/senior-clinical-research-associate-beone-e39e7e7e?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 
 ## Education
@@ -163,6 +162,7 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 
 | Job | Company | Pay | Posted | Why it's open to Brazil | Details |
 | --- | --- | --- | --- | --- | --- |
+| Financial Crime Expert | Matrix Global | – | – | “Brazil” | [Details](https://firstmonday.ai/jobs/financial-crime-expert-matrix-ifs-b7227674?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Removal Defense Paralegal (U.S. Immigration) | Law Offices of Sabrina Li | – | Nov 18 | “Location: Remote \| LATAM, Asia, EMEA” | [Details](https://firstmonday.ai/jobs/removal-defense-paralegal-u-s-immigration-law-offices-of-sabrina-li-79c0a17e?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 | Director, Regulatory Business Partner – GRA – Food Ingredients | IFF | – | Nov 18 | “Castelo Branco, Brazil” | [Details](https://firstmonday.ai/jobs/director-regulatory-business-partner-gra-food-ingredients-iff-2d51d37b?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48) |
 
@@ -170,6 +170,6 @@ Every job below says, in its own words, that it hires in Brazil. We first saw th
 
 **Get the new remote jobs open to you in Brazil by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48).
 
-Every remote job open to people in Brazil, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/brazil?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in Brazil, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/brazil?utm_source=github&utm_medium=repo&utm_campaign=bra&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

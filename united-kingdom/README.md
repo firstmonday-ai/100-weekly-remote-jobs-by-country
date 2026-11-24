@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in the United Kingdom
 
-Week of Mon 23 Nov 2026 · 100 of 387 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 100 of 381 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in the United Kingdom. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 26 · [Sales](#sales) 20 · [Customer success](#customer-success) 10 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 9 · [Finance](#finance) 1 · [People and HR](#people-and-hr) 5 · [Marketing](#marketing) 8 · [Product and design](#product-and-design) 6 · [Healthcare](#healthcare) 5 · [Education](#education) 1 · [Other](#other) 3
+[Engineering](#engineering) 24 · [Sales](#sales) 18 · [Customer success](#customer-success) 14 · [Data and AI](#data-and-ai) 6 · [Operations](#operations) 8 · [Finance](#finance) 1 · [People and HR](#people-and-hr) 5 · [Marketing](#marketing) 9 · [Product and design](#product-and-design) 6 · [Healthcare](#healthcare) 5 · [Education](#education) 1 · [Other](#other) 3
 
 ## Engineering
 
@@ -23,13 +23,11 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 | Staff Software Engineer, OS Integration | Mozilla | €78k–104k/yr | Nov 19 | “Remote UK” | [Details](https://firstmonday.ai/jobs/staff-software-engineer-os-integration-mozilla-1e14eae5?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior Product Engineer | Arbor Education | £70k–80k/yr | Nov 19 | “Location: Remote - UK” | [Details](https://firstmonday.ai/jobs/senior-product-engineer-arbor-education-8150cb0f?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Staff Developer Relations Engineer | Chainguard | $151k–178k/yr | Nov 18 | “Europe - Remote · United States - Remote” | [Details](https://firstmonday.ai/jobs/staff-developer-relations-engineer-chainguard-88e8c40a?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| Manager, Software Engineering | Affirm | £142k–190k/yr | Nov 18 | “Remote UK” | [Details](https://firstmonday.ai/jobs/manager-software-engineering-affirm-b2bf0898?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Director, GraphAware Engineering | Neo4j | €90k–110k/yr · gross · Italy | Nov 18 | “Based in Italy, Czechia, Spain, the Netherlands or the UK, working…” | [Details](https://firstmonday.ai/jobs/director-graphaware-engineering-neo4j-17515b9a?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior iOS Developer | Airalo | €79k–118k/yr | Nov 18 | “Location: Remote, anywhere in Spain or the UK.” | [Details](https://firstmonday.ai/jobs/senior-ios-developer-airalo-55e2bbd6?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | R&D Test Engineer | Agilent | $119k–223k/yr | – | “US-DE-Wilmington · Option to Work Remote in United States ·…” | [Details](https://firstmonday.ai/jobs/r-d-test-engineer-agilent-17901220?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior Software Engineer – (Genetics) | Our Future Health | From £88k/yr | Nov 18 | “You may work remotely from anywhere within the UK, with occasional…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-genetics-our-future-health-399d507e?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior Site Reliability Engineer | Wikimedia Foundation | $116k–181k/yr · US | Nov 17 | “Countries: Brazil, Canada, Colombia, Germany, Ghana, India…” | [Details](https://firstmonday.ai/jobs/senior-site-reliability-engineer-wikimedia-foundation-34dc373f?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| Staff Performance Engineer, JavaScript Engine (SpiderMonkey) | Mozilla | €78k–104k/yr | Nov 17 | “Remote UK” | [Details](https://firstmonday.ai/jobs/staff-performance-engineer-javascript-engine-spidermonkey-mozilla-0256d3e0?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior Staff SRE, Architecture Engineering: Hosted Runners | GitLab | $184k–314k/yr | Nov 17 | “Remote, Canada · Remote, United Kingdom · Remote, United States” | [Details](https://firstmonday.ai/jobs/senior-staff-sre-architecture-engineering-hosted-runners-gitlab-a5a06c15?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Revenue Systems and Integrations Engineer | Reachdesk | €52k–65k/yr | Nov 17 | “(Remote, United Kingdom)” | [Details](https://firstmonday.ai/jobs/revenue-systems-and-integrations-engineer-reachdesk-545958b7?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Member of Technical Staff, Search | Cohere | CA$250k–535k/yr | Nov 17 | “United States · San Francisco · Europe · Canada · London · New York…” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/member-of-technical-staff-search-cohere-c14e5a5f?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
@@ -43,7 +41,7 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 | --- | --- | --- | --- | --- | --- |
 | Sales Intern, Italian-Speaking | Clera | €24k–26k/yr | Nov 20 | “Fully remote within Europe.” | [Details](https://firstmonday.ai/jobs/sales-intern-italian-speaking-clera-5f07ae43?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Associate Principal Pre-Sales Consultant | Dragos | £90k/yr | Nov 19 | “As an Associate Principal Pre-Sales Consultant based in the UK, you…” | [Details](https://firstmonday.ai/jobs/associate-principal-pre-sales-consultant-dragos-4f693d36?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| Senior Account Executive (Iberia – Remote) | Duvo | €200k–260k/yr | Nov 19 | “EU/UK - Remote” | [Details](https://firstmonday.ai/jobs/senior-account-executive-iberia-remote-duvo-d02a70e2?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Senior Account Executive (Iberia – Remote) | Duvo | €200k–260k/yr | – | “EU/UK - Remote” | [Details](https://firstmonday.ai/jobs/senior-account-executive-iberia-remote-duvo-d02a70e2?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Telephone Account Manager – Data Services | Rightmove | £32k–37k/yr | Nov 18 | “Home-based, UK” | [Details](https://firstmonday.ai/jobs/telephone-account-manager-data-services-rightmove-10ce4406?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Solutions Engineer, Financial Performance | Clio | £42k–57k/yr | Nov 18 | “This role is open to candidates based anywhere in the UK or Ireland.” · Remote unless near an office | [Details](https://firstmonday.ai/jobs/solutions-engineer-clio-584954f4?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior Enterprise Sales Executive – Energy Management Systems (EMS) | Driivz | £148k/yr | – | “United Kingdom (Remote)” | [Details](https://firstmonday.ai/jobs/senior-enterprise-sales-executive-energy-management-systems-ems-driivz-95209f42?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
@@ -54,11 +52,9 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 | EMEA Sales Manager Grid Infrastructure | Littelfuse | €88k–105k/yr · gross · Italy | Nov 17 | “Virtual - Italy · Virtual - Spain · Virtual - United Kingdom” | [Details](https://firstmonday.ai/jobs/emea-sales-manager-grid-infrastructure-littelfuse-4341c8ee?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Junior Account Executive UKI | WorkMotion | From €40k/yr · gross | Nov 17 | “United Kingdom · Spain · Albania · Portugal · Greece · Croatia” | [Details](https://firstmonday.ai/jobs/junior-account-executive-uki-workmotion-2f13ca69?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | SDR Manager International | Tremendous | £85k–115k/yr | Nov 16 | “Europe” | [Details](https://firstmonday.ai/jobs/sdr-manager-international-tremendous-500ea7be?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| ABOUND European Sales Director | Carrier | £62k–125k/yr | Nov 17 | “Location: UK, remote” | [Details](https://firstmonday.ai/jobs/abound-european-sales-director-carrier-d67fff49?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Enterprise Account Executive | Prolific | $150k–175k/yr · US | Nov 16 | “Location: Remote, UK” · In the office occasionally (San Francisco) | [Details](https://firstmonday.ai/jobs/enterprise-account-executive-prolific-032f795e?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | VP, Sales EMEA | StackAdapt | £147k–221k/yr | Nov 16 | “United Kingdom” | [Details](https://firstmonday.ai/jobs/vp-sales-emea-stackadapt-25900aa1?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Business Development Representative | Thingtrax | £35k–55k/yr | Nov 16 | “Location Home-based; you must live in the UK” | [Details](https://firstmonday.ai/jobs/business-development-representative-thingtrax-a47c1fbd?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| Director, Sales Engineering EMEA | CoreView | – | Nov 21 | “Based in the UK with the right to work in the UK” | [Details](https://firstmonday.ai/jobs/director-sales-engineering-emea-coreview-69ec73a8?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Head of Solutions Consulting | Zafin | – | Nov 20 | “Mode of Work: Remote within Europe” | [Details](https://firstmonday.ai/jobs/head-of-solutions-consulting-zafin-35b9231c?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Sales Engineer | Akuity | – | Nov 20 | “Remote - EMEA” | [Details](https://firstmonday.ai/jobs/sales-engineer-emea-akuity-e868622e?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 
@@ -75,13 +71,17 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 | Technical Support Engineer | MiTek | £40k–50k/yr | Nov 18 | “United Kingdom” | [Details](https://firstmonday.ai/jobs/technical-support-engineer-uk-full-remote-mitek-da264ba3?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Project Manager (German-Speaking) | Arctic Wolf | £34k–97k/yr | Nov 18 | “Remote, Ireland · Remote, United Kingdom” | [Details](https://firstmonday.ai/jobs/project-manager-german-speaking-arctic-wolf-31dab734?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Support Manager | Ashby | £80k–105k/yr | Nov 17 | “Remote - European Union · United Kingdom · Italy · Germany · Denmark…” | [Details](https://firstmonday.ai/jobs/support-manager-ashby-4f468f92?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Senior Program Manager – Incident Coordinator | GitHub | $50–133/hr | Nov 17 | “United Kingdom Remote” | [Details](https://firstmonday.ai/jobs/senior-program-manager-incident-coordinator-github-c02ea129?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Mid-Market Customer Success Manager – EMEA (German speaking) | Ashby | €45k–105k/yr | Nov 16 | “Remote - European Union · United Kingdom” | [Details](https://firstmonday.ai/jobs/mid-market-customer-success-manager-emea-german-speaking-ashby-0dca54e3?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Sr. Mgr, Support | GitHub | – | Nov 20 | “United Kingdom Remote” | [Details](https://firstmonday.ai/jobs/sr-mgr-support-github-94495eed?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Customer Success Manager | Pacvue | – | Nov 20 | “UK Remote” | [Details](https://firstmonday.ai/jobs/customer-success-manager-emea-pacvue-d56a00a5?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Senior Implementation Consultant | IRIS | – | Nov 20 | “Remote, UK (regular travel required)” · Remote unless near an office | [Details](https://firstmonday.ai/jobs/senior-implementation-consultant-iris-5ba58920?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 
 ## Data and AI
 
 | Job | Company | Pay | Posted | Why it's open to the United Kingdom | Details |
 | --- | --- | --- | --- | --- | --- |
-| Data Annotator | Medtronic | £28k–43k/yr | Nov 20 | “This role is fully remote and can be carried out from anywhere…” | [Details](https://firstmonday.ai/jobs/data-annotator-medtronic-a951111d?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Data Annotator | Medtronic | £28k–43k/yr | – | “This role is fully remote and can be carried out from anywhere…” | [Details](https://firstmonday.ai/jobs/data-annotator-medtronic-a951111d?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | AI Tutor, Medicine – Temporary | SpaceXSI | $45–100/hr · US | Nov 18 | “LOCATION: Remote (United States, United Kingdom, Canada, India, and…” | [Details](https://firstmonday.ai/jobs/ai-tutor-medicine-temporary-spacexsi-f552a396?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | AI Tutor, Chemistry – Temporary | SpaceXSI | $45–75/hr · US | Nov 18 | “LOCATION: Remote (United States, United Kingdom, Canada, India, and…” | [Details](https://firstmonday.ai/jobs/ai-tutor-chemistry-temporary-spacexsi-4925500c?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior Data Engineer | Clera | $100k–140k/yr | Nov 18 | “Remote within Europe, including the United Kingdom, Norway…” | [Details](https://firstmonday.ai/jobs/senior-data-engineer-clera-1b814b35?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
@@ -95,18 +95,17 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 | Senior Third Party Risk Manager | Monzo | £85k–115k/yr | Nov 20 | “London · Remote (UK)” · Remote or hybrid, by choice · In the office occasionally (London) | [Details](https://firstmonday.ai/jobs/senior-third-party-risk-manager-monzo-1d61e06a?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | International Expansion Operations Associate | Coinbase | £73k–77k/yr | Nov 19 | “Remote - UK” · In person quarterly | [Details](https://firstmonday.ai/jobs/international-expansion-operations-associate-coinbase-ab7a545b?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Payroll Implementation Officer (SAMpeople) | Arbor Education | Up to £38k/yr | Nov 19 | “Location: Remote, UK” | [Details](https://firstmonday.ai/jobs/payroll-implementation-officer-sampeople-arbor-education-a3b4c639?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Salesforce & Bullhorn Analyst | Reed | £50k–60k/yr | – | “Remote (UK-based) \| Occasional travel to London and Northampton” | [Details](https://firstmonday.ai/jobs/salesforce-bullhorn-analyst-reed-0e696023?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Principal Security Operations Analyst | Huntress Labs | $185k–220k/yr | Nov 18 | “Huntress is looking for a Principal Security Operations Center…” | [Details](https://firstmonday.ai/jobs/principal-security-operations-analyst-huntress-labs-1fe8e210?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| Salesforce & Bullhorn Analyst | Reed | £50k–60k/yr | Nov 18 | “Remote (UK-based) \| Occasional travel to London and Northampton” | [Details](https://firstmonday.ai/jobs/salesforce-bullhorn-analyst-reed-0e696023?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Senior Consultant – Change Manager | Civiteq | £50k–60k/yr | Nov 17 | “United Kingdom” | [Details](https://firstmonday.ai/jobs/senior-consultant-change-manager-civiteq-f3cff6fc?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Programme and Project Management – Senior Consultant | Civiteq | £50k–75k/yr | Nov 11 | “United Kingdom” | [Details](https://firstmonday.ai/jobs/programme-and-project-management-senior-consultant-civiteq-ddb91936?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| Operations & Risk Analyst | Goodlord | – | Nov 20 | “Please note, you must be currently residing in the UK to be…” | [Details](https://firstmonday.ai/jobs/operations-risk-analyst-goodlord-f043b0f5?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Security Governance, Risk and Compliance (GRC) Manager | Canonical | – | Nov 20 | “Location: EMEA or Americas — fully remote (home-based), with the…” | [Details](https://firstmonday.ai/jobs/security-governance-risk-and-compliance-grc-manager-canonical-4cbae0a6?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 
 ## Finance
 
 | Job | Company | Pay | Posted | Why it's open to the United Kingdom | Details |
 | --- | --- | --- | --- | --- | --- |
-| Senior Treasury Product Control Analyst | Monzo | £56k–75k/yr | Nov 19 | “We're also open to distributed working within the UK (with the…” | [Details](https://firstmonday.ai/jobs/senior-treasury-product-control-analyst-monzo-67e9fce2?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Senior Treasury Product Control Analyst | Monzo | £56k–68k/yr | Nov 19 | “We're also open to distributed working within the UK (with the…” | [Details](https://firstmonday.ai/jobs/senior-treasury-product-control-analyst-monzo-67e9fce2?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 
 ## People and HR
 
@@ -116,7 +115,7 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 | HR Advisor | Marie Curie | £30k–35k/yr | Nov 18 | “Location: Home-based (UK). You will work from home with occasional…” | [Details](https://firstmonday.ai/jobs/hr-advisor-marie-curie-936fecc4?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | People Advisor, 9 month FTC | Reach | £32k–35k/yr | Nov 18 | “Remote, United Kingdom” | [Details](https://firstmonday.ai/jobs/people-advisor-9-month-ftc-reach-573e05ae?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | PMO Lead – P&C Transformation | ABB | From €53k/yr | Nov 17 | “This opportunity is open to candidates in one or more countries…” | [Details](https://firstmonday.ai/jobs/pmo-lead-p-c-transformation-abb-4d419b04?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
-| Senior Talent Partner | Primer.io | – | Nov 20 | “United Kingdom · Singapore · South Africa · Ireland” | [Details](https://firstmonday.ai/jobs/senior-talent-partner-gtm-emea-apac-primer-io-45472a35?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Senior Talent Partner (GTM) | Primer.io | – | Nov 20 | “United Kingdom · Singapore · South Africa · Ireland” | [Details](https://firstmonday.ai/jobs/senior-talent-partner-gtm-emea-apac-primer-io-45472a35?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 
 ## Marketing
 
@@ -130,6 +129,7 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 | Fractional Head of Growth | Hertility | £500/day · contract | Nov 18 | “🌍 UK, Remote” | [Details](https://firstmonday.ai/jobs/fractional-head-of-growth-hertility-b46fd8e1?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | International Marketing Specialist (China Market) | Yugo | £28k/yr | Nov 17 | “Location: UK, Remote” | [Details](https://firstmonday.ai/jobs/international-marketing-specialist-china-market-yugo-215980ef?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Community Field Strategist- UK | Huntress Labs | £68k–78k/yr | Nov 16 | “Location: Remote UK” | [Details](https://firstmonday.ai/jobs/community-field-strategist-uk-huntress-labs-c6d325c5?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Principal Technical Marketing Engineer | Zscaler | – | Nov 20 | “Remote - UK” | [Details](https://firstmonday.ai/jobs/principal-technical-marketing-engineer-zscaler-52de0c8f?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 
 ## Product and design
 
@@ -146,9 +146,9 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 
 | Job | Company | Pay | Posted | Why it's open to the United Kingdom | Details |
 | --- | --- | --- | --- | --- | --- |
-| Global HEOR Specialist | Medtronic | £44k–67k/yr | Nov 20 | “This is a remote position based in the United Kingdom.” | [Details](https://firstmonday.ai/jobs/global-heor-specialist-medtronic-f196bcbe?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Sr Director CRP Oncology | Lilly | €93k–160k/yr | Nov 20 | “Italy, Sesto Fiorentino · ES: Spain Remote Alcobendas · UK, Remote ·…” | [Details](https://firstmonday.ai/jobs/sr-director-crp-oncology-lilly-3cf74932?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Global Head, Center for Vaccine Innovation and Access (CVIA) | PATH | $380k–420k/yr | Nov 18 | “This position is approved to be a remote employee where PATH is…” | [Details](https://firstmonday.ai/jobs/global-head-center-for-vaccine-innovation-and-access-cvia-path-dc5eabc4?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
+| Principal Reimbursement Analyst | Medtronic | £76k–115k/yr | Nov 18 | “This remote role may be based in the United Kingdom, France…” | [Details](https://firstmonday.ai/jobs/principal-reimbursement-analyst-medtronic-a6646a26?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Clinical Development Leader | Roche | $138k–257k/yr · US | Nov 16 | “We are able to consider candidates based in Spain, UK or Austria.” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/clinical-development-leader-roche-2376b509?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 | Director, Regional Head, Clinical Trial Liaison | Regeneron | €127k–212k/yr | Nov 16 | “Remote - United Kingdom · Remote - Italy · Remote - France · Remote…” | [Details](https://firstmonday.ai/jobs/director-regional-head-clinical-trial-liaison-germany-regeneron-12d60f17?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48) |
 
@@ -170,6 +170,6 @@ Every job below says, in its own words, that it hires in the United Kingdom. We 
 
 **Get the new remote jobs open to you in the United Kingdom by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48).
 
-Every remote job open to people in the United Kingdom, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/united-kingdom?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in the United Kingdom, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/united-kingdom?utm_source=github&utm_medium=repo&utm_campaign=gbr&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

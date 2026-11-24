@@ -1,10 +1,10 @@
 # 100 best new remote jobs open to people in the Netherlands
 
-Week of Mon 23 Nov 2026 · 100 of 154 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 100 of 150 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in the Netherlands. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 22 · [Sales](#sales) 21 · [Customer success](#customer-success) 5 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 12 · [Finance](#finance) 4 · [People and HR](#people-and-hr) 5 · [Marketing](#marketing) 12 · [Product and design](#product-and-design) 4 · [Healthcare](#healthcare) 6 · [Other](#other) 4
+[Engineering](#engineering) 24 · [Sales](#sales) 23 · [Customer success](#customer-success) 5 · [Data and AI](#data-and-ai) 5 · [Operations](#operations) 10 · [Finance](#finance) 3 · [People and HR](#people-and-hr) 4 · [Marketing](#marketing) 12 · [Product and design](#product-and-design) 4 · [Healthcare](#healthcare) 6 · [Other](#other) 4
 
 ## Engineering
 
@@ -17,7 +17,6 @@ Every job below says, in its own words, that it hires in the Netherlands. We fir
 | Staff Developer Relations Engineer | Chainguard | $151k–178k/yr | Nov 18 | “Europe - Remote · United States - Remote” | [Details](https://firstmonday.ai/jobs/staff-developer-relations-engineer-chainguard-88e8c40a?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Director, GraphAware Engineering | Neo4j | €90k–110k/yr · gross · Italy | Nov 18 | “Based in Italy, Czechia, Spain, the Netherlands or the UK, working…” | [Details](https://firstmonday.ai/jobs/director-graphaware-engineering-neo4j-17515b9a?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior Site Reliability Engineer | Wikimedia Foundation | $116k–181k/yr · US | Nov 17 | “Countries: Brazil, Canada, Colombia, Germany, Ghana, India…” | [Details](https://firstmonday.ai/jobs/senior-site-reliability-engineer-wikimedia-foundation-34dc373f?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Staff Performance Engineer, JavaScript Engine (SpiderMonkey) | Mozilla | €78k–104k/yr | Nov 17 | “Remote Netherlands” | [Details](https://firstmonday.ai/jobs/staff-performance-engineer-javascript-engine-spidermonkey-mozilla-0256d3e0?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Software Engineer, Simulation | AeroVect | $110k–170k/yr | Nov 16 | “We hire remotely from Europe and North America at two levels” | [Details](https://firstmonday.ai/jobs/software-engineer-simulation-aerovect-fdbbb2fd?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Director of Engineering | Nuitée | – | Nov 20 | “Europe (remote)” | [Details](https://firstmonday.ai/jobs/director-of-engineering-nuitee-189edc23?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Product Engineer – Integrations | Kota | – | Nov 20 | “Europe” | [Details](https://firstmonday.ai/jobs/product-engineer-integrations-kota-8406c7eb?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
@@ -26,37 +25,42 @@ Every job below says, in its own words, that it hires in the Netherlands. We fir
 | Release Implementation Engineer | WhiteTech | – | Nov 20 | “Europe” | [Details](https://firstmonday.ai/jobs/release-implementation-engineer-whitetech-367e7d1f?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior Software Engineer, Bot Detection (Client-Side & Signals) | Hugging Face | – | Nov 20 | “Senior Software Engineer, Bot Detection (Client-Side & Signals)…” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-bot-detection-client-side-signals-us-remote-hugging-face-35c749c2?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior Software/Data Engineer, Bot Detection | Hugging Face | – | Nov 20 | “Senior Software/Data Engineer, Bot Detection - EMEA Remote” | [Details](https://firstmonday.ai/jobs/senior-software-data-engineer-bot-detection-us-remote-hugging-face-23dffa0f?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Senior Software Engineer, Search Engine Core | Qdrant | – | Nov 19 | “Remote - EMEA · France · Netherlands · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-search-engine-core-qdrant-fc3987ba?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior/Lead Python Engineer | Mimica | – | Nov 19 | “Remote Anywhere” | [Details](https://firstmonday.ai/jobs/senior-lead-python-engineer-mimica-7584c7bc?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Head of Workplace Engineering | M-KOPA | – | Nov 18 | “Based in Nigeria, Kenya, South Africa, Ghana, Uganda, the UK or the…” | [Details](https://firstmonday.ai/jobs/head-of-workplace-engineering-m-kopa-343f251c?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior DevOps Engineer II | Tabby | – | Nov 18 | “Fully remote setup, work from anywhere in Europe” | [Details](https://firstmonday.ai/jobs/senior-devops-engineer-ii-tabby-12379c75?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior QA Engineer | Trust Wallet | – | Nov 17 | “Remote - Global” | [Details](https://firstmonday.ai/jobs/senior-qa-engineer-trust-wallet-7e5f6844?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Staff Performance Engineer, JavaScript Engine (SpiderMonkey) | Mozilla | – | Nov 17 | “Remote Netherlands” | [Details](https://firstmonday.ai/jobs/staff-performance-engineer-javascript-engine-spidermonkey-mozilla-f4cb1d58?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior Software Engineer – Developer Platform | Alpaca | – | Nov 16 | “Remote - Europe, Americas” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-developer-platform-alpaca-cf285c5d?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Senior Software Engineer, Platform | Qdrant | – | Nov 16 | “Remote - EMEA · France · Netherlands · Spain · Germany” | [Details](https://firstmonday.ai/jobs/senior-software-engineer-platform-qdrant-8c3624a5?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Engineering Manager – Infra | Radiant | – | Nov 16 | “Location: UK / Europe” | [Details](https://firstmonday.ai/jobs/engineering-manager-infra-radiant-03f1def5?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Principal SDET | Radiant | – | Nov 16 | “Location: UK / Europe” | [Details](https://firstmonday.ai/jobs/principal-sdet-radiant-fb6673c1?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 
 ## Sales
 
 | Job | Company | Pay | Posted | Why it's open to the Netherlands | Details |
 | --- | --- | --- | --- | --- | --- |
 | Sales Intern, Italian-Speaking | Clera | €24k–26k/yr | Nov 20 | “Fully remote within Europe.” | [Details](https://firstmonday.ai/jobs/sales-intern-italian-speaking-clera-5f07ae43?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Senior Account Executive (Iberia – Remote) | Duvo | €200k–260k/yr | Nov 19 | “EU/UK - Remote” | [Details](https://firstmonday.ai/jobs/senior-account-executive-iberia-remote-duvo-d02a70e2?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Senior Account Executive (Iberia – Remote) | Duvo | €200k–260k/yr | – | “EU/UK - Remote” | [Details](https://firstmonday.ai/jobs/senior-account-executive-iberia-remote-duvo-d02a70e2?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Director, elluminate Business Development | eClinical Solutions | $125k/yr | Nov 18 | “Remote (EU)” | [Details](https://firstmonday.ai/jobs/director-elluminate-business-development-eclinical-solutions-cc8a0853?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Solutions Consultant (EU) | eClinical Solutions | $116k–145k/yr | Nov 18 | “Remote, EU” | [Details](https://firstmonday.ai/jobs/solutions-consultant-eu-eclinical-solutions-211d389e?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior Enterprise SaaS Sales Executive | Driivz | £148k/yr | – | “Europe” | [Details](https://firstmonday.ai/jobs/senior-enterprise-saas-sales-executive-driivz-312b15c6?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | SDR Manager International | Tremendous | €75k–95k/yr · Spain | Nov 16 | “Europe” | [Details](https://firstmonday.ai/jobs/sdr-manager-international-tremendous-500ea7be?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Head of Solutions Consulting | Zafin | – | Nov 20 | “Mode of Work: Remote within Europe” | [Details](https://firstmonday.ai/jobs/head-of-solutions-consulting-zafin-35b9231c?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Sales Engineer | Akuity | – | Nov 20 | “Remote - EMEA” | [Details](https://firstmonday.ai/jobs/sales-engineer-emea-akuity-e868622e?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Inbound Account Development Representative | Samsara | – | Nov 20 | “This is a remote position open to candidates based in France…” | [Details](https://firstmonday.ai/jobs/inbound-account-development-representative-samsara-b3840770?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Outbound Account Development Representative | Samsara | – | Nov 20 | “We have offices in Paris and Amsterdam, and offer remote working…” | [Details](https://firstmonday.ai/jobs/outbound-account-development-representative-dach-samsara-968138bb?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Sponsorship Sales Manager (Davos 2027) – Elvoro Ltd | Elvoro | – | Nov 20 | “Location: Remote, worldwide (USA/EU preferred)” | [Details](https://firstmonday.ai/jobs/sponsorship-sales-manager-davos-2027-elvoro-ltd-elvoro-fba05289?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Independent Sales Representative – Elvoro Ltd | Elvoro | – | Nov 20 | “Location: Remote, Worldwide (USA/EU preferred)” | [Details](https://firstmonday.ai/jobs/independent-sales-representative-elvoro-ltd-elvoro-f52e3ad1?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Sr Principal Enterprise Solution Consultant | AspenTech | – | Nov 20 | “Netherlands (Home Office) · Germany (Home Office) · United Kingdom…” | [Details](https://firstmonday.ai/jobs/sr-principal-enterprise-solution-consultant-aspentech-44534dbc?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Sales Manager Benelux | SCJ Professional Candidate Home | – | Nov 20 | “Location: Netherlands or Belgium (Home-Based)” | [Details](https://firstmonday.ai/jobs/sales-manager-benelux-scj-professional-candidate-home-3b3fc47c?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Presales Manager, Solutions Consulting | Palo Alto Networks | – | Nov 20 | “Amsterdam, Netherlands · Remote - Netherlands · Rotterdam…” | [Details](https://firstmonday.ai/jobs/presales-manager-solutions-consulting-palo-alto-networks-09ee9e77?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Head of Global Enterprise Renewals | n8n | – | Nov 19 | “Berlin, Germany · Bosnia · Norway · Estonia · Latvia · Slovenia ·…” | [Details](https://firstmonday.ai/jobs/head-of-global-enterprise-renewals-emea-remote-n8n-7d9f4fae?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | New Business Account Executive | GitLab | – | Nov 19 | “Remote \| Hiring in the Netherlands, Sweden or UK” | [Details](https://firstmonday.ai/jobs/new-business-account-executive-nordics-gitlab-99137ddd?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Enterprise Account Executive | Jamf | – | Nov 19 | “This role is offered in The Netherlands only, preferably for…” | [Details](https://firstmonday.ai/jobs/enterprise-account-executive-jamf-c4a7daaf?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | EMEA Sales Manager, MP Plastics | lsi | – | – | “Location: Remote, Europe” | [Details](https://firstmonday.ai/jobs/emea-sales-manager-mp-plastics-lsi-21924e03?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Regional MSP Partner Manager | Everpure | – | Nov 18 | “Remote, Netherlands” | [Details](https://firstmonday.ai/jobs/regional-msp-partner-manager-benelux-everpure-544d5dcf?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Sales Team Manager | ThriveCart | – | Nov 17 | “Remote - US / EU” | [Details](https://firstmonday.ai/jobs/sales-team-manager-thrivecart-1266fa6c?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Cloud Native Architect, Strategic Accounts | Everpure | – | Nov 17 | “Remote, France · Remote, Germany · Remote, Netherlands · Remote…” | [Details](https://firstmonday.ai/jobs/cloud-native-architect-strategic-accounts-everpure-f08ddf01?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| Regional MSP Partner Manager | Everpure | – | Nov 16 | “Remote, Netherlands” | [Details](https://firstmonday.ai/jobs/regional-msp-partner-manager-emea-south-paris-everpure-6ae56c96?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | SMS Routing Specialist / Telecom Traffic Analyst | Scarpel Telecom | – | Nov 16 | “Worldwide” | [Details](https://firstmonday.ai/jobs/sms-routing-specialist-telecom-traffic-analyst-scarpel-telecom-5fefedd2?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 
 ## Customer success
@@ -85,10 +89,8 @@ Every job below says, in its own words, that it hires in the Netherlands. We fir
 | --- | --- | --- | --- | --- | --- |
 | Principal Security Operations Analyst | Huntress Labs | $185k–220k/yr | Nov 18 | “Huntress is looking for a Principal Security Operations Center…” | [Details](https://firstmonday.ai/jobs/principal-security-operations-analyst-huntress-labs-1fe8e210?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Security Governance, Risk and Compliance (GRC) Manager | Canonical | – | Nov 20 | “Location: EMEA or Americas — fully remote (home-based), with the…” | [Details](https://firstmonday.ai/jobs/security-governance-risk-and-compliance-grc-manager-canonical-4cbae0a6?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Senior Data Center Director | Kapres Technology, S.L. | – | Nov 20 | “The position is remote within Europe.” | [Details](https://firstmonday.ai/jobs/senior-data-center-director-kapres-technology-f36a1d9a?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Onshore Wind Portfolio EHS Leader | GE Vernova | – | Nov 20 | “Residence in the EMEA region and ability to travel 50–60% of the time.” | [Details](https://firstmonday.ai/jobs/onshore-wind-portfolio-ehs-leader-north-central-europe-ge-vernova-e9b2399d?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Planning & Fulfilment Manager for Building Automation BL | ABB | – | Nov 20 | “Potential hiring locations: Europe” | [Details](https://firstmonday.ai/jobs/planning-fulfilment-manager-for-building-automation-bl-abb-0481d6b8?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Service Delivery Automation Analyst | Oyster | – | Nov 19 | “To create the best experience for our new hire, this role requires…” | [Details](https://firstmonday.ai/jobs/service-delivery-automation-analyst-oyster-59470c48?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Chief of Staff to the COO | B2X Care Solutions | – | Nov 18 | “Remote from anywhere in the EU” | [Details](https://firstmonday.ai/jobs/chief-of-staff-to-the-coo-b2x-3bc8909c?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Marketplace Operations | ElevenLabs | – | Nov 17 | “United Kingdom · Ireland · Australia · United States · Japan · Italy…” | [Details](https://firstmonday.ai/jobs/marketplace-operations-elevenlabs-16dcadf0?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | RevOps Manager, Partner Operations & Deal Desk | Neptune Software AS | – | Nov 17 | “Remote anywhere in EMEA” | [Details](https://firstmonday.ai/jobs/revops-manager-partner-operations-deal-desk-neptune-software-fce2e361?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
@@ -100,7 +102,6 @@ Every job below says, in its own words, that it hires in the Netherlands. We fir
 
 | Job | Company | Pay | Posted | Why it's open to the Netherlands | Details |
 | --- | --- | --- | --- | --- | --- |
-| Finance Business Partner | Aceve | – | Nov 20 | “Stockholm · Europe” | [Details](https://firstmonday.ai/jobs/finance-business-partner-aceve-0e705275?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior Accountant | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/senior-accountant-saas-group-f2c68545?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Accounting Manager | saas.group | – | Nov 19 | “Remote, Europe” | [Details](https://firstmonday.ai/jobs/accounting-manager-saas-group-821f2742?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | FP&A Manager | Wire Swiss | – | Nov 19 | “Working Location: Remote within Europe, with travel to our Berlin…” | [Details](https://firstmonday.ai/jobs/fp-a-manager-wire-755d9a41?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
@@ -110,7 +111,6 @@ Every job below says, in its own words, that it hires in the Netherlands. We fir
 | Job | Company | Pay | Posted | Why it's open to the Netherlands | Details |
 | --- | --- | --- | --- | --- | --- |
 | Senior Director, Compensation & Benefits | MetaMask | $209k–302k/yr · US | Nov 19 | “UNITED STATES - Remote, EMEA - Remote” | [Details](https://firstmonday.ai/jobs/senior-director-compensation-benefits-metamask-d629740d?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Recruiter | All Your BI | €48k–61k/yr · gross | Nov 18 | “Remote-first, anywhere in the EU/EEA” | [Details](https://firstmonday.ai/jobs/recruiter-all-your-bi-4a5af290?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | PMO Lead – P&C Transformation | ABB | From €53k/yr | Nov 17 | “This opportunity is open to candidates in one or more countries…” | [Details](https://firstmonday.ai/jobs/pmo-lead-p-c-transformation-abb-4d419b04?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Talent Acquisition Partner · Remote-First Scale-up · Permanent | Kyra | – | Nov 18 | “Location: Remote-first, based in Europe.” | [Details](https://firstmonday.ai/jobs/talent-acquisition-partner-remote-first-scale-up-permanent-kyra-4e953fb4?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Talent Operations Specialist | Dataiku | – | Nov 16 | “Netherlands, Remote” | [Details](https://firstmonday.ai/jobs/talent-operations-specialist-dataiku-d7ca7670?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
@@ -137,7 +137,7 @@ Every job below says, in its own words, that it hires in the Netherlands. We fir
 | Job | Company | Pay | Posted | Why it's open to the Netherlands | Details |
 | --- | --- | --- | --- | --- | --- |
 | Langfuse – Product Designer | ClickHouse | $142k–216k/yr | Nov 20 | “Germany · Poland · Portugal · France · United Kingdom · Spain ·…” | [Details](https://firstmonday.ai/jobs/langfuse-product-designer-clickhouse-9f64d4e6?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
-| Graphic & UI Designer | Cascination Ag | – | Nov 20 | “Location: Remote (Netherlands), with regular meetups in the…” | [Details](https://firstmonday.ai/jobs/graphic-ui-designer-cascination-19226e17?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
+| UI & Graphic Designer | Cascination Ag | – | Nov 20 | “Location: Remote (Netherlands), with regular meetups in the…” | [Details](https://firstmonday.ai/jobs/graphic-ui-designer-cascination-19226e17?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Senior UI Artist | People Can Fly | – | Nov 19 | “The role is open to candidates only from the game industry who are…” | [Details](https://firstmonday.ai/jobs/senior-ui-artist-people-can-fly-1d4777cc?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 | Growth Product Manager | Boosta | – | Nov 18 | “Remote, Europe · Remote, Ukraine” | [Details](https://firstmonday.ai/jobs/growth-product-manager-boosta-a86081c9?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48) |
 
@@ -165,6 +165,6 @@ Every job below says, in its own words, that it hires in the Netherlands. We fir
 
 **Get the new remote jobs open to you in the Netherlands by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48).
 
-Every remote job open to people in the Netherlands, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/netherlands?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in the Netherlands, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/netherlands?utm_source=github&utm_medium=repo&utm_campaign=nld&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).

@@ -1,10 +1,10 @@
-# 80 best new remote jobs open to people in Australia
+# 77 best new remote jobs open to people in Australia
 
-Week of Mon 23 Nov 2026 · 80 of 87 open · from employers' own job boards
+Week of Mon 23 Nov 2026 · 77 of 84 open · from employers' own job boards
 
 Every job below says, in its own words, that it hires in Australia, or anywhere: those come last in each section. We first saw them in the 7 days before Monday, and they were still open when this list was made. The company decides in the end, so read its post before you apply.
 
-[Engineering](#engineering) 20 · [Sales](#sales) 13 · [Customer success](#customer-success) 6 · [Data and AI](#data-and-ai) 4 · [Operations](#operations) 6 · [People and HR](#people-and-hr) 2 · [Marketing](#marketing) 13 · [Healthcare](#healthcare) 5 · [Education](#education) 4 · [Other](#other) 7
+[Engineering](#engineering) 20 · [Sales](#sales) 13 · [Customer success](#customer-success) 4 · [Data and AI](#data-and-ai) 4 · [Operations](#operations) 6 · [People and HR](#people-and-hr) 2 · [Marketing](#marketing) 13 · [Healthcare](#healthcare) 4 · [Education](#education) 4 · [Other](#other) 7
 
 ## Engineering
 
@@ -53,9 +53,7 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 
 | Job | Company | Pay | Posted | Why it's open to Australia | Details |
 | --- | --- | --- | --- | --- | --- |
-| Account Manager II | StackAdapt | A$108k–149k/yr | Nov 19 | “Australia · Sydney” | [Details](https://firstmonday.ai/jobs/account-manager-ii-stackadapt-bd56fd97?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
 | Senior Program Manager – Incident Coordinator | GitHub | $50–133/hr | Nov 17 | “In this role you can work from Remote, Australia” | [Details](https://firstmonday.ai/jobs/senior-program-manager-incident-coordinator-github-c02ea129?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
-| Technical Account Manager | Wiz | – | Nov 18 | “Remote - Australia” | [Details](https://firstmonday.ai/jobs/technical-account-manager-anz-wiz-d975114d?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
 | Trader Support Specialist | Tradeify | – | Nov 17 | “Remote – APAC” | [Details](https://firstmonday.ai/jobs/trader-support-specialist-tradeify-7b958015?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
 | Technical Support Engineer | Laravel | – | Nov 17 | “Technical Support Engineer (APAC)” | [Details](https://firstmonday.ai/jobs/technical-support-engineer-laravel-b9d24578?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
 | Customer Success Director (Part-time, Remote) | Moontech | – | Nov 16 | “Location: Remote (global)” | [Details](https://firstmonday.ai/jobs/customer-success-director-part-time-remote-moontech-13332eb4?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
@@ -112,8 +110,7 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 | Nurse Practitioner | Montu | A$140k–160k/yr | Nov 18 | “Join us in an Australia-based, 100% remote role where exceptional…” | [Details](https://firstmonday.ai/jobs/nurse-practitioner-montu-b9247c01?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
 | In-House CRA | Alimentiv | – | Nov 20 | “In-House CRA ( Australia)” | [Details](https://firstmonday.ai/jobs/in-house-cra-australia-alimentiv-679759bc?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
 | Senior Clinical Research Associate | GenesisCare | – | Nov 20 | “This is a remote Australia-based opportunity, with travel required…” | [Details](https://firstmonday.ai/jobs/senior-clinical-research-associate-genesiscare-4dd32703?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
-| Sr. Country Regulatory Specialist | Syneos Health | – | Nov 19 | “AUS-Remote” | [Details](https://firstmonday.ai/jobs/sr-country-regulatory-specialist-syneos-health-27dc10ff?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
-| Clinical Project Coordinator | ProPharma | – | Nov 16 | “you will work remotely within Australia” · Remote or hybrid, by choice | [Details](https://firstmonday.ai/jobs/clinical-project-coordinator-propharma-01920f22?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
+| Sr. Country Regulatory Specialist | Syneos Health | – | – | “AUS-Remote” | [Details](https://firstmonday.ai/jobs/sr-country-regulatory-specialist-syneos-health-27dc10ff?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48) |
 
 ## Education
 
@@ -140,6 +137,6 @@ Every job below says, in its own words, that it hires in Australia, or anywhere:
 
 **Get the new remote jobs open to you in Australia by email every Monday:** [sign up for the weekly list](https://firstmonday.ai/weekly?from=github&utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48).
 
-Every remote job open to people in Australia, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/australia?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48). [All 21 countries](../README.md) · [How we pick](../README.md#how-we-pick)
+Every remote job open to people in Australia, not only this week's: [firstmonday.ai](https://firstmonday.ai/jobs/australia?utm_source=github&utm_medium=repo&utm_campaign=aus&utm_content=2026-w48). [All 23 countries](../README.md) · [How we pick](../README.md#how-we-pick)
 
 © First Monday. All rights reserved: you may link to this list and quote it with attribution (see [LICENSE](../LICENSE)).
