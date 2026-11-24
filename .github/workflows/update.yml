@@ -26,9 +26,10 @@ jobs:
       FILES: >-
         README.md
         united-states/README.md canada/README.md united-kingdom/README.md ireland/README.md germany/README.md
-        netherlands/README.md belgium/README.md austria/README.md switzerland/README.md sweden/README.md
-        denmark/README.md norway/README.md finland/README.md poland/README.md spain/README.md portugal/README.md
-        australia/README.md new-zealand/README.md mexico/README.md brazil/README.md india/README.md
+        netherlands/README.md belgium/README.md france/README.md austria/README.md switzerland/README.md
+        sweden/README.md denmark/README.md norway/README.md finland/README.md poland/README.md spain/README.md
+        italy/README.md portugal/README.md australia/README.md new-zealand/README.md mexico/README.md
+        brazil/README.md india/README.md
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
